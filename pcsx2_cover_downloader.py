@@ -15,7 +15,7 @@ def serial_list(): #Get game serial
         path = os.path.dirname(os.path.realpath(sys.executable))
     elif __file__:
         path = os.path.dirname(__file__)
-    with open(f'{path}\cache\gamelist.cache', encoding='ansi') as file:
+    with open(f'{path}\cache\gamelist.cache', errors='ignore') as file:
         regex = re.compile('(\w{4}-\d{5})').findall(file.read())
         serial_list = list(dict.fromkeys(regex))
         print('[LOG]:',colored(f'Found {len(serial_list)} games','green'))
