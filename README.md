@@ -1,10 +1,10 @@
 ## PCSX2 Cover Downloader  
-![](https://i.imgur.com/RhmZPxw.png)  
+![](https://i.imgur.com/TJ7R7cJ.png)  
 
 ## How to use  
 
-- Download pcsx2_cover_downloader.py/.exe and GameIndex.json
-- Put those files in your PCSX2 Folder
+- Download pcsx2_cover_downloader.exe
+- Put pcsx2_cover_downloader.exe in your PCSX2 Folder
 - Run
 
 ## Credits
