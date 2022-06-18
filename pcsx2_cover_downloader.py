@@ -17,6 +17,7 @@
 """
 
 
+from msilib.schema import Directory
 import re
 from time import sleep
 from urllib.error import HTTPError
@@ -29,7 +30,7 @@ import os, sys
 
 COVERS_URL = 'https://github.com/LouiseSulyvahn/PCSX2_Cover_Downloader/raw/main/covers/'
 VERSION_URL = 'https://raw.githubusercontent.com/LouiseSulyvahn/PCSX2_Cover_Downloader/main/version'
-VERSION = 1.3
+VERSION = 1.4
 
 
 def path():
@@ -83,6 +84,8 @@ def serial_to_name(name_list, serial:str):  # Get game name using serial
 
 
 def download_covers(serial_list:list, name_list):  # Download Covers
+    if os.path.exists(f'{path()}\covers') == False:
+        os.makedirs(f'{path()}\covers')
     existing_cover = existing_covers()
     for i in range(len(serial_list)):
         game_serial = serial_list[i]
@@ -94,17 +97,18 @@ def download_covers(serial_list:list, name_list):  # Download Covers
                     urllib.request.urlretrieve(f'{COVERS_URL}{game_serial}.jpg', f'covers/{game_serial}.jpg')
                     sleep(1)
                 except HTTPError:
-                    print('[WARNING]:', colored(f'{game_serial} | {game_name} Not found. Report it in GitHub please...', 'yellow'))
+                    print('[WARNING]:', colored(f'{game_serial} | {game_name} Not found. Skipping...', 'yellow'))
             else:
-                print('[WARNING]:', colored(f'{game_serial} | {game_name} already exist in \covers. Skipping...', 'yellow'))
+                print('[WARNING]:', colored(f'{game_serial} | {game_name} already exist in /covers. Skipping...', 'yellow'))
 
 
 def run():
     check_version()
     download_covers(serial_list(), name_list())
-    print('[LOG]:', colored(f'Done!', 'green'))
+    print('[LOG]:', colored(f'Done!, please report Not found | Low quality | Wrong covers in GitHub.', 'green'))
     input()
 
 
+os.system(f'title PCSX2 Cover Downloader {VERSION}')
 init()
 run()
