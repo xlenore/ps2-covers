@@ -1,5 +1,3 @@
-###This list was generated using PCSX2's GameIndex.yaml
-
 CPCS-01020  ---  Monster Hunter 2 [DX Hunters Box]
 GUST-00009  ---  Mana Khemia - Alchemists of Al-Revis [Premium Box]
 PAPX-90215  ---  Ka [Trial]
