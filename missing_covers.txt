@@ -1964,5 +1964,3 @@ TLES-52940  ---  S.L.A.I. Phantom Crash Beta Trial Code
 TLES-53544  ---  Pro Evolution Soccer 5 Beta Trial Code
 TLES-54240  ---  FIFA 07 Beta Trial Code
 TLES-82043  ---  Metal Gear Solid Subsistence Beta Trial Code
-VW067-J1  ---  Crash Bandicoot 4 - Sakuretsu! Majin Power!
-VW067-J2  ---  Crash Bandicoot 4 - Sakuretsu! Majin Power! [PlayStation 2 The Best]

@@ -31,7 +31,7 @@
 | TCES | 0/12 | 0.00% |
 | TCPS | 17/36 | 47.22% |
 | TLES | 0/8 | 0.00% |
-| VW067 | 0/2 | 0.00% |
+| VW067 | 2/2 | 100.00% |
 
 ## PCSX2 setup
 PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
