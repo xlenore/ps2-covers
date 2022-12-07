@@ -1,5 +1,8 @@
 *⭐**Star this repo if it was useful to you**⭐*
 
+- [PS2 Covers](https://github.com/xlenore/ps2-covers#ps2-covers "PS2 Covers")
+- [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup "PCSX2 Setup")
+
 ## PS2 Covers
 | Serial |  Available/Total |  Percentage  |
 | ------ |  --------------- |  ----------  |
