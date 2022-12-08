@@ -2,6 +2,7 @@
 
 - [PS2 Covers](https://github.com/xlenore/ps2-covers#ps2-covers "PS2 Covers")
 - [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup "PCSX2 Setup")
+- [PCSX2 Cover Downloader](https://github.com/xlenore/ps2-covers#PCSX2-Cover-Downloader)
 
 ## PS2 Covers
 | Serial |  Available/Total |  Percentage  |
@@ -46,6 +47,16 @@ PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
 - Enjoy :)
 
 [![](https://i.imgur.com/jTGL0HH.gif)](https://i.imgur.com/jTGL0HH.gif)
+
+## PCSX2 Cover Downloader
+This is an alternative in case you don't want to be copying and pasting the repository url every time you want to download a cover.
+- Download [PCSX2 Cover Downloader.exe](https://raw.githubusercontent.com/xlenore/ps2-covers/main/PCSX2-cover-downloader/PCSX2 cover downloader.exe "PCSX2 Cover Downloader.exe") | ([Source Code](https://raw.githubusercontent.com/xlenore/ps2-covers/main/PCSX2-cover-downloader/PCSX2 cover downloader.py "Source Code"))
+- Put **PCSX2 Cover Downloader.exe** in your PCSX2 Folder
+- Run the App every time you want to download covers
+- Enjoy :)
+
+[![](https://i.imgur.com/TJ7R7cJ.png)](https://i.imgur.com/TJ7R7cJ.png)
+
 
 
 ## Credits
