@@ -29,7 +29,7 @@
 | SLED | 0/52 | 0.00% |
 | SLES | 2876/3069 | 93.71% |
 | SLKA | 168/261 | 64.37% |
-| SLPM | 2380/2728 | 87.24% |
+| SLPM | 2410/2728 | 88.34% |
 | SLPS | 1129/1288 | 87.66% |
 | SLUS | 1720/1944 | 88.48% |
 | TCES | 0/12 | 0.00% |
@@ -61,5 +61,6 @@ This is an alternative in case you don't want to be copying and pasting the repo
 ## Credits
 * pcsx2.net
 * psxdatacenter.com
+* gvcover.top
 * imkira3
 * waifu2x

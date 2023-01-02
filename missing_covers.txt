@@ -1177,7 +1177,6 @@ SLPM-60138  ---  Klonoa 2 - Lunatea's Veil [Trial]
 SLPM-60167  ---  Zero [Trial]
 SLPM-60149  ---  Ace Combat 04 - Shattered Skies [Trial]
 SLPM-60172  ---  Itadaki Street 3 - Okuman Chouja ni Shiteageru
-SLPM-60207  ---  Rockman X7
 SLPM-60216  ---  R - Racing Evolution [Trial]
 SLPM-60239  ---  Katamari Damacy [Trial]
 SLPM-60243  ---  Full House Kiss [Trial]
@@ -1185,7 +1184,6 @@ SLPM-60246  ---  Burnout 3 - Takedown [Trial]
 SLPM-60251  ---  Devil May Cry 3 [Trial Version]
 SLPM-60254  ---  Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi [Trial A]
 SLPM-60256  ---  Dengeki D73 demo
-SLPM-60257  ---  Death by Degrees
 SLPM-60260  ---  D1 Professional Drift Grand Prix Series [Taikenban]
 SLPM-60265  ---  10th Anniversary PlayStation & PlayStation 2 All-Soft Catalogue Special SaveData Collection [PS2 Disc]
 SLPM-60266  ---  Ponkotsu Roman Daikatsugeki Bumpy Trot [Trial]
@@ -1220,8 +1218,6 @@ SLPM-62025  ---  PrintFan
 SLPM-62037  ---  Chou Kousoku Igo
 SLPM-62039  ---  Chou Kousoku Shougi
 SLPM-62054  ---  Eternity Master V
-SLPM-62092  ---  XG3 Extreme G Racing
-SLPM-62112  ---  Itadaki Street 3
 SLPM-62121  ---  ESPN NBA 2Night 2002
 SLPM-62132  ---  Internet Othello - Othello World 24
 SLPM-62134  ---  Final Fantasy XI [Beta Edition]
@@ -1231,57 +1227,31 @@ SLPM-62138  ---  Psyvariar Complete Edition [Special Capture Box]
 SLPM-62140  ---  Cyber Jansou - Toufuusou-hen
 SLPM-62141  ---  Eisei Meijin VI - Tsuushin Shougi Club
 SLPM-62146  ---  Chou Kousoku Mahjong Plus
-SLPM-62150  ---  Simple 2000 Series Vol. 3 - The Bass Fishing
-SLPM-62164  ---  Generation of Chaos - Next
 SLPM-62169  ---  Live World Soccer 2002
 SLPM-62170  ---  Internet Mahjong - Toufuusou de Asobou
 SLPM-62177  ---  Kuusen [Kadokawa The Best]
-SLPM-62185  ---  San Goku Shi VII
-SLPM-62186  ---  Get Backers - The Stolen City of Infinite
-SLPM-62196  ---  Simple 2000 Series Vol. 6 - The Snowboard
 SLPM-62206  ---  Growlanser 2 [Atlus The Best]
-SLPM-62213  ---  Ultimate Fighting Championship 2 - Tap-Out
 SLPM-62216  ---  Ever Blue [CapKore The Best]
 SLPM-62217  ---  J League Winning Eleven 6
-SLPM-62218  ---  Simple 2000 Series Vol. 10 - The Table Game Sekai-Hen
-SLPM-62223  ---  Simple 2000 Series Vol. 11 - The Off-Road Buggy
-SLPM-62225  ---  Nobunaga no Yabou Arashi Seiki [with Power-Up Kit]
-SLPM-62229  ---  Super Puzzle Bobble 2
-SLPM-62230  ---  Silent Scope 3
 SLPM-62235  ---  GetBass Battle
 SLPM-62236  ---  Power Smash 2
 SLPM-62237  ---  Gakuen Toshi Vara Noir [Limited Edition]
-SLPM-62238  ---  Gakuen Toshi Vara Noir
 SLPM-62239  ---  Supercar Street Challenge
-SLPM-62244  ---  Choro Q HG 3
-SLPM-62248  ---  Simple 2000 Series Ultimate Vol. 5 - Love - Mahjong!
-SLPM-62251  ---  Simple 2000 Series Vol. 14 - The Billiard
-SLPM-62253  ---  Simple 2000 Series Vol. 16 - The Sniper
 SLPM-62256  ---  Super Trucks
 SLPM-62261  ---  DogStation
 SLPM-62265  ---  Power Smash 2
-SLPM-62271  ---  Simple 2000 Series Vol. 20 - The Dungeon RPG
 SLPM-62280  ---  Winning Post 5 Maximum 2002 [Premium Pack]
 SLPM-62287  ---  Fire Pro Wrestling Z [Limited Edition]
 SLPM-62290  ---  TV Kuraemon
-SLPM-62293  ---  Magical Pachinko Cotton - Pachinko Jikki Simulation
-SLPM-62294  ---  Simple 2000 Series Vol. 21 - The Moonlight Tale RPG
 SLPM-62299  ---  Winback [Koei The Best]
 SLPM-62300  ---  Horse Breaker [Koei The Best]
 SLPM-62302  ---  Eisei Meijin 7 - Tsuushin Shougi Club
 SLPM-62305  ---  Othello [SuperLite 2000]
-SLPM-62309  ---  Simple 2000 Series Vol. 25 - The Menkyo Shutoku Simulation
-SLPM-62313  ---  Simple 2000 Series Vol. 23 - The Puzzle Collection 2000-mon
 SLPM-62316  ---  Table Mahjong [Superlite 2000 Series]
-SLPM-62320  ---  2003-nen Kaimaku - Ganbare Kyuukai-ou - Iwayuru Pro Yakyuu desu ne
 SLPM-62323  ---  AI Shougi 2003
-SLPM-62328  ---  Simple 2000 Series Vol. 27 - The Pro Yakyuu 2003 Pennant Race
 SLPM-62329  ---  AI Igo 2003
 SLPM-62330  ---  AI Mahjong 2003
-SLPM-62337  ---  Simple 2000 Series Vol. 30 - The Basketball - 3-on-3
 SLPM-62338  ---  Ishikura Noboru no Igo Kouza
-SLPM-62345  ---  Simple 2000 Series Vol. 32 - The Sensha
-SLPM-62352  ---  Simple 2000 Series Vol. 40 - The Touyou Sandai Senjutsu
 SLPM-62369  ---  Karaoke Revolution - J-Pop Vol.1
 SLPM-62371  ---  Psyvariar Revision [Superlite 2000 Series]
 SLPM-62374  ---  Simple 2000 Series Ultimate Vol. 12 - Street Golfer
