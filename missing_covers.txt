@@ -1158,31 +1158,17 @@ SLKA-25480  ---  World Soccer Winning Eleven 2012
 SLKA-35005  ---  Shin Sangoku Musou 5 Special
 SLPM-20391  ---  Saiyuki Gunlock
 SLPM-20436  ---  Sakigake!! Otokojuku
-SLPM-55015  ---  Yotsunoha - A Journey of Sincerity [Limited Edition]
-SLPM-55016  ---  Yotsunoha - A Journey of Sincerity
-SLPM-55060  ---  D.Gray-man - Sousha no Shikaku
 SLPM-55062  ---  Jikkyou Powerful Major League 3
-SLPM-55065  ---  Kamiyo Gakuen Makorouku Kurunugia
-SLPM-55070  ---  Yumemi Hakusho - Second Dream [Limited Edition]
-SLPM-55071  ---  Yumemi Hakusho - Second Dream
 SLPM-55081  ---  Drag-on Dragoon 2 - Fuuin no Aka, Haitoku no Kuro [Ultimate Hits]
 SLPM-55092  ---  Grand Theft Auto - San Andreas [Best Price]
-SLPM-55114  ---  Mana Khemia 2 - Ochita Gakuen to Renkinjutsushi Tachi
-SLPM-55118  ---  Galaxy Angel II - Eigou Kaiki no Koku [Disc1of2]
-SLPM-55119  ---  Galaxy Angel II - Eigou Kaiki no Koku [Disc2of2]
 SLPM-55127  ---  Need for Speed - Undercover
-SLPM-55156  ---  D.C.I.F. - Da Capo Innocent Finale
-SLPM-55157  ---  Sangokushi X
 SLPM-55158  ---  Pro Yakyuu Spirits 6
-SLPM-55191  ---  L2 - Love x Loop
 SLPM-55209  ---  World Soccer Winning Eleven 2010
 SLPM-55211  ---  Pachislot Higurashi no Naku Koro ni Matsuri
 SLPM-55244  ---  Need for Speed - Undercover [Ea-SY! 1980]
 SLPM-55252  ---  Pro Yakyuu Spirits 2010
 SLPM-55268  ---  Nobunaga no Yabou - Kakushin with Power-Up Kit [Koei Tecmo the Best]
-SLPM-55288  ---  Shin Koihime Musou - Otome Ryouran - Sangokushi Engi
 SLPM-55292  ---  Grand Theft Auto - San Andreas [Rockstar Classics]
-SLPM-55298  ---  Final Fantasy XI - Adoulin no Makyou
 SLPM-60123  ---  Gekikuukan Pro Baseball - The End of the Century 1999 [Trial]
 SLPM-60124  ---  Shadow Hearts II [Demo]
 SLPM-60125  ---  GI Jockey 2 [Demo]
