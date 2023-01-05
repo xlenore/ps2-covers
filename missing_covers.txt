@@ -1598,15 +1598,11 @@ SLPS-73416  ---  Super Robot Wars - Impact [PlayStation 2 The Best]
 SLPS-73422  ---  Ultraman Fighting Evolution 2 [PlayStation 2 The Best]
 SLPS-73423  ---  Monster Farm 4 [PlayStation 2 The Best]
 SLPS-73901  ---  Xenosaga Episode 1 - Der Wille zur Macht [PlayStation 2 The Best]
-SLUS-20009  ---  Surfing - H30
-SLUS-20139  ---  Simpsons, The - Road Rage
-SLUS-20157  ---  Haven - Call of the King
 SLUS-20444  ---  Tankers
 SLUS-20466  ---  Gravenville - Ghost Master
 SLUS-20526  ---  RockSteady ~~UNRELEASED~~
 SLUS-20544  ---  Malice
 SLUS-20699  ---  Cowboy Bebop - Tsuioku no Serenade
-SLUS-20754  ---  NASCAR Thunder 2004
 SLUS-20798  ---  Starcraft - Ghost
 SLUS-20813  ---  Plague of Darkness
 SLUS-20897  ---  Swords of Yi
@@ -1629,9 +1625,6 @@ SLUS-21651  ---  Noddy and the Magic Book
 SLUS-21654  ---  Kane & Lynch - Dead Men [Sneak Preview]
 SLUS-21696  ---  Ford Racing - Off Road
 SLUS-21713  ---  Winter Sports 2008 - The Ultimate Challenge
-SLUS-21777  ---  NBA Live '09
-SLUS-21897  ---  Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon
-SLUS-21924  ---  Guitar Hero - Van Halen
 SLUS-27029  ---  Disney Sing It [Bundle]
 SLUS-27030  ---  High School Musical 3 - Senior Year DANCE! [w-Mat]
 SLUS-27034  ---  Disney Sing It! High School Musical 3 - Senior Year
@@ -1796,7 +1789,6 @@ SLUS-29163  ---  NCAA March Madness '06 [Demo]
 SLUS-29164  ---  Star Wars Battlefront II [Online Public Beta]
 SLUS-29167  ---  007 - From Russia with Love, Need for Speed - Most Wanted, SSX World Tour [Demo]
 SLUS-29168  ---  007 - From Russia with Love [Demo]
-SLUS-29169  ---  Resident Evil 4 [Demo]
 SLUS-29170  ---  Total Overdose - A Gunslinger's Tale in Mexico [Demo]
 SLUS-29171  ---  Final Fantasy XII [Demo]
 SLUS-29172  ---  Battlefield 2 - Modern Combat [Demo]
