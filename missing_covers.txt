@@ -1350,17 +1350,11 @@ SLPM-65451  ---  Prince of Tennis - Smash Hit! 2 [First Limited Edition]
 SLPM-65460  ---  Conflict Delta - Wangan War 1991
 SLPM-65474  ---  Kurogane no Houkou 2 - Warship Commander [Limited Edition]
 SLPM-65505  ---  Cool Girl [Limited Edition] [Disc2of2]
-SLPM-65522  ---  Bakushou!! Jinsei Kaidou - Nova Usagi ga Miteru zo!!
 SLPM-65533  ---  Pyu to Fuku! Jaguar Ashita no Japan
-SLPM-65540  ---  Galaxy Angel - Moonlit Lovers [First Limited Edition]
 SLPM-65543  ---  Pro Yakyuu Spirits 2004
-SLPM-65556  ---  Nobunaga no Yabou - Tenka Sousei
 SLPM-65561  ---  Shin Sangoku Musou 3 [Super Premium Pack]
 SLPM-65571  ---  Generation of Chaos 4 [Limited Edition]
-SLPM-65604  ---  Anime Battle - Rekka no Honoo - Flame of Recca - Final Burning
 SLPM-65612  ---  Harry Potter to Azkaban no Shuujin
-SLPM-65613  ---  Yu-Gi-Oh! Capsule Monster Coliseum
-SLPM-65633  ---  I Love Baseball - Pro Yakyuu wo Koyonaku Aisuru Hito Tachi e
 SLPM-65647  ---  Yu-Gi-Oh! 2 [Konami Dendou Collection]
 SLPM-65666  ---  NBA Live 2004 [EA Best Hits]
 SLPM-65677  ---  Prince of Tennis - Smash Hit! [Konami The Best]
@@ -1370,8 +1364,6 @@ SLPM-65697  ---  Shrek 2
 SLPM-65702  ---  Sangokushi Senki [Koei Collection Series]
 SLPM-65716  ---  Gaika no Gouhou - Air Land Force [Koei The Best]
 SLPM-65720  ---  Shin Sangoku Musou 2 Mushoden [Koei the Best]
-SLPM-65756  ---  Tennis no Oji-Sama - Rush & Dream
-SLPM-65799  ---  New Jinsei Game
 SLPM-65804  ---  European Club Soccer - Winning Eleven Tactics
 SLPM-65850  ---  Harukanaru Toki no Naka de 3 [Triple Pack]
 SLPM-65859  ---  Junrui Sosa - Kan Pony - Eirian vs. Seirian
@@ -1384,14 +1376,11 @@ SLPM-66014  ---  Tennis no Oji-Sama - Rush & Dream [Konami Palace Selection]
 SLPM-66064  ---  Tough - Dark Fight
 SLPM-66098  ---  True Crime - Streets of L.A. [CapKore]
 SLPM-66099  ---  Harukanaru Toki no Naka de 3 - Izayoiki [Premium Box-Triple Pack]
-SLPM-66111  ---  Fushigi no Umi no Nadia - Dennou Battle - Miss Nautilus Contest
-SLPM-66130  ---  Tom Clancy's Splinter Cell - Chaos Theory
 SLPM-66155  ---  Flame of Recca - Final Burning [Konami Palace Selection]
 SLPM-66178  ---  pop'n music 7 [Konami The Best]
 SLPM-66179  ---  pop'n music 8 [Konami The Best]
 SLPM-66209  ---  pop'n music 9 [Konami The Best]
 SLPM-66210  ---  pop'n music 10 [Konami The Best]
-SLPM-66219  ---  Tennis no Oji-Sama - Gakuensai no Oji-Sama
 SLPM-66224  ---  Metal Gear Solid 3 - Subsistence [Disc2of2]
 SLPM-66227  ---  GI Jockey 4 + Winning Post 7 [Twin Pack] [GI Jockey 4 Disc]
 SLPM-66228  ---  GI Jockey 4 + Winning Post 7 [Twin Pack] [Winning Post 7 Disc]
