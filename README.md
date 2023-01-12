@@ -1,5 +1,7 @@
 *⭐**Star this repo if it was useful to you**⭐*
 
+⚠️**Please report Not found | Low quality | Wrong covers**⚠️
+
 - [PS2 Covers](https://github.com/xlenore/ps2-covers#ps2-covers "PS2 Covers")
 - [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup "PCSX2 Setup")
 - [PCSX2 Cover Downloader](https://github.com/xlenore/ps2-covers#PCSX2-Cover-Downloader)
