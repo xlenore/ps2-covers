@@ -47,7 +47,6 @@ SCAJ-20025  ---  Grand Prix Challenge
 SCAJ-20026  ---  Generation of Chaos 3
 SCAJ-20027  ---  Tenchu 3
 SCAJ-20032  ---  Ka 2 - Let's Go Hawaiian
-SCAJ-20037  ---  Monster Farm 4
 SCAJ-20039  ---  Sidewinder V
 SCAJ-20040  ---  King of Fighters 2001, The
 SCAJ-20043  ---  ChainDive
@@ -76,7 +75,6 @@ SCAJ-20131  ---  namCollection - Namco 50th Anniversary
 SCAJ-20132  ---  Drag-on Dragoon 2 - Fuuin no Aka, Haitoku no Kuro
 SCAJ-20133  ---  Kagero 2 - Dark Illusion
 SCAJ-20135  ---  Minna Daisuki Katamari Damacy
-SCAJ-20151  ---  MotoGP 4
 SCAJ-20155  ---  Yoshitsune Eiyuuden Syura
 SCAJ-20185  ---  Super Robot Taisen - Original Generations
 SCAJ-20191  ---  Super Robot Taisen OG - Original Generations Gaiden [Limited Edition]
@@ -503,10 +501,8 @@ SCKA-20081  ---  Tekken 5 [PlayStation 2 Big Hit Series]
 SCKA-20087  ---  Shin Onimusha - Dawn of Dreams [Disc2of2]
 SCKA-20093  ---  Ratatouille
 SCKA-20096  ---  Barnyard
-SCPN-60101  ---  PlayStation BB Navigator - Version 0.10 [Prerelease] [Disc 1]
 SCPN-60103  ---  PlayStation BB Navigator - Version 0.10 [Prerelease] [Disc 2]
 SCPN-60111  ---  PlayStation BB Navigator - Version 0.10 [Prerelease] [Disc 2]
-SCPN-60130  ---  PlayStation BB Navigator - Version 0.20
 SCPN-60140  ---  PlayStation BB Navigator - Version 0.30
 SCPN-60150  ---  PlayStation BB Navigator - Version 0.31
 SCPN-60160  ---  PlayStation BB Navigator - Version 0.32
@@ -521,7 +517,6 @@ SCPS-15042  ---  Deka Voice [with Microphone]
 SCPS-15043  ---  Deka Voice
 SCPS-15049  ---  Minna no Golf Online
 SCPS-15051  ---  MLB 2003
-SCPS-15055  ---  Gran Turismo 4 - Prologue
 SCPS-15065  ---  SOCOM II - U.S. Navy SEALs
 SCPS-15070  ---  EyeToy - Play [Game Only]
 SCPS-15071  ---  Minna no Golf Online
@@ -862,7 +857,6 @@ SLED-53732  ---  Spartan - Total Warrior [Demo]
 SLED-53745  ---  Total Overdose [Demo]
 SLED-53770  ---  Sims 2, The [Demo]
 SLED-53845  ---  Matrix, The - Path of Neo [Demo]
-SLED-53937  ---  Black [Demo]
 SLED-53951  ---  Honda Demo [Demo]
 SLED-53953  ---  FIFA Street 2 [Demo]
 SLED-53983  ---  Fight Night Round 3 [Demo]
@@ -1497,7 +1491,6 @@ SLPS-20334  ---  Taisen 2 - Go
 SLPS-20335  ---  Taisen 3 - Mahjong
 SLPS-20343  ---  Net de Bomberman
 SLPS-20344  ---  Phantom Brave [Limited Edition]
-SLPS-20345  ---  Phantom Brave
 SLPS-20347  ---  Saikyou Toudai Shogi 2004
 SLPS-20350  ---  Soccer Life! We are Challengers to Europe
 SLPS-20354  ---  Yamasa Digi World 3 [Best of Best]
@@ -1536,7 +1529,6 @@ SLPS-25205  ---  Ys I-II - Eternal Story [Limited Edition]
 SLPS-25221  ---  Pia - Welcome to Carrot 3
 SLPS-25227  ---  Super Robot Wars - Alpha 2nd [Limited Edition]
 SLPS-25255  ---  Sidewinder V [Premium Flight Box]
-SLPS-25263  ---  Monster Farm 4
 SLPS-25272  ---  Hulk, The
 SLPS-25288  ---  D-A - Black [Limited Edition]
 SLPS-25289  ---  Time Crisis 3 [with G-Con 2]
@@ -1583,7 +1575,6 @@ SLPS-25959  ---  Kidou Senshi Gundam - Giren no Yabou - Axis no Kyoui V
 SLPS-25961  ---  Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T.
 SLPS-25978  ---  Shin Master of Monsters Final EX
 SLPS-29001  ---  Xenosaga Episode 1 - Der Wille zur Macht [Premium Box]
-SLPS-29005  ---  Xenosaga Episode 1 - Der Wille zur Macht [Reloaded]
 SLPS-73206  ---  Super Robot Taisen Alpha 2nd [PlayStation 2 The Best]
 SLPS-73215  ---  Shadow Hearts 2 [Director's Cut] [PlayStation 2 The Best] [Disc2of2]
 SLPS-73228  ---  Fuuun Bakumatsuden [PlayStation 2 The Best]
@@ -1596,7 +1587,6 @@ SLPS-73408  ---  7 (Seven) - Molmorth no Kiheitai [PlayStation 2 the Best]
 SLPS-73412  ---  Vampire Night [PlayStation 2 The Best]
 SLPS-73416  ---  Super Robot Wars - Impact [PlayStation 2 The Best]
 SLPS-73422  ---  Ultraman Fighting Evolution 2 [PlayStation 2 The Best]
-SLPS-73423  ---  Monster Farm 4 [PlayStation 2 The Best]
 SLPS-73901  ---  Xenosaga Episode 1 - Der Wille zur Macht [PlayStation 2 The Best]
 SLUS-20444  ---  Tankers
 SLUS-20466  ---  Gravenville - Ghost Master
