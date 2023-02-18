@@ -553,7 +553,6 @@ SCPS-55028  ---  Popolocrois Story - Hajime no Bouken
 SCPS-55029  ---  dot hack - Infection Part 1
 SCPS-55030  ---  First Step Victorious Boxers [PlayStation 2 The Best]
 SCPS-55035  ---  Ape Escape 2
-SCPS-55038  ---  Pac-Man World 2
 SCPS-55042  ---  dot hack - Mutation Part 2
 SCPS-55044  ---  Energy Airforce
 SCPS-55046  ---  Ultraman Fighting Evolution 2
@@ -563,7 +562,6 @@ SCPS-56009  ---  Smash Court Pro Tournament
 SCPS-56013  ---  This is Football 2003
 SCPS-56016  ---  Axel Impact - The Extreme Racing
 SCUS-21295  ---  Tony Hawk's American Wasteland Collector's Edition
-SCUS-21494  ---  Need for Speed - Carbon Collector's Edition
 SCUS-94677  ---  989 Sports 2003 Demo Disc
 SCUS-97115  ---  Gran Turismo 3 - A-Spec [Demo]
 SCUS-97116  ---  Kiosk Demo Disc 2.01
@@ -624,7 +622,6 @@ SCUS-97226  ---  NCAA GameBreaker 2003 [Demo]
 SCUS-97227  ---  Kiosk Demo Disc 2.07
 SCUS-97229  ---  Dark Cloud 2 [Demo]
 SCUS-97232  ---  Getaway [Demo]
-SCUS-97234  ---  Jampack Demo Disc - Winter 2002 [M-Rated]
 SCUS-97236  ---  World Tour Soccer 2003 [Demo]
 SCUS-97238  ---  ATV Offroad Fury 2 [Demo]
 SCUS-97239  ---  Jet X2O [Demo]
@@ -653,10 +650,8 @@ SCUS-97271  ---  Final Fantasy XI - Online [Beta Version] [Disc1of2]
 SCUS-97272  ---  Final Fantasy XI - Online [Beta Version] [Disc2of2]
 SCUS-97273  ---  Jak II [Demo]
 SCUS-97274  ---  Jak II [Video Demo]
-SCUS-97281  ---  Jampack Demo Disc - Summer 2003 [M-Rated]
 SCUS-97282  ---  Arc the Lad - Twilight of the Spirits [Demo]
 SCUS-97292  ---  Amplitude [Demo]
-SCUS-97312  ---  Jampack Demo Disc - Winter 2003 [T-Rated]
 SCUS-97315  ---  NCAA GameBreaker 2004 [Demo]
 SCUS-97317  ---  NFL GameDay 2004 [Demo]
 SCUS-97321  ---  Kiosk Demo Disc 2.10
@@ -700,9 +695,6 @@ SCUS-97411  ---  Ratchet & Clank - Up Your Arsenal [Regular Demo]
 SCUS-97412  ---  Jak 3 [Demo]
 SCUS-97413  ---  Ratchet & Clank - Up Your Arsenal [Public Beta v1.0]
 SCUS-97415  ---  Sly 2 - Band of Thieves [E3 Demo]
-SCUS-97417  ---  Jampack Demo Disc Vol.11 [M-Rated]
-SCUS-97418  ---  Jampack Demo Disc Vol.11 [T-Rated]
-SCUS-97420  ---  Jampack Demo Disc Vol.12 [M-Rated]
 SCUS-97421  ---  Kiosk Demo Disc Q4-2004 - Q1-2005
 SCUS-97422  ---  Kiosk Demo Disc Q1-Q2 2005
 SCUS-97423  ---  Kiosk Demo Disc Q2-Q3 2005
@@ -745,9 +737,6 @@ SCUS-97487  ---  Ratchet - Deadlocked [Public Beta v.1]
 SCUS-97488  ---  Jak X - Combat Racing [Public Beta v.1]
 SCUS-97489  ---  SOCOM 3 - U.S. Navy SEALs [Public Beta v.1]
 SCUS-97491  ---  Jampack Demo Disc Vol.13 [T-Rated]
-SCUS-97492  ---  Jampack Demo Disc Vol.13 [M-Rated]
-SCUS-97493  ---  Jampack Demo Disc Vol.14 [T-Rated]
-SCUS-97494  ---  Jampack Demo Disc Vol.14 [M-Rated]
 SCUS-97498  ---  EyeToy - Play 3
 SCUS-97503  ---  MLB '06 - The Show [Demo]
 SCUS-97504  ---  Genji - Dawn of the Samurai [Demo]
@@ -780,8 +769,6 @@ SCUS-97548  ---  Ape Escape 3 [Demo]
 SCUS-97554  ---  NBA '07 featuring The Life Vol.2 [Demo]
 SCUS-97557  ---  Kiosk Demo Disc Q2-Q3 2006
 SCUS-97560  ---  SOCOM - U.S. Navy SEALs - Combined Assault [Demo]
-SCUS-97564  ---  Jampack Demo Disc Vol.15 [T-Rated]
-SCUS-97565  ---  Jampack Demo Disc Vol.15 [M-Rated]
 SCUS-97568  ---  MLB '07 - The Show [Demo]
 SCUS-97572  ---  Rogue Galaxy [Demo]
 SCUS-97579  ---  ATV Offroad Fury 4 [Demo]
@@ -1613,7 +1600,6 @@ SLUS-21565  ---  Pirates of the Caribbean - At World's End
 SLUS-21617  ---  Spiderman 3
 SLUS-21651  ---  Noddy and the Magic Book
 SLUS-21654  ---  Kane & Lynch - Dead Men [Sneak Preview]
-SLUS-21696  ---  Ford Racing - Off Road
 SLUS-21713  ---  Winter Sports 2008 - The Ultimate Challenge
 SLUS-27029  ---  Disney Sing It [Bundle]
 SLUS-27030  ---  High School Musical 3 - Senior Year DANCE! [w-Mat]
