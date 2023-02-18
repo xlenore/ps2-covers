@@ -9,8 +9,6 @@
 ## PS2 Covers
 | Serial |  Available/Total |  Percentage  |
 | ------ |  --------------- |  ----------  |
-| Serial |  Available/Total |  Percentage  |
-| ------ |  --------------- |  ----------  |
 | ALCH | 16/16 | 100.00% |
 | CPCS | 2/2 | 100.00% |
 | GUST | 1/1 | 100.00% |
