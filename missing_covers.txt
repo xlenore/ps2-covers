@@ -965,7 +965,6 @@ SLES-54173  ---  Over The Hedge
 SLES-54193  ---  Carol Vorderman's Sudoku
 SLES-54335  ---  Steambot Chronicles
 SLES-54344  ---  Bratz - Forever Diamondz
-SLES-54348  ---  Superman Returns
 SLES-54349  ---  Superman Returns
 SLES-54378  ---  Barnyard
 SLES-54425  ---  Babe
@@ -987,7 +986,6 @@ SLES-54544  ---  Gun Club
 SLES-54560  ---  Alpine Ski Racing 2007 - Bode Miller vs. Hermann Maier
 SLES-54579  ---  Flintstones, The - Bedrock Racing
 SLES-54612  ---  Captain Scarlet
-SLES-54656  ---  EyeToy - Bob the Builder
 SLES-54668  ---  Thomas & Friends - A Day at the Races
 SLES-54744  ---  Disney-Pixar Ratatouille
 SLES-54746  ---  Disney-Pixar Ratatouille
@@ -1023,7 +1021,6 @@ SLES-55342  ---  Hasbro Family Game Night
 SLES-55343  ---  Tube Mania
 SLES-55358  ---  Bratz - Girlz Really Rock
 SLES-55366  ---  Agent Hugo - Hula Holiday
-SLES-55379  ---  RTL Biathlon 2009
 SLES-55397  ---  Disney Sing It - High School Musical 3 - Senior Year
 SLES-55405  ---  Pro Evolution Soccer 2009
 SLES-55411  ---  RTL Winter Sports 2009 - The Next Challenge
@@ -1215,7 +1212,6 @@ SLPM-62206  ---  Growlanser 2 [Atlus The Best]
 SLPM-62216  ---  Ever Blue [CapKore The Best]
 SLPM-62217  ---  J League Winning Eleven 6
 SLPM-62235  ---  GetBass Battle
-SLPM-62236  ---  Power Smash 2
 SLPM-62237  ---  Gakuen Toshi Vara Noir [Limited Edition]
 SLPM-62239  ---  Supercar Street Challenge
 SLPM-62256  ---  Super Trucks
@@ -1259,7 +1255,6 @@ SLPM-62454  ---  Karaoke Revolution - J-Pop Vol.6
 SLPM-62455  ---  Karaoke Revolution - J-Pop Vol.7
 SLPM-62456  ---  Karaoke Revolution - J-Pop Vol.8
 SLPM-62457  ---  Karaoke Revolution - Snow & Party
-SLPM-62466  ---  Zooo [Superlite 2000 Series]
 SLPM-62473  ---  Nobunaga no Yabou - Ranseiki [Koei The Best]
 SLPM-62480  ---  Hot Gimmick Cosplay Mahjong [Limited Edition]
 SLPM-62481  ---  Waku Waku Volleyball 2 [Superlite 2000 Series]
@@ -1771,7 +1766,6 @@ SLUS-29172  ---  Battlefield 2 - Modern Combat [Demo]
 SLUS-29173  ---  Sims 2, The [Demo]
 SLUS-29178  ---  TOCA Race Driver 3 [Demo]
 SLUS-29179  ---  Sonic Riders [Demo]
-SLUS-29180  ---  Black [Demo]
 SLUS-29183  ---  Fight Night - Round 3 [Demo]
 SLUS-29185  ---  Driver - Parallel Lines [Demo]
 SLUS-29188  ---  Steambot Chronicles [Regular Demo]
