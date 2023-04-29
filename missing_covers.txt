@@ -415,7 +415,6 @@ SCES-52764  ---  DJ - Decks & FX - Live Session
 SCES-52827  ---  SingStar Party
 SCES-53181  ---  SingStar
 SCES-53184  ---  SingStar Norske Hits
-SCES-53185  ---  SingStar Svenska Hits
 SCES-53397  ---  SingStar Pop - World Events Code
 SCES-53565  ---  SingStar Pop
 SCES-53795  ---  SingStar '80s
@@ -504,7 +503,6 @@ SCPN-60103  ---  PlayStation BB Navigator - Version 0.10 [Prerelease] [Disc 2]
 SCPN-60111  ---  PlayStation BB Navigator - Version 0.10 [Prerelease] [Disc 2]
 SCPN-60140  ---  PlayStation BB Navigator - Version 0.30
 SCPN-60150  ---  PlayStation BB Navigator - Version 0.31
-SCPN-60160  ---  PlayStation BB Navigator - Version 0.32
 SCPS-11020  ---  Otostaz [Taikenban]
 SCPS-11028  ---  Let's Bravo Music
 SCPS-11029  ---  Shibai Muchi
@@ -841,7 +839,6 @@ SLED-53719  ---  Pro Evolution Soccer 5 [Demo]
 SLED-53723  ---  Peter Jackson's King Kong [Demo]
 SLED-53732  ---  Spartan - Total Warrior [Demo]
 SLED-53745  ---  Total Overdose [Demo]
-SLED-53770  ---  Sims 2, The [Demo]
 SLED-53845  ---  Matrix, The - Path of Neo [Demo]
 SLED-53951  ---  Honda Demo [Demo]
 SLED-53953  ---  FIFA Street 2 [Demo]
@@ -885,7 +882,6 @@ SLES-51273  ---  Wakeboarding Unleashed
 SLES-51275  ---  Summoner 2
 SLES-51294  ---  XIII
 SLES-51298  ---  Jimmy Neutron - Boy Genius
-SLES-51458  ---  BDFL Manager 2004
 SLES-51459  ---  Roger Lemerre - La Sélection des Champions 2004
 SLES-51460  ---  Football Manager 2004
 SLES-51461  ---  Football Manager 2004
@@ -933,7 +929,6 @@ SLES-53095  ---  Rugby 2005
 SLES-53221  ---  L'Entraineur 5 - Saison 04-05
 SLES-53222  ---  Scudetto 5
 SLES-53223  ---  Championship Manager 5
-SLES-53224  ---  Championship Manager 5
 SLES-53242  ---  Madagascar
 SLES-53300  ---  SOCOM 3 - U.S. Navy SEALs
 SLES-53396  ---  Spartan - Total Warrior
@@ -966,7 +961,6 @@ SLES-54335  ---  Steambot Chronicles
 SLES-54344  ---  Bratz - Forever Diamondz
 SLES-54349  ---  Superman Returns
 SLES-54378  ---  Barnyard
-SLES-54425  ---  Babe
 SLES-54433  ---  Dr. Dolittle
 SLES-54435  ---  Babe
 SLES-54436  ---  Jumanji
@@ -988,7 +982,6 @@ SLES-54668  ---  Thomas & Friends - A Day at the Races
 SLES-54744  ---  Disney-Pixar Ratatouille
 SLES-54746  ---  Disney-Pixar Ratatouille
 SLES-54807  ---  Thrillville - Off the Rails
-SLES-54809  ---  Charlotte's Web
 SLES-54896  ---  NBA Live 08
 SLES-54900  ---  EyeToy - Bob the Builder
 SLES-54923  ---  EyeToy - Bob the Builder
@@ -1004,7 +997,6 @@ SLES-55028  ---  Disney-Pixar Cars - La Coppa Internazionale di Carl Attrezzi
 SLES-55029  ---  Disney-Pixar Cars - La Copa Internacional de Mate
 SLES-55080  ---  Nickelodeon SpongeBob's Atlantis SquarePantis
 SLES-55145  ---  Chronicles of Narnia, The - Prince Caspian
-SLES-55146  ---  Chronicles of Narnia, The - Prince Caspian
 SLES-55166  ---  Bob O Construtor - Festival do Divertimento
 SLES-55168  ---  Paard & Pony - Topruiter
 SLES-55189  ---  Nick Jr. Go Diego Go! Safari Rescue
@@ -1309,7 +1301,6 @@ SLPM-65309  ---  Splashdown [PlayStation 2 The Best]
 SLPM-65314  ---  Hanjuku Hero VS 3-D [Limited Edition]
 SLPM-65321  ---  Prince of Tennis - Smash Hit!
 SLPM-65322  ---  Prince of Tennis - Smash Hit! - B-Type
-SLPM-65323  ---  Prince of Tennis - Smash Hit! - C-Type
 SLPM-65346  ---  Winning Post 6
 SLPM-65359  ---  Judie no Atelier - Gramnad no Renkinjutsushi [Gust Best Price]
 SLPM-65375  ---  Shin Sangoku Musou 3 - Mushoden [Premium Pack]
@@ -1719,7 +1710,6 @@ SLUS-29107  ---  Transformers [Regular Demo]
 SLUS-29108  ---  Def Jam - Fight For NY [Demo]
 SLUS-29110  ---  Monster Hunter [Public Beta Vol.1 - Ver.1.01]
 SLUS-29111  ---  Asterix & Obelix - Kick Buttix [Demo]
-SLUS-29113  ---  Burnout 3 [Demo]
 SLUS-29116  ---  WWE SmackDown! vs. RAW [Public Beta Vol.1.0]
 SLUS-29117  ---  Battlefield 2 - Modern Combat [Public Beta Vol.1.0]
 SLUS-29118  ---  Need for Speed - Underground 2 [Demo]
