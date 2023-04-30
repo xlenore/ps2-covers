@@ -1,5 +1,3 @@
-PAPX-90222  ---  Jak x Daxter - Kyuu Sekai no Isan [Demo, Taikenban]
-PAPX-90223  ---  Jak x Daxter - Kyuu Sekai no Isan [Demo, Taikenban]
 PAPX-90231  ---  Kaitou Sly Cooper [Demo, Taikenban]
 PAPX-90504  ---  Gran Turismo Concept - Airtrek Turbo Special Edition [Demo]
 PAPX-90505  ---  2002 Natsu no Osusume Soft Otameshi Disc
@@ -13,7 +11,6 @@ PBPX-95206  ---  DVD Player Version 2.01
 PBPX-95207  ---  DVD Player Version 2.10
 PBPX-95208  ---  DVD Player Version 2.10
 PBPX-95209  ---  DVD Player Version 2.10
-PBPX-95210  ---  DVD Player Version 2.10
 PBPX-95211  ---  HDD Utility Disc
 PBPX-95216  ---  HDD Utility Disc [Beta]
 PBPX-95516  ---  Ratchet & Clank - [Trial Edition]
@@ -125,7 +122,6 @@ SCED-50543  ---  Official PlayStation 2 Magazine Demo 12
 SCED-50593  ---  Official PlayStation 2 Magazine Demo 13
 SCED-50594  ---  Official PlayStation 2 Magazine Demo 13
 SCED-50610  ---  Official PlayStation 2 Magazine Demo 14
-SCED-50614  ---  Jak and Daxter - The Precursor Legacy [Demo]
 SCED-50622  ---  Official PlayStation 2 Magazine Demo 14
 SCED-50633  ---  Gravity Sucks
 SCED-50642  ---  Final Fantasy X [Demo] [Final Fantasy VI PS1 - Bonus Disc]
@@ -574,7 +570,6 @@ SCUS-97149  ---  Jampack Demo Disc - Summer 2001
 SCUS-97152  ---  Dark Cloud [Demo]
 SCUS-97153  ---  Vans Warped Tour '01 [Demo]
 SCUS-97155  ---  PlayStation 2 Demo Disc Version 2.3
-SCUS-97156  ---  Kiosk Demo Disc 2.03
 SCUS-97157  ---  Frequency [Demo]
 SCUS-97158  ---  Official U.S. PlayStation Magazine Demo Disc 049
 SCUS-97159  ---  ICO [Demo]
@@ -585,9 +580,6 @@ SCUS-97164  ---  Twisted Metal Black [Demo]
 SCUS-97165  ---  Official U.S. PlayStation Magazine Demo Disc 051
 SCUS-97166  ---  PlayStation Underground Holiday 2001
 SCUS-97169  ---  Drakan - The Ancients' Gates [Demo]
-SCUS-97170  ---  Jak and Daxter - The Precursor Legacy [Cingular Wireless Demo]
-SCUS-97171  ---  Jak and Daxter - The Precursor Legacy [PS Underground Demo]
-SCUS-97174  ---  Kiosk Demo Disc 2.04
 SCUS-97175  ---  NCAA Final Four 2002 [Demo]
 SCUS-97176  ---  Official U.S. PlayStation Magazine Demo Disc 053
 SCUS-97182  ---  Official U.S. PlayStation Magazine Demo Disc 056
@@ -602,7 +594,6 @@ SCUS-97190  ---  Official U.S. PlayStation Magazine Demo Disc 064
 SCUS-97191  ---  Official U.S. PlayStation Magazine Demo Disc 065
 SCUS-97192  ---  World Tour Soccer 2002 [Demo]
 SCUS-97195  ---  Twisted Metal Black - Online
-SCUS-97200  ---  Kiosk Demo Disc 2.05
 SCUS-97205  ---  SOCOM - U.S. Navy SEALs [Demo]
 SCUS-97206  ---  PlayStation Underground Jampack Summer 2002
 SCUS-97208  ---  Hot Shots Golf 3 & PaRappa the Rapper 2 [Demo]
@@ -616,7 +607,6 @@ SCUS-97223  ---  NFL GameDay 2003 [Demo]
 SCUS-97224  ---  Wild ARMs 3 [Demo]
 SCUS-97225  ---  Primal [Demo]
 SCUS-97226  ---  NCAA GameBreaker 2003 [Demo]
-SCUS-97227  ---  Kiosk Demo Disc 2.07
 SCUS-97229  ---  Dark Cloud 2 [Demo]
 SCUS-97232  ---  Getaway [Demo]
 SCUS-97236  ---  World Tour Soccer 2003 [Demo]
@@ -642,11 +632,8 @@ SCUS-97260  ---  War of the Monsters [Demo]
 SCUS-97261  ---  Kiosk Demo Disc 2.08
 SCUS-97262  ---  Amplitude [Demo]
 SCUS-97263  ---  My Street [Demo]
-SCUS-97270  ---  Kiosk Demo Disc 2.09
 SCUS-97271  ---  Final Fantasy XI - Online [Beta Version] [Disc1of2]
 SCUS-97272  ---  Final Fantasy XI - Online [Beta Version] [Disc2of2]
-SCUS-97273  ---  Jak II [Demo]
-SCUS-97274  ---  Jak II [Video Demo]
 SCUS-97282  ---  Arc the Lad - Twilight of the Spirits [Demo]
 SCUS-97292  ---  Amplitude [Demo]
 SCUS-97315  ---  NCAA GameBreaker 2004 [Demo]
@@ -689,13 +676,9 @@ SCUS-97406  ---  Jampack Demo Disc Vol.10 - Summer 2004 [M-Rated]
 SCUS-97407  ---  Kiosk Demo Disc Q2-Q3 2004
 SCUS-97410  ---  Jampack Demo Disc Vol.10 [T-Rated]
 SCUS-97411  ---  Ratchet & Clank - Up Your Arsenal [Regular Demo]
-SCUS-97412  ---  Jak 3 [Demo]
 SCUS-97413  ---  Ratchet & Clank - Up Your Arsenal [Public Beta v1.0]
 SCUS-97415  ---  Sly 2 - Band of Thieves [E3 Demo]
-SCUS-97421  ---  Kiosk Demo Disc Q4-2004 - Q1-2005
-SCUS-97422  ---  Kiosk Demo Disc Q1-Q2 2005
 SCUS-97423  ---  Kiosk Demo Disc Q2-Q3 2005
-SCUS-97424  ---  Kiosk Demo Disc Q3-Q4 2005
 SCUS-97427  ---  Hot Shots Golf FORE! [Online Public Beta]
 SCUS-97428  ---  Kiosk Demo Disc Q3-Q4 2004
 SCUS-97430  ---  Hot Shots Golf FORE! [Regular Demo]
@@ -703,7 +686,6 @@ SCUS-97431  ---  Killzone Public Beta V1.0
 SCUS-97432  ---  Killzone [Regular Demo]
 SCUS-97437  ---  ATV Offroad Fury 3 [Demo]
 SCUS-97438  ---  EyeToy - Antigrav [Demo]
-SCUS-97440  ---  Jak and Daxter Trilogy [Demo]
 SCUS-97441  ---  Getaway The - Black Monday [Demo]
 SCUS-97442  ---  Official U.S. PlayStation Magazine Demo Disc 090
 SCUS-97443  ---  Official U.S. PlayStation Magazine Demo Disc 091
@@ -719,7 +701,6 @@ SCUS-97452  ---  Official U.S. PlayStation Magazine Demo Disc 100
 SCUS-97453  ---  Official U.S. PlayStation Magazine Demo Disc 101
 SCUS-97454  ---  Official U.S. PlayStation Magazine Demo Disc 102
 SCUS-97455  ---  PlayStation Underground Holiday 2004 [M-Rated]
-SCUS-97456  ---  PlayStation Underground Holiday 2004 [T-Rated]
 SCUS-97457  ---  Sly 2 - Band of Thieves [Retail Demo]
 SCUS-97460  ---  MLB 2006 [Demo]
 SCUS-97462  ---  Rise of the Kasai [Demo]
@@ -729,9 +710,7 @@ SCUS-97475  ---  SOCOM 3 - U.S. Navy SEALs [Regular Demo]
 SCUS-97482  ---  God of War II - The Colossus Battle [Demo]
 SCUS-97484  ---  Sly 3 - Honor Among Thieves [E3 Demo]
 SCUS-97485  ---  Ratchet - Deadlocked [Regular Demo]
-SCUS-97486  ---  Jak X - Combat Racing [Regular Demo]
 SCUS-97487  ---  Ratchet - Deadlocked [Public Beta v.1]
-SCUS-97488  ---  Jak X - Combat Racing [Public Beta v.1]
 SCUS-97489  ---  SOCOM 3 - U.S. Navy SEALs [Public Beta v.1]
 SCUS-97491  ---  Jampack Demo Disc Vol.13 [T-Rated]
 SCUS-97498  ---  EyeToy - Play 3
@@ -1618,7 +1597,6 @@ SLUS-28046  ---  Guilty Gear Isuka [Trade Demo]
 SLUS-28050  ---  Stella Deus - The Gate of Eternity [Trade Demo]
 SLUS-28051  ---  Samurai Western [Trade Demo]
 SLUS-28052  ---  Shin Megami Tensei - Digital Devil Saga 2 [Trade Demo]
-SLUS-28053  ---  Magna Carta [Trade Demo]
 SLUS-28054  ---  Combat Elite - WWII Paratroopers [Trade Demo]
 SLUS-28056  ---  State of Emergency 2 [Trade Demo]
 SLUS-28059  ---  Metal Saga [Trade Demo]
@@ -1770,7 +1748,6 @@ SLUS-90009  ---  Resident Evil 2 [Trade Demo]
 SLUS-97133  ---  Getaway, The
 SLUS-97405  ---  ATV Offroad Fury 3 [Greatest Hits]
 SLUS-97657  ---  MLB 11 - The Show
-TCES-10001  ---  Mirage Beta Trial Code
 TCES-51613  ---  This Is Football 2004 Beta Trial Code
 TCES-51904  ---  SOCOM II - U.S. Navy SEALs Beta Trial Code
 TCES-52004  ---  Killzone Beta Trial Code
@@ -1781,7 +1758,6 @@ TCES-52456  ---  Ratchet and Clank 3 Beta Trial Code
 TCES-52582  ---  Everybody's Golf 4 Beta Trial Code
 TCES-53033  ---  Formula One 05 Beta Trial Code
 TCES-53247  ---  WRC - Rally Evolved Beta Trial Code
-TCES-53286  ---  Jak X Beta Trial Code
 TCPS-10068  ---  Densha de Go! Ryojou-hen [with Controller]
 TCPS-10074  ---  Space Invaders 25th Anniversary Bundle
 TCPS-10075  ---  Takahashi Naoko no Marathon Shiyou yo!
@@ -1805,7 +1781,6 @@ TLES-52149  ---  Splinter Cell - Pandora Tomorrow Beta Trial Code
 TLES-52339  ---  Crash ‘N’ Burn Beta Trial Code
 TLES-52707  ---  Monster Hunter Beta Trial Code
 TLES-52781  ---  WWE - Smackdown Vs Raw Beta Trial Code
-TLES-52940  ---  S.L.A.I. Phantom Crash Beta Trial Code
 TLES-53544  ---  Pro Evolution Soccer 5 Beta Trial Code
 TLES-54240  ---  FIFA 07 Beta Trial Code
 TLES-82043  ---  Metal Gear Solid Subsistence Beta Trial Code
