@@ -147,7 +147,6 @@ SCED-50781  ---  Destruction Derby Arenas [Beta]
 SCED-50825  ---  Official PlayStation 2 Magazine Demo 18
 SCED-50907  ---  Final Fantasy X [Bonus Disc - Beyond Final Fantasy]
 SCED-50945  ---  Official PlayStation 2 Magazine Demo 20
-SCED-50989  ---  Official PlayStation 2 Magazine Demo 21
 SCED-51016  ---  Official PlayStation 2 Magazine Demo 22-23
 SCED-51075  ---  Ratchet & Clank [Regular Demo]
 SCED-51140  ---  PS2 Bonus Demo 03
@@ -279,7 +278,6 @@ SCED-53162  ---  Official PlayStation 2 Magazine Demo 59
 SCED-53163  ---  Official PlayStation 2 Magazine Demo 60
 SCED-53164  ---  Official PlayStation 2 Magazine Demo 61
 SCED-53165  ---  Official PlayStation 2 Magazine Demo 62
-SCED-53166  ---  Official PlayStation 2 Magazine Demo 63
 SCED-53167  ---  Official PlayStation 2 Magazine Demo 64
 SCED-53168  ---  Official PlayStation 2 Magazine Demo 65
 SCED-53169  ---  Official PlayStation 2 Magazine Demo 66
@@ -329,7 +327,6 @@ SCED-54024  ---  Official PlayStation 2 Magazine Demo 70
 SCED-54036  ---  Official PlayStation 2 Magazine Demo 69-70
 SCED-54037  ---  Official PlayStation 2 Magazine Demo 70
 SCED-54043  ---  Official PlayStation 2 Magazine Demo 71
-SCED-54044  ---  Official PlayStation 2 Magazine Demo 72
 SCED-54045  ---  Official PlayStation 2 Magazine Demo 73
 SCED-54046  ---  Official PlayStation 2 Magazine Demo 74
 SCED-54047  ---  Official PlayStation 2 Magazine Demo 75
@@ -454,7 +451,6 @@ SCES-55257  ---  SingStar - Chansons Magiques de Disney
 SCES-55261  ---  SingStar Sjung med Disney
 SCES-55262  ---  SingStar Syng med Disney
 SCES-55360  ---  SingStar Singalong with Disney
-SCES-55386  ---  Buzz! Le Plus Malin des Francais
 SCES-55401  ---  SingStar Zingt met Disney
 SCES-55436  ---  SingStar ABBA
 SCES-55439  ---  SingStar ABBA
@@ -495,10 +491,6 @@ SCKA-20081  ---  Tekken 5 [PlayStation 2 Big Hit Series]
 SCKA-20087  ---  Shin Onimusha - Dawn of Dreams [Disc2of2]
 SCKA-20093  ---  Ratatouille
 SCKA-20096  ---  Barnyard
-SCPN-60103  ---  PlayStation BB Navigator - Version 0.10 [Prerelease] [Disc 2]
-SCPN-60111  ---  PlayStation BB Navigator - Version 0.10 [Prerelease] [Disc 2]
-SCPN-60140  ---  PlayStation BB Navigator - Version 0.30
-SCPN-60150  ---  PlayStation BB Navigator - Version 0.31
 SCPS-11020  ---  Otostaz [Taikenban]
 SCPS-11028  ---  Let's Bravo Music
 SCPS-11029  ---  Shibai Muchi
@@ -888,8 +880,6 @@ SLES-52395  ---  UFEA Euro 2004
 SLES-52423  ---  Smash Court Tennis - Pro Tournament 2
 SLED-52574  ---  Crash Twinsanity & Spyro - A Hero's Tail [Demo]
 SLES-52593  ---  Dynasty Warriors 4 - Empires
-SLES-52648  ---  Club Football 2005 - Borussia Dortmund
-SLES-52658  ---  Club Football 2005 - Hamburger SV
 SLES-52675  ---  Hugo Cannon Cruise
 SLES-52676  ---  Hugo Cannon Cruise
 SLES-52696  ---  Football Manager Campionato 2005
@@ -935,7 +925,6 @@ SLES-54113  ---  Myth Makers - Super Kart GP
 SLES-54131  ---  SingStar Anthems
 SLES-54160  ---  Eragon
 SLES-54173  ---  Over The Hedge
-SLES-54193  ---  Carol Vorderman's Sudoku
 SLES-54335  ---  Steambot Chronicles
 SLES-54344  ---  Bratz - Forever Diamondz
 SLES-54349  ---  Superman Returns
@@ -944,8 +933,6 @@ SLES-54433  ---  Dr. Dolittle
 SLES-54435  ---  Babe
 SLES-54436  ---  Jumanji
 SLES-54447  ---  Pro Evolution Soccer 6
-SLES-54450  ---  Chicken Little - Aventures Intergalactiques
-SLES-54452  ---  Chicken Little - 'As' en Accion
 SLES-54453  ---  Chicken Little - Asso Spaziale!
 SLES-54455  ---  Thrillville
 SLES-54472  ---  Home Alone
@@ -964,7 +951,6 @@ SLES-54807  ---  Thrillville - Off the Rails
 SLES-54896  ---  NBA Live 08
 SLES-54900  ---  EyeToy - Bob the Builder
 SLES-54923  ---  EyeToy - Bob the Builder
-SLES-54943  ---  Disney Princess - Enchanted Journey
 SLES-54982  ---  Bob the Builder - Festival of Fun
 SLES-54990  ---  Nicktoons - Attack of the Toybots
 SLES-55010  ---  Thrillville - Fuori dai Binari
@@ -972,8 +958,6 @@ SLES-55011  ---  Thrillville - Fuera de Control
 SLES-55019  ---  Ratchet & Clank - Size Matters
 SLES-55023  ---  Pro Evolution Soccer 2008
 SLES-55026  ---  Disney-Pixar Cars - Mater-National Championship
-SLES-55028  ---  Disney-Pixar Cars - La Coppa Internazionale di Carl Attrezzi
-SLES-55029  ---  Disney-Pixar Cars - La Copa Internacional de Mate
 SLES-55080  ---  Nickelodeon SpongeBob's Atlantis SquarePantis
 SLES-55145  ---  Chronicles of Narnia, The - Prince Caspian
 SLES-55166  ---  Bob O Construtor - Festival do Divertimento
@@ -1652,7 +1636,6 @@ SLUS-29053  ---  NBA Street Vol.2 [Demo]
 SLUS-29054  ---  Splashdown - Rides Gone Wild [Demo]
 SLUS-29055  ---  dot hack - Mutation Part 2 [Regular Demo]
 SLUS-29056  ---  Alter Echo [Demo]
-SLUS-29057  ---  Sphinx and the Shadow of Set [Demo]
 SLUS-29058  ---  Soul Calibur II [Demo]
 SLUS-29059  ---  Hunter the Reckoning - Wayward [Demo]
 SLUS-29060  ---  Gladius [Demo]
@@ -1699,7 +1682,6 @@ SLUS-29129  ---  25 to Life [Public Beta Vol.1.0]
 SLUS-29130  ---  Crash 'N' Burn [Public Beta Vol.1.0]
 SLUS-29131  ---  Project Snowblind [Public Beta Vol.1.0]
 SLUS-29132  ---  S.L.A.I. - Steel Lancer Arena International - Phantom Crash [Public Beta Vol.1.0]
-SLUS-29134  ---  Namco Transmission Demo Disc Vol.2
 SLUS-29135  ---  NCAA March Madness 2005 [Demo]
 SLUS-29137  ---  Mercenaries [Demo]
 SLUS-29138  ---  Punisher, The [Demo]
@@ -1711,7 +1693,6 @@ SLUS-29148  ---  Incredible Hulk, The - Ultimate Destruction [Demo]
 SLUS-29149  ---  Flipnic - Ultimate Pinball [Demo]
 SLUS-29150  ---  Destroy All Humans! [Demo]
 SLUS-29152  ---  Battlefield 2 - Modern Combat [Regular Demo]
-SLUS-29153  ---  Burnout Revenge [Demo]
 SLUS-29154  ---  NHL '06 [Demo]
 SLUS-29155  ---  Need for Speed - Most Wanted [Demo]
 SLUS-29156  ---  Marvel Nemesis - Rise of the Imperfects [Demo]
