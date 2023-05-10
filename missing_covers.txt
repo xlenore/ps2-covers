@@ -558,19 +558,14 @@ SCUS-97126  ---  PlayStation 2 Demo Disc Version 2.2
 SCUS-97127  ---  Kiosk Demo Disc 2.02
 SCUS-97144  ---  PlayStation Underground 5.1
 SCUS-97147  ---  Cool Boarders 2001 [Demo]
-SCUS-97149  ---  Jampack Demo Disc - Summer 2001
 SCUS-97152  ---  Dark Cloud [Demo]
 SCUS-97153  ---  Vans Warped Tour '01 [Demo]
 SCUS-97155  ---  PlayStation 2 Demo Disc Version 2.3
 SCUS-97157  ---  Frequency [Demo]
-SCUS-97158  ---  Official U.S. PlayStation Magazine Demo Disc 049
 SCUS-97159  ---  ICO [Demo]
 SCUS-97160  ---  Extermination [Demo]
 SCUS-97161  ---  Kinetica [Demo]
-SCUS-97163  ---  Jampack Demo Disc - Winter 2001
 SCUS-97164  ---  Twisted Metal Black [Demo]
-SCUS-97165  ---  Official U.S. PlayStation Magazine Demo Disc 051
-SCUS-97166  ---  PlayStation Underground Holiday 2001
 SCUS-97169  ---  Drakan - The Ancients' Gates [Demo]
 SCUS-97175  ---  NCAA Final Four 2002 [Demo]
 SCUS-97176  ---  Official U.S. PlayStation Magazine Demo Disc 053
@@ -587,7 +582,6 @@ SCUS-97191  ---  Official U.S. PlayStation Magazine Demo Disc 065
 SCUS-97192  ---  World Tour Soccer 2002 [Demo]
 SCUS-97195  ---  Twisted Metal Black - Online
 SCUS-97205  ---  SOCOM - U.S. Navy SEALs [Demo]
-SCUS-97206  ---  PlayStation Underground Jampack Summer 2002
 SCUS-97208  ---  Hot Shots Golf 3 & PaRappa the Rapper 2 [Demo]
 SCUS-97209  ---  Ratchet & Clank [E3 Demo]
 SCUS-97210  ---  Sly Cooper and the Thievius Raccoonus [Demo]
@@ -795,7 +789,6 @@ SLED-52474  ---  Transformers - Red Alert [Demo]
 SLED-52476  ---  UEFA Euro 2004 - Portugal [Demo]
 SLED-52485  ---  Alias [Demo]
 SLED-52488  ---  Suffering, The [Demo]
-SLED-52597  ---  Burnout 3 - Takedown [Demo]
 SLED-52875  ---  Sega Superstars [Demo]
 SLED-52890  ---  FIFA 2005 [Demo]
 SLED-52929  ---  Prince of Persia - Warrior Within [Demo]
