@@ -1,8 +1,3 @@
-PAPX-90231  ---  Kaitou Sly Cooper [Demo, Taikenban]
-PAPX-90504  ---  Gran Turismo Concept - Airtrek Turbo Special Edition [Demo]
-PAPX-90505  ---  2002 Natsu no Osusume Soft Otameshi Disc
-PAPX-90506  ---  Dark Chronicle [Demo, Taikenban]
-PAPX-90512  ---  Gran Turismo 4 - Toyota Prius [Trial]
 PAPX-90516  ---  Jak and Daxter II [Trial]
 PBPX-95203  ---  HDD Utility Disc [Version 1.01]
 PBPX-95204  ---  Playstation 2 - Demo Disc 2000
@@ -21,7 +16,6 @@ PCPX-96317  ---  Ka [Trial]
 PCPX-96328  ---  3 Title Special Disc (Saru! Get You! 2 - PoPoLoCrois: Hajimari no Bouken - Boku no Natsuyasumi 2)
 PCPX-96554  ---  Games of Our Style - Tokyo Game Show 2003 Disc
 PCPX-96616  ---  PurePure 2 Volume 2
-PCPX-96627  ---  2002 Natsu no Osusume Soft Otameshi Disc
 PCPX-96649  ---  Gran Turismo 4 [Demo]
 PCPX-96660  ---  Tourist Trophy [Demo]
 PCPX-98017  ---  Ratchet & Clank - Giri Giri Ginga no Giga Battle [Demo]
