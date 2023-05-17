@@ -8,7 +8,6 @@ PBPX-95208  ---  DVD Player Version 2.10
 PBPX-95209  ---  DVD Player Version 2.10
 PBPX-95211  ---  HDD Utility Disc
 PBPX-95216  ---  HDD Utility Disc [Beta]
-PBPX-95516  ---  Ratchet & Clank - [Trial Edition]
 PBPX-95601  ---  Gran Turismo 4 [PlayStation 2 Racing Pack]
 PCPX-96303  ---  6-gatsu Hatsubai Title Promotion Disc (Aconcagua - Boku no Natsuyasumi - TVDJ)
 PCPX-96311  ---  Gran Turismo 3 Trial Disk Volume 1
@@ -707,7 +706,6 @@ SCUS-97514  ---  ATV Offroad Fury 3 [Greatest Hits]
 SCUS-97515  ---  Hot Shots Golf FORE! [Greatest Hits]
 SCUS-97517  ---  Killzone [Greatest Hits]
 SCUS-97520  ---  Syphon Filter - The Omega Strain [Greatest Hits]
-SCUS-97527  ---  Sly 3 - Honor Among Thieves [Regular Demo]
 SCUS-97528  ---  PlayStation Underground Demo Disc - Holiday 2005 [T-Rated]
 SCUS-97529  ---  PlayStation Underground Demo Disc - Holiday 2005 [M-Rated]
 SCUS-97530  ---  ESA Foundation Compilation Set
@@ -1734,7 +1732,6 @@ TCPS-10107  ---  Giga Wing Generations
 TCPS-10111  ---  Erementar Gerad
 TCPS-10113  ---  Mushihime-sama
 TCPS-10130  ---  Homura
-TCPS-10131  ---  Ibara
 TCPS-10132  ---  Psychic Force Complete
 TCPS-10147  ---  Zero Shikikan Josentoki Ni
 TCPS-10152  ---  Rozen Maiden - Duellwalzer
