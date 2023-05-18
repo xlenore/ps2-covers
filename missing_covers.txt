@@ -13,9 +13,6 @@ PCPX-96303  ---  6-gatsu Hatsubai Title Promotion Disc (Aconcagua - Boku no Nats
 PCPX-96311  ---  Gran Turismo 3 Trial Disk Volume 1
 PCPX-96317  ---  Ka [Trial]
 PCPX-96328  ---  3 Title Special Disc (Saru! Get You! 2 - PoPoLoCrois: Hajimari no Bouken - Boku no Natsuyasumi 2)
-PCPX-96554  ---  Games of Our Style - Tokyo Game Show 2003 Disc
-PCPX-96616  ---  PurePure 2 Volume 2
-PCPX-96649  ---  Gran Turismo 4 [Demo]
 PCPX-96660  ---  Tourist Trophy [Demo]
 PCPX-98017  ---  Ratchet & Clank - Giri Giri Ginga no Giga Battle [Demo]
 SCAJ-10001  ---  Makai Senki Disgaea
@@ -1096,7 +1093,6 @@ SLPM-60172  ---  Itadaki Street 3 - Okuman Chouja ni Shiteageru
 SLPM-60216  ---  R - Racing Evolution [Trial]
 SLPM-60239  ---  Katamari Damacy [Trial]
 SLPM-60243  ---  Full House Kiss [Trial]
-SLPM-60246  ---  Burnout 3 - Takedown [Trial]
 SLPM-60251  ---  Devil May Cry 3 [Trial Version]
 SLPM-60254  ---  Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi [Trial A]
 SLPM-60256  ---  Dengeki D73 demo

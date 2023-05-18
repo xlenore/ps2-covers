@@ -6,7 +6,6 @@
 - [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup "PCSX2 Setup")
 - [PCSX2 Cover Downloader](https://github.com/xlenore/ps2-covers#PCSX2-Cover-Downloader)
 
-## PS2 Covers
 | Serial |  Available/Total |  Percentage  |
 | ------ |  --------------- |  ----------  |
 | ALCH | 16/16 | 100.00% |
@@ -15,7 +14,7 @@
 | PAPX | 12/13 | 92.31% |
 | PBGP | 3/3 | 100.00% |
 | PBPX | 25/35 | 71.43% |
-| PCPX | 3/12 | 25.00% |
+| PCPX | 6/12 | 50.00% |
 | PDPX | 1/1 | 100.00% |
 | PKP2 | 1/1 | 100.00% |
 | SCAJ | 158/213 | 74.18% |
@@ -31,7 +30,7 @@
 | SLED | 3/52 | 5.77% |
 | SLES | 2893/3069 | 94.27% |
 | SLKA | 168/261 | 64.37% |
-| SLPM | 2449/2728 | 89.77% |
+| SLPM | 2450/2728 | 89.81% |
 | SLPS | 1134/1288 | 88.04% |
 | SLUS | 1735/1944 | 89.25% |
 | TCES | 2/12 | 16.67% |
