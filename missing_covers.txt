@@ -113,7 +113,6 @@ SCED-50593  ---  Official PlayStation 2 Magazine Demo 13
 SCED-50594  ---  Official PlayStation 2 Magazine Demo 13
 SCED-50610  ---  Official PlayStation 2 Magazine Demo 14
 SCED-50622  ---  Official PlayStation 2 Magazine Demo 14
-SCED-50633  ---  Gravity Sucks
 SCED-50642  ---  Final Fantasy X [Demo] [Final Fantasy VI PS1 - Bonus Disc]
 SCED-50675  ---  Official PlayStation 2 Magazine Demo 16
 SCED-50685  ---  Official PlayStation 2 Magazine Demo 15
@@ -389,7 +388,6 @@ SCES-52065  ---  Flipnic
 SCES-52306  ---  SOCOM II - U.S. Navy SEALs
 SCES-52425  ---  This is Football 2004
 SCES-52427  ---  This is Football 2005
-SCES-52430  ---  Le Monde des Bleus 2005
 SCES-52431  ---  This is Football 2005
 SCES-52432  ---  This is Football 2005
 SCES-52596  ---  This is Football 2005
@@ -676,7 +674,6 @@ SCUS-97451  ---  Official U.S. PlayStation Magazine Demo Disc 099
 SCUS-97452  ---  Official U.S. PlayStation Magazine Demo Disc 100
 SCUS-97453  ---  Official U.S. PlayStation Magazine Demo Disc 101
 SCUS-97454  ---  Official U.S. PlayStation Magazine Demo Disc 102
-SCUS-97455  ---  PlayStation Underground Holiday 2004 [M-Rated]
 SCUS-97457  ---  Sly 2 - Band of Thieves [Retail Demo]
 SCUS-97460  ---  MLB 2006 [Demo]
 SCUS-97462  ---  Rise of the Kasai [Demo]
@@ -811,12 +808,10 @@ SLES-50420  ---  Supercar Street Challenge
 SLES-50460  ---  Official PlayStation 2 Magazine Demo 11
 SLES-50468  ---  FIFA 2002
 SLES-50484  ---  Rayman M
-SLES-50619  ---  Jonny Moseley Mad Trix
 SLES-50620  ---  Micro Machines
 SLES-50633  ---  Gitaroo Man
 SLES-50704  ---  GoDai - Elemental Force
 SLES-50705  ---  GoDai - Elemental Force
-SLES-50709  ---  Le Maillon Fable
 SLES-50729  ---  Tiger Woods USA Tour 2002
 SLES-50765  ---  Music Maker
 SLES-50853  ---  Marcel DeSaily Pro Football
@@ -825,7 +820,6 @@ SLES-50901  ---  Conflict - Desert Storm
 SLES-50932  ---  Smash Court Tennis - Pro Tournament
 SLES-50994  ---  Paris-Marseille Racing II
 SLES-51024  ---  Roger Lemerre - La Sélection des Champions 2003
-SLES-51026  ---  Football Manager Campionato 2003
 SLES-51027  ---  Mánager de Liga 2003
 SLES-51214  ---  Harry Potter og Hemmelighedernes Kammer
 SLES-51215  ---  Harry Potter og Mysteriekammeret
@@ -872,12 +866,10 @@ SLES-52852  ---  Capcom Fighting Jam
 SLES-52856  ---  10 Most Wanted
 SLES-52910  ---  UEFA Champions League 2005
 SLES-52912  ---  UEFA Champions League 2005
-SLES-52915  ---  Shark Tale
 SLES-52934  ---  Guilty Gear Isuka [Preview]
 SLES-52960  ---  Premier Manager 2004-2005
 SLES-52961  ---  Premier Manager 2004-2005
 SLES-53095  ---  Rugby 2005
-SLES-53221  ---  L'Entraineur 5 - Saison 04-05
 SLES-53222  ---  Scudetto 5
 SLES-53223  ---  Championship Manager 5
 SLES-53242  ---  Madagascar
@@ -886,14 +878,12 @@ SLES-53396  ---  Spartan - Total Warrior
 SLES-53420  ---  Winnie the Pooh's Rumbly Tumbly Adventure
 SLES-53465  ---  Maxi Quiz du Foot Français
 SLES-53466  ---  Il Grande Quiz sul Calcio Italiano
-SLES-53470  ---  De Grote Nederlandse Voetbalquiz
 SLES-53495  ---  Nickelodeon Bob L'éponge - Silence on Tourne!
 SLES-53496  ---  Spongebob SquarePants - Lights, Camera, PANTS!
 SLES-53499  ---  Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!
 SLES-53530  ---  FIFA '06
 SLES-53634  ---  Nicktoons Unite!
 SLES-53793  ---  Pro Evolution Soccer 5 [Demo]
-SLES-53813  ---  Friends - Celui qui Repond a Toutes les Questions
 SLES-53861  ---  Dynasty Warriors 5 - Xtreme Legends
 SLES-53897  ---  Dreamworks Vecinos Invasores
 SLES-53986  ---  Over the Hedge
@@ -905,7 +895,6 @@ SLES-54108  ---  Habitrail - Hamster Ball
 SLES-54112  ---  Myth Makers - Orbs of Doom
 SLES-54113  ---  Myth Makers - Super Kart GP
 SLES-54131  ---  SingStar Anthems
-SLES-54160  ---  Eragon
 SLES-54173  ---  Over The Hedge
 SLES-54335  ---  Steambot Chronicles
 SLES-54344  ---  Bratz - Forever Diamondz
@@ -921,8 +910,6 @@ SLES-54472  ---  Home Alone
 SLES-54512  ---  UEFA Champions League 2006-2007
 SLES-54532  ---  Home Alone
 SLES-54536  ---  Big Idea's VeggieTales - LarryBoy and the Bad Apple
-SLES-54540  ---  Hawk Superbike Racing
-SLES-54544  ---  Gun Club
 SLES-54560  ---  Alpine Ski Racing 2007 - Bode Miller vs. Hermann Maier
 SLES-54579  ---  Flintstones, The - Bedrock Racing
 SLES-54612  ---  Captain Scarlet
@@ -1209,7 +1196,6 @@ SLPM-62637  ---  Simple 2000 Series 2-in-1 Vol. 1 - The Tennis & The Snowboard [
 SLPM-62648  ---  K-1 World Max 2005
 SLPM-62663  ---  Simple 2000 Series 2-in-1 Vol. 5 - The Shooting & The Helicopter [Disc2of2]
 SLPM-62665  ---  Simple 2000 Series 2-in-1 Vol. 4 - The Bushidou & The Sniper 2 [Disc2of2]
-SLPM-62753  ---  Homura [Taito The Best]
 SLPM-64509  ---  Crash Bandicoot - Return of the Demon King [English Dub Edition]
 SLPM-64514  ---  Legends of Wrestling
 SLPM-64534  ---  Psyvariar - Complete Edition
@@ -1426,7 +1412,6 @@ SLPS-25073  ---  Cinema Surfing - Youga Taizen
 SLPS-25081  ---  Saishuu Densha
 SLPS-25083  ---  Exciting Pro Wres 3 [Genteiban]
 SLPS-25084  ---  Thunder Strike - Operation Phoenix
-SLPS-25095  ---  Uchuu Senkan Yamato - Iscandar he no Tsuioku
 SLPS-25097  ---  Velvet File Plus
 SLPS-25117  ---  Sankyo Fever 6
 SLPS-25122  ---  Mobile Suit Gundam - Lost War Chronicles [Limited Edition]
@@ -1700,7 +1685,6 @@ SLUS-29191  ---  Hitman - Blood Money & Urban Chaos [Demo]
 SLUS-29192  ---  Test Drive Unlimited [Public Beta Vol.1.0]
 SLUS-29193  ---  Need for Speed - Carbon [Demo]
 SLUS-29194  ---  FIFA '07 [Demo]
-SLUS-29195  ---  Yakuza [Demo]
 SLUS-29197  ---  Flushed Away [Demo]
 SLUS-29198  ---  Guitar Hero II [Demo]
 SLUS-29199  ---  dot hack - G.U. Vol.1 - Rebirth [Demo]
