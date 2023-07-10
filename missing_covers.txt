@@ -745,7 +745,6 @@ SLAJ-25066  ---  Burnout Revenge - Battle Racing Ignited
 SLAJ-25072  ---  Matrix, The - Path of Neo
 SLAJ-25075  ---  Need for Speed - Most Wanted [Black Edition]
 SLAJ-25084  ---  Sengoku Musou 2 - Empires
-SLAJ-25088  ---  FIFA Soccer 2007
 SLAJ-25093  ---  Sangoku Musou [PlayStation 2 The Best]
 SLAJ-25095  ---  Medal of Honor - Vanguard
 SLED-50117  ---  Metal Gear Solid 2 - Sons of Liberty [Demo] [Zone of the Enders Bonus Disc]
@@ -887,7 +886,6 @@ SLES-53793  ---  Pro Evolution Soccer 5 [Demo]
 SLES-53861  ---  Dynasty Warriors 5 - Xtreme Legends
 SLES-53897  ---  Dreamworks Vecinos Invasores
 SLES-53986  ---  Over the Hedge
-SLES-54064  ---  FIFA World Cup 2006
 SLES-54081  ---  FIFA World Cup 2006
 SLES-54106  ---  Kidz Sports - Ice Hockey
 SLES-54107  ---  Kidz Sports - Basketball
@@ -1664,7 +1662,6 @@ SLUS-29155  ---  Need for Speed - Most Wanted [Demo]
 SLUS-29156  ---  Marvel Nemesis - Rise of the Imperfects [Demo]
 SLUS-29157  ---  Dragon Quest VIII - Journey of the Cursed King [Demo]
 SLUS-29159  ---  One Piece - Grand Battle [Demo]
-SLUS-29160  ---  FIFA '06 [Demo]
 SLUS-29161  ---  SSX On Tour [Demo]
 SLUS-29162  ---  NBA Live '06 [Demo]
 SLUS-29163  ---  NCAA March Madness '06 [Demo]
