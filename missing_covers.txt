@@ -404,7 +404,6 @@ SCES-53893  ---  SingStar Rocks! [Promo]
 SCES-53894  ---  SingStar Rocks!
 SCES-53897  ---  SingStar Rocks!
 SCES-53898  ---  SingStar Rocks!
-SCES-53926  ---  Buzz! The Big Quiz
 SCES-54025  ---  SingStar Rocks!
 SCES-54071  ---  Buzz! The Big Quiz
 SCES-54073  ---  Buzz! The Big Quiz
@@ -484,7 +483,6 @@ SCPS-11028  ---  Let's Bravo Music
 SCPS-11029  ---  Shibai Muchi
 SCPS-11030  ---  Shibai Muchi [with Microphone]
 SCPS-15006  ---  Popolocrois Story 3 [Limited Edition]
-SCPS-15028  ---  PoPoLoCrois - Hajimari no Bouken
 SCPS-15034  ---  This is Football 2003
 SCPS-15042  ---  Deka Voice [with Microphone]
 SCPS-15043  ---  Deka Voice
@@ -522,7 +520,6 @@ SCPS-55021  ---  Super Robot Wars Impact
 SCPS-55024  ---  Armored Core 2 - Another Age
 SCPS-55025  ---  Eve of Extinction
 SCPS-55026  ---  Gundam Giren's Ambition
-SCPS-55028  ---  Popolocrois Story - Hajime no Bouken
 SCPS-55029  ---  dot hack - Infection Part 1
 SCPS-55030  ---  First Step Victorious Boxers [PlayStation 2 The Best]
 SCPS-55035  ---  Ape Escape 2
@@ -557,7 +554,6 @@ SCUS-97164  ---  Twisted Metal Black [Demo]
 SCUS-97169  ---  Drakan - The Ancients' Gates [Demo]
 SCUS-97175  ---  NCAA Final Four 2002 [Demo]
 SCUS-97176  ---  Official U.S. PlayStation Magazine Demo Disc 053
-SCUS-97182  ---  Official U.S. PlayStation Magazine Demo Disc 056
 SCUS-97183  ---  Official U.S. PlayStation Magazine Demo Disc 057
 SCUS-97184  ---  Official U.S. PlayStation Magazine Demo Disc 058
 SCUS-97185  ---  Official U.S. PlayStation Magazine Demo Disc 059
@@ -1310,7 +1306,6 @@ SLPM-67545  ---  Project Minerva
 SLPM-67546  ---  Lord of the Rings - The Two Towers
 SLPM-67550  ---  Shin Sangoku Musou 2 - Mushouden
 SLPM-68003  ---  Formula Suzuki Hayabusa Time Attack
-SLPM-68019  ---  Naruto Shippuuden - Narutimate Accel 2
 SLPM-68504  ---  Tokimeki Memorial 3 - Special Sound Track
 SLPM-68521  ---  Dot Hack Fraegment [Senkou Release-ban]
 SLPM-69001  ---  PictureParadise Club
