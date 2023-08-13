@@ -2,12 +2,10 @@ PAPX-90516  ---  Jak and Daxter II [Trial]
 PBPX-95203  ---  HDD Utility Disc [Version 1.01]
 PBPX-95204  ---  Playstation 2 - Demo Disc 2000
 PBPX-95205  ---  Playstation 2 - Demo Disc 2000
-PBPX-95206  ---  DVD Player Version 2.01
 PBPX-95207  ---  DVD Player Version 2.10
 PBPX-95208  ---  DVD Player Version 2.10
 PBPX-95209  ---  DVD Player Version 2.10
 PBPX-95211  ---  HDD Utility Disc
-PBPX-95216  ---  HDD Utility Disc [Beta]
 PBPX-95601  ---  Gran Turismo 4 [PlayStation 2 Racing Pack]
 PCPX-96303  ---  6-gatsu Hatsubai Title Promotion Disc (Aconcagua - Boku no Natsuyasumi - TVDJ)
 PCPX-96311  ---  Gran Turismo 3 Trial Disk Volume 1
@@ -407,7 +405,7 @@ SCES-53898  ---  SingStar Rocks!
 SCES-54025  ---  SingStar Rocks!
 SCES-54071  ---  Buzz! The Big Quiz
 SCES-54073  ---  Buzz! The Big Quiz
-SCES-54078  ---  SingStar Norsk på Norsk
+SCES-54078  ---  SingStar Norsk pÃ¥ Norsk
 SCES-54197  ---  SingStar Legends
 SCES-54329  ---  SingStar Legends
 SCES-54353  ---  SingStar Legends
@@ -419,7 +417,7 @@ SCES-54374  ---  SingStar Pop Hits
 SCES-54375  ---  SingStar Pop Hits
 SCES-54524  ---  Buzz! Junior - Jungle Party
 SCES-54598  ---  SingStar - Svenska Hits Schlager
-SCES-54641  ---  SingStar - Après-Ski Party 2
+SCES-54641  ---  SingStar - AprÃ¨s-Ski Party 2
 SCES-54764  ---  SingStar Pop Hits 2
 SCES-54773  ---  SingStar Pop Hits
 SCES-54851  ---  Buzz! The Hollywood Quiz
@@ -447,7 +445,7 @@ SCES-55513  ---  SingStar Polskie Hity
 SCES-55538  ---  SingStar
 SCES-55551  ---  SingStar MoTown
 SCES-55553  ---  SingStar MoTown
-SCES-55568  ---  SingStar Svenska Stjärnor
+SCES-55568  ---  SingStar Svenska StjÃ¤rnor
 SCES-55594  ---  SingStar Vasco
 SCES-55618  ---  SingStar Kent
 SCES-55670  ---  Don 2 - The Game
@@ -633,7 +631,6 @@ SCUS-97373  ---  989 Sports 2004 Demo Disc
 SCUS-97377  ---  Syphon Filter - The Omega Strain [Regular Demo]
 SCUS-97378  ---  EyeToy and EyeToy Play [Demo]
 SCUS-97380  ---  Final Fantasy XI - Online [Demo]
-SCUS-97381  ---  Ratchet & Clank 2 - Going Commando [GameStop Demo]
 SCUS-97382  ---  NBA Shootout 2004 [Demo]
 SCUS-97383  ---  Kiosk Demo Disc 2.12
 SCUS-97384  ---  Gran Turismo Special Edition 2004 Toyota [Demo]
@@ -814,8 +811,8 @@ SLES-50855  ---  Mundial 2002 Challenge
 SLES-50901  ---  Conflict - Desert Storm
 SLES-50932  ---  Smash Court Tennis - Pro Tournament
 SLES-50994  ---  Paris-Marseille Racing II
-SLES-51024  ---  Roger Lemerre - La Sélection des Champions 2003
-SLES-51027  ---  Mánager de Liga 2003
+SLES-51024  ---  Roger Lemerre - La SÃ©lection des Champions 2003
+SLES-51027  ---  MÃ¡nager de Liga 2003
 SLES-51214  ---  Harry Potter og Hemmelighedernes Kammer
 SLES-51215  ---  Harry Potter og Mysteriekammeret
 SLES-51216  ---  Harry Potter ja Salaisuuksien Kammio
@@ -824,7 +821,7 @@ SLES-51273  ---  Wakeboarding Unleashed
 SLES-51275  ---  Summoner 2
 SLES-51294  ---  XIII
 SLES-51298  ---  Jimmy Neutron - Boy Genius
-SLES-51459  ---  Roger Lemerre - La Sélection des Champions 2004
+SLES-51459  ---  Roger Lemerre - La SÃ©lection des Champions 2004
 SLES-51460  ---  Football Manager 2004
 SLES-51461  ---  Football Manager 2004
 SLES-51541  ---  Grand Theft Auto - San Andreas
@@ -839,7 +836,7 @@ SLES-51782  ---  Fire Warrior
 SLES-51827  ---  Gladiator - Sword of Vengeance
 SLES-51834  ---  Premier Manager 2003-2004
 SLES-51925  ---  Splashdown 2 - Rides Gone Wild
-SLES-51960  ---  Disney-Pixar À Procura de Nemo
+SLES-51960  ---  Disney-Pixar Ã€ Procura de Nemo
 SLES-51961  ---  Prince of Persia - The Sands of Time
 SLES-51999  ---  GrooveRider Slot Car Thunder
 SLES-52061  ---  Star Academy
@@ -871,9 +868,9 @@ SLES-53242  ---  Madagascar
 SLES-53300  ---  SOCOM 3 - U.S. Navy SEALs
 SLES-53396  ---  Spartan - Total Warrior
 SLES-53420  ---  Winnie the Pooh's Rumbly Tumbly Adventure
-SLES-53465  ---  Maxi Quiz du Foot Français
+SLES-53465  ---  Maxi Quiz du Foot FranÃ§ais
 SLES-53466  ---  Il Grande Quiz sul Calcio Italiano
-SLES-53495  ---  Nickelodeon Bob L'éponge - Silence on Tourne!
+SLES-53495  ---  Nickelodeon Bob L'Ã©ponge - Silence on Tourne!
 SLES-53496  ---  Spongebob SquarePants - Lights, Camera, PANTS!
 SLES-53499  ---  Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!
 SLES-53530  ---  FIFA '06
@@ -1715,7 +1712,7 @@ TCPS-10172  ---  Homura [Taito the Best]
 TCPS-10182  ---  Rozen Maiden - Gebetgarten [Limited Edition]
 TCPS-10183  ---  Taito Memories II - Gekan
 TLES-52149  ---  Splinter Cell - Pandora Tomorrow Beta Trial Code
-TLES-52339  ---  Crash ‘N’ Burn Beta Trial Code
+TLES-52339  ---  Crash Â‘NÂ’ Burn Beta Trial Code
 TLES-52707  ---  Monster Hunter Beta Trial Code
 TLES-52781  ---  WWE - Smackdown Vs Raw Beta Trial Code
 TLES-53544  ---  Pro Evolution Soccer 5 Beta Trial Code
