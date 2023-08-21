@@ -35,7 +35,6 @@ SCAJ-20039  ---  Sidewinder V
 SCAJ-20040  ---  King of Fighters 2001, The
 SCAJ-20043  ---  ChainDive
 SCAJ-20045  ---  Shadow Tower Abyss
-SCAJ-20055  ---  Battle Gear 3
 SCAJ-20063  ---  Popolocrois - The Law of the Moon
 SCAJ-20065  ---  EyeToy - Play [with Camera]
 SCAJ-20066  ---  Gran Turismo 4 - Prologue
