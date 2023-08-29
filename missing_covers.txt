@@ -400,7 +400,6 @@ SCES-53898  ---  SingStar Rocks!
 SCES-54025  ---  SingStar Rocks!
 SCES-54071  ---  Buzz! The Big Quiz
 SCES-54073  ---  Buzz! The Big Quiz
-SCES-54078  ---  SingStar Norsk på Norsk
 SCES-54197  ---  SingStar Legends
 SCES-54329  ---  SingStar Legends
 SCES-54353  ---  SingStar Legends
@@ -412,7 +411,6 @@ SCES-54374  ---  SingStar Pop Hits
 SCES-54375  ---  SingStar Pop Hits
 SCES-54524  ---  Buzz! Junior - Jungle Party
 SCES-54598  ---  SingStar - Svenska Hits Schlager
-SCES-54641  ---  SingStar - Après-Ski Party 2
 SCES-54764  ---  SingStar Pop Hits 2
 SCES-54773  ---  SingStar Pop Hits
 SCES-54851  ---  Buzz! The Hollywood Quiz
@@ -440,7 +438,6 @@ SCES-55513  ---  SingStar Polskie Hity
 SCES-55538  ---  SingStar
 SCES-55551  ---  SingStar MoTown
 SCES-55553  ---  SingStar MoTown
-SCES-55568  ---  SingStar Svenska Stjärnor
 SCES-55594  ---  SingStar Vasco
 SCES-55618  ---  SingStar Kent
 SCES-55670  ---  Don 2 - The Game
@@ -805,8 +802,6 @@ SLES-50855  ---  Mundial 2002 Challenge
 SLES-50901  ---  Conflict - Desert Storm
 SLES-50932  ---  Smash Court Tennis - Pro Tournament
 SLES-50994  ---  Paris-Marseille Racing II
-SLES-51024  ---  Roger Lemerre - La Sélection des Champions 2003
-SLES-51027  ---  Mánager de Liga 2003
 SLES-51214  ---  Harry Potter og Hemmelighedernes Kammer
 SLES-51215  ---  Harry Potter og Mysteriekammeret
 SLES-51216  ---  Harry Potter ja Salaisuuksien Kammio
@@ -815,7 +810,6 @@ SLES-51273  ---  Wakeboarding Unleashed
 SLES-51275  ---  Summoner 2
 SLES-51294  ---  XIII
 SLES-51298  ---  Jimmy Neutron - Boy Genius
-SLES-51459  ---  Roger Lemerre - La Sélection des Champions 2004
 SLES-51460  ---  Football Manager 2004
 SLES-51461  ---  Football Manager 2004
 SLES-51541  ---  Grand Theft Auto - San Andreas
@@ -829,7 +823,6 @@ SLES-51782  ---  Fire Warrior
 SLES-51827  ---  Gladiator - Sword of Vengeance
 SLES-51834  ---  Premier Manager 2003-2004
 SLES-51925  ---  Splashdown 2 - Rides Gone Wild
-SLES-51960  ---  Disney-Pixar À Procura de Nemo
 SLES-51961  ---  Prince of Persia - The Sands of Time
 SLES-51999  ---  GrooveRider Slot Car Thunder
 SLES-52061  ---  Star Academy
@@ -861,9 +854,7 @@ SLES-53242  ---  Madagascar
 SLES-53300  ---  SOCOM 3 - U.S. Navy SEALs
 SLES-53396  ---  Spartan - Total Warrior
 SLES-53420  ---  Winnie the Pooh's Rumbly Tumbly Adventure
-SLES-53465  ---  Maxi Quiz du Foot Français
 SLES-53466  ---  Il Grande Quiz sul Calcio Italiano
-SLES-53495  ---  Nickelodeon Bob L'éponge - Silence on Tourne!
 SLES-53496  ---  Spongebob SquarePants - Lights, Camera, PANTS!
 SLES-53499  ---  Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!
 SLES-53530  ---  FIFA '06
@@ -1081,7 +1072,6 @@ SLPM-61007  ---  Maken Shao [Trial]
 SLPM-61008  ---  Devil May Cry [Trial]
 SLPM-61009  ---  Silent Hill 2 (Red Ribbon) [Trial]
 SLPM-61010  ---  Devil May Cry [Trial Version]
-SLPM-61011  ---  Silent Hill 2 (Black Ribbon) [Video Trial]
 SLPM-61018  ---  Abarenbou Princess [Trial]
 SLPM-61039  ---  Gun Survivor 4 - Biohazard - Heroes Never Die [Demo]
 SLPM-61046  ---  Dennou Senki - Virtual-On Marz [Trial]
@@ -1702,7 +1692,6 @@ TCPS-10172  ---  Homura [Taito the Best]
 TCPS-10182  ---  Rozen Maiden - Gebetgarten [Limited Edition]
 TCPS-10183  ---  Taito Memories II - Gekan
 TLES-52149  ---  Splinter Cell - Pandora Tomorrow Beta Trial Code
-TLES-52339  ---  Crash ‘N’ Burn Beta Trial Code
 TLES-52707  ---  Monster Hunter Beta Trial Code
 TLES-52781  ---  WWE - Smackdown Vs Raw Beta Trial Code
 TLES-53544  ---  Pro Evolution Soccer 5 Beta Trial Code
