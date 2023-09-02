@@ -1070,7 +1070,6 @@ SLPM-60277  ---  Jissen Pachi-Slot Hisshouhou! Hokuto no Ken Special Edition [Tr
 SLPM-60282  ---  Lucky Star - RAvish Romance [Trial]
 SLPM-61007  ---  Maken Shao [Trial]
 SLPM-61008  ---  Devil May Cry [Trial]
-SLPM-61009  ---  Silent Hill 2 (Red Ribbon) [Trial]
 SLPM-61010  ---  Devil May Cry [Trial Version]
 SLPM-61018  ---  Abarenbou Princess [Trial]
 SLPM-61039  ---  Gun Survivor 4 - Biohazard - Heroes Never Die [Demo]
@@ -1442,7 +1441,6 @@ SLPS-25943  ---  Hisshou Pachinko Pachi-Slot Kouryaku Series Vol. 14 - CR Shin S
 SLPS-25948  ---  Zero no Tsukaima - Maigo no Period to Ikusen no Symphony [Best Collection]
 SLPS-25959  ---  Kidou Senshi Gundam - Giren no Yabou - Axis no Kyoui V
 SLPS-25961  ---  Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T.
-SLPS-25978  ---  Shin Master of Monsters Final EX
 SLPS-29001  ---  Xenosaga Episode 1 - Der Wille zur Macht [Premium Box]
 SLPS-73206  ---  Super Robot Taisen Alpha 2nd [PlayStation 2 The Best]
 SLPS-73215  ---  Shadow Hearts 2 [Director's Cut] [PlayStation 2 The Best] [Disc2of2]
