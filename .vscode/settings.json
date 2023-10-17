@@ -1,9 +1,0 @@
-{
-    "html.format.contentUnformatted": "",
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
-    "editor.defaultFormatter": "ms-python.black-formatter",
-    "[jsonc]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
-}

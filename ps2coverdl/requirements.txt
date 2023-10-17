@@ -1,4 +1,0 @@
-colorama==0.4.6
-PyYAML==6.0.1
-termcolor==2.3.0
-tqdm==4.64.1

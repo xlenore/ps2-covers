@@ -1,9 +1,31 @@
 *⭐**Star this repo if it was useful to you**⭐*
+
 ⚠️**Please report Not found | Low quality | Wrong covers**⚠️
 
-- [PS2 Covers](https://github.com/xlenore/ps2-covers#ps2-covers  "PS2 Covers")
+- [Covers Stats](https://github.com/xlenore/ps2-covers#Covers_Stats  "Covers Stats")
+- [PSCoverDL App](https://github.com/xlenore/ps2-covers#PSCoverDL)
 - [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup  "PCSX2 Setup")
-- [PS2CoverDL App](https://github.com/xlenore/ps2-covers#PS2CoverDL)
+
+## PSCoverDL
+
+[![](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)
+
+Small tool to download PS1/PS2 covers for DuckStation and PCSX2.
+You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl "PSCoverDL")
+
+## PCSX2 setup
+
+[![](https://i.imgur.com/frOjqhc.gif)](https://i.imgur.com/jTGL0HH.gif)
+
+PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
+- Open PCSX2
+- Tools -> Cover Downloader...
+- Use this URL `https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg` for default covers, or use `https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png` for 3D covers.
+- Check "Use Serial Files Name"
+- Click Start
+- Enjoy :)
+
+## Covers Stats
 
 | Serial | Available/Total | Percentage |
 | ------ | --------------- | ---------- |
@@ -36,39 +58,6 @@
 | TCPS | 19/36 | 52.78% |
 | TLES | 2/8 | 25.00% |
 | VW067 | 2/2 | 100.00% |
-
-## PCSX2 setup
-PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
-- Open PCSX2
-- Tools -> Cover Downloader...
-- Use this url `https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/${serial}.jpg`
-- Check "Use Serial Files Name"
-- Click Start
-- Enjoy :)
-
-[![](https://i.imgur.com/jTGL0HH.gif)](https://i.imgur.com/jTGL0HH.gif)
-
-## PS2CoverDL
-PS2CoverDL is a command-line tool that automatically downloads PlayStation 2 (PS2) game covers for the PCSX2 emulator.
-
-**.Exe instructions:**
-- Download [PS2CoverDL.exe](https://github.com/xlenore/ps2-covers/raw/main/ps2coverdl/ps2coverdl.exe) | ([Source Code](https://raw.githubusercontent.com/xlenore/ps2-covers/main/ps2coverdl/ps2coverdl.py))
-- Run **PS2CoverDL.exe**
-- Search and select **pcsx2-qtx64-avx2.exe**
-- Select whether you want to use SSL or not.
-
-The configurations will be saved in **ps2coverdl.ini** file, which will be located in the same directory as the .exe file.
-
-**.Py (CLI) instructions:**
-- Download [PS2CoverDL.py](https://github.com/xlenore/ps2-covers/raw/main/ps2coverdl/ps2coverdl.py)
-```console
-python ps2coverdl.py -dir /path/ -use_ssl true
-
-#-dir: Specifies the directory where the `pcsx2-qtx64-avx2.exe` file is located. This argument allows you to provide a custom directory path instead of using the default directory.
-#-use_ssl (optional): Specifies whether to use SSL (https)or not. By default, the value is set to `True` . If you want to disable SSL, you can set this argument to `false` .
-```
-
-[![](https://i.imgur.com/C8obFzK.png)](https://i.imgur.com/C8obFzK.png)
 
 ## Credits
 * pcsx2.net
