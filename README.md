@@ -2,12 +2,33 @@
 
 ⚠️**Please report Not found | Low quality | Wrong covers**⚠️
 
-- [PS2 Covers](https://github.com/xlenore/ps2-covers#ps2-covers "PS2 Covers")
-- [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup "PCSX2 Setup")
-- [PCSX2 Cover Downloader](https://github.com/xlenore/ps2-covers#PCSX2-Cover-Downloader)
+- [Covers Stats](https://github.com/xlenore/ps2-covers#Covers_Stats  "Covers Stats")
+- [PSCoverDL App](https://github.com/xlenore/ps2-covers#PSCoverDL)
+- [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup  "PCSX2 Setup")
 
-| Serial |  Available/Total |  Percentage  |
-| ------ |  --------------- |  ----------  |
+## PSCoverDL
+
+[![](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)
+
+Small tool to download PS1/PS2 covers for DuckStation and PCSX2.
+You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl "PSCoverDL")
+
+## PCSX2 setup
+
+[![](https://i.imgur.com/frOjqhc.gif)](https://i.imgur.com/jTGL0HH.gif)
+
+PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
+- Open PCSX2
+- Tools -> Cover Downloader...
+- Use this URL `https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg` for default covers, or use `https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png` for 3D covers.
+- Check "Use Serial Files Name"
+- Click Start
+- Enjoy :)
+
+## Covers Stats
+
+| Serial | Available/Total | Percentage |
+| ------ | --------------- | ---------- |
 | ALCH | 16/16 | 100.00% |
 | CPCS | 2/2 | 100.00% |
 | GUST | 1/1 | 100.00% |
@@ -37,27 +58,6 @@
 | TCPS | 19/36 | 52.78% |
 | TLES | 2/8 | 25.00% |
 | VW067 | 2/2 | 100.00% |
-
-## PCSX2 setup
-PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
-- Open PCSX2
-- Tools -> Cover Downloader...
-- Use this url `https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/${serial}.jpg`
-- Check "Use Serial Files Name"
-- Click Start
-- Enjoy :)
-
-[![](https://i.imgur.com/jTGL0HH.gif)](https://i.imgur.com/jTGL0HH.gif)
-
-## PCSX2 Cover Downloader
-This is an alternative in case you don't want to be copying and pasting the repository url every time you want to download a cover.
-- Download [PCSX2 Cover Downloader](https://github.com/xlenore/ps2-covers/raw/main/PCSX2-cover-downloader/PCSX2%20cover%20downloader.exe) | ([Source Code](https://raw.githubusercontent.com/xlenore/ps2-covers/main/PCSX2-cover-downloader/PCSX2%20cover%20downloader.py))
-- Put **PCSX2 Cover Downloader.exe** in your PCSX2 Folder
-- Run the App every time you want to download covers
-- Enjoy :)
-
-[![](https://i.imgur.com/TJ7R7cJ.png)](https://i.imgur.com/TJ7R7cJ.png)
-
 
 ## Credits
 * pcsx2.net
