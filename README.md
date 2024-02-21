@@ -17,7 +17,7 @@ You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl 
 
 [![](https://i.imgur.com/frOjqhc.gif)](https://i.imgur.com/jTGL0HH.gif)
 
-PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
+PCSX2 has its own cover downloader, upgrade to the latest version
 - Open PCSX2
 - Tools -> Cover Downloader...
 - Use this URL for default covers
@@ -26,6 +26,21 @@ PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
 - or use this one for 3D covers.
   ```python
   https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
+- Check "Use Serial Files Name"
+- Click Start
+- Enjoy :)
+
+## Duckstation Setup
+
+Duckstation (also) has its own cover downloader, Upgrade to the latest version
+- Open Duckstation
+- Tools -> Cover Dowloader...
+- Use This URL for default Covers
+- ```python
+  https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/default/${serial}.jpg
+- or use this one for 3D covers.
+  ```python
+  https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/3d/${serial}.png
 - Check "Use Serial Files Name"
 - Click Start
 - Enjoy :)
