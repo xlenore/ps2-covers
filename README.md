@@ -25,7 +25,7 @@ PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to Update yo
 
 3. **Copy one of the URLs Below**
 
-4. **Paste The URL in the box under [EXAMPLE https://.....]**
+4. **Paste The URL in the box under [EXAMPLE: https://.....]**
 
 5. **Check The Box "Use Serial File Names"**
 
