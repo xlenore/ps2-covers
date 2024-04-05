@@ -17,7 +17,7 @@ PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to Update yo
 
 - Open PCSX2
 - Tools -> Cover Downloader...
-- Use this URL for default covers
+- Use this URL for 2D covers
   ```python
   https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
 - or use this one for 3D covers.
