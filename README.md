@@ -14,8 +14,7 @@ Small tool to download PS1/PS2 covers for DuckStation and PCSX2.
 You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl "PSCoverDL")
 
 ## Emulators Built in Cover Downloaders
-PCSX2 & Duckstation Have Their Own Cover Downloaders
-You Will Have To Update The Emulator To The Latest Release
+PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to Update your emulator to the Latest Release.
 
 
 ## PCSX2 Setup
