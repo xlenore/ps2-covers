@@ -49,7 +49,7 @@ PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to Update yo
   https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
 
 ## PSCoverDL
-Alternatively you can use PSCoverDL
+*Alternatively you can use PSCoverDL*
 
 - A Small tool to download PS1/PS2 covers for DuckStation and PCSX2.
 
