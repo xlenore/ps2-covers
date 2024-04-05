@@ -11,30 +11,39 @@
 PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to Update your emulator to the Latest Release.
 
 
-## PCSX2 Setup
+## PCSX2 - Duckstation Setup
 
 [![](https://i.imgur.com/frOjqhc.gif)](https://i.imgur.com/jTGL0HH.gif)
 
-- Open PCSX2
-- Tools -> Cover Downloader...
+1. **Open PCSX2 Or Duckstation**
+- Tools
+  - Cover Downloader...
+
+2. **Copy one of the URLs Below**
+
+3. **Paste The URL in the box under [EXAMPLE https://.....]**
+
+4. **Check The Box "Use Serial File Names"**
+
+5. **Click Start**
+
+6. Wait For The Covers To Download And you should be done
 - Use this URL for 2D covers
   ```python
   https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
 - or use this one for 3D covers.
   ```python
   https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
-- Check "Use Serial Files Name"
-- Click Start
-- Enjoy :)
 
 ## PSCoverDL
-Alternatively you can use PSCoverDL 
+Alternatively you can use PSCoverDL
+
+- A Small tool to download PS1/PS2 covers for DuckStation and PCSX2.
+
+- You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl "PSCoverDL")
 
 [![](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)
 
-A Small tool to download PS1/PS2 covers for DuckStation and PCSX2.
-
-You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl "PSCoverDL")
 
 ## Covers Stats
 
