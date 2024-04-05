@@ -15,6 +15,7 @@ You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl 
 
 ## Emulators Built in Cover Downloaders
 PCSX2 & Duckstation Have Their Own Cover Downloaders
+You Will Have To Update The Emulator To The Latest Release
 
 
 ## PCSX2 Setup
