@@ -36,10 +36,10 @@ PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to Update yo
 ## PS1 Covers
 - >URL for 2D -  ___PS1___ covers.
   ```python
-  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
+  https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/default/${serial}.jpg
 - >URL for 3D -  ___PS1___ covers.
   ```python
-  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
+  https://raw.githubusercontent.com/xlenore/psx-covers/main/covers/3d/${serial}.png
 ## PS2 Covers
 - >URL for 2D -  ___PS2___ covers.
   ```python
