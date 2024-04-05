@@ -15,23 +15,36 @@ PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to Update yo
 
 [![](https://i.imgur.com/frOjqhc.gif)](https://i.imgur.com/jTGL0HH.gif)
 
-1. **Open PCSX2 Or Duckstation**
+1. **Open PCSX2 Or Duckstation:**
+- Help
+  - Check for updates
+ 
+2. **Go To:**
 - Tools
   - Cover Downloader...
 
-2. **Copy one of the URLs Below**
+3. **Copy one of the URLs Below**
 
-3. **Paste The URL in the box under [EXAMPLE https://.....]**
+4. **Paste The URL in the box under [EXAMPLE https://.....]**
 
-4. **Check The Box "Use Serial File Names"**
+5. **Check The Box "Use Serial File Names"**
 
-5. **Click Start**
+6. **Click Start**
 
-6. Wait For The Covers To Download And you should be done
-- Use this URL for 2D covers
+7. **Wait For The Covers To Download And you're done.**
+
+## PS1 Covers
+- >URL for 2D -  ___PS1___ covers.
   ```python
   https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
-- or use this one for 3D covers.
+- >URL for 3D -  ___PS1___ covers.
+  ```python
+  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
+## PS2 Covers
+- >URL for 2D -  ___PS2___ covers.
+  ```python
+  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
+- >URL for 3D -  ___PS2___ covers.
   ```python
   https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
 
