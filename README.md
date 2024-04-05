@@ -33,6 +33,7 @@ Alternatively you can use PSCoverDL
 [![](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)](https://user-images.githubusercontent.com/57191159/275665605-4c4b3042-85e4-45b5-8f1b-48a6f00a93ea.png)
 
 A Small tool to download PS1/PS2 covers for DuckStation and PCSX2.
+
 You can download it from here: [PSCoverDL](https://github.com/xlenore/pscoverdl "PSCoverDL")
 
 ## Covers Stats
