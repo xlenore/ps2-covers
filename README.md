@@ -11,7 +11,7 @@
 PCSX2 & Duckstation Have Their Own Cover Downloaders, you will have to Update your emulator to the Latest Release.
 
 
-## Setup for PCSX2 - Duckstation
+## Setup for PCSX2 & Duckstation
 
 [![](https://i.imgur.com/frOjqhc.gif)](https://i.imgur.com/jTGL0HH.gif)
 
