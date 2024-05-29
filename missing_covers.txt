@@ -1401,7 +1401,6 @@ SLPS-25255  ---  Sidewinder V [Premium Flight Box]
 SLPS-25272  ---  Hulk, The
 SLPS-25288  ---  D-A - Black [Limited Edition]
 SLPS-25289  ---  Time Crisis 3 [with G-Con 2]
-SLPS-25318  ---  Shadow Hearts 2 [Deluxe Pack] [Disc2of2]
 SLPS-25321  ---  Derby Stallion 2004
 SLPS-25323  ---  Usagi - Yasei no Topai - Yamashiro Mahjong-Hen
 SLPS-25326  ---  WWE Smackdown! Here Comes the Pain - Exciting Pro Wrestling 5 [Limited Edition]
