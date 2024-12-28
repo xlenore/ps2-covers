@@ -26,7 +26,7 @@ PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
 - or use this one for 3D covers.
   ```python
   https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${title}.png
-- Check "Use Title Files Name"
+- Check "Use Title File Names"
 - Click Start
 - Enjoy :)
 
