@@ -2,9 +2,9 @@
 
 ⚠️**Please report Not found | Low quality | Wrong covers**⚠️
 
-- [Covers Stats](https://github.com/xlenore/ps2-covers#Covers_Stats  "Covers Stats")
-- [PSCoverDL App](https://github.com/xlenore/ps2-covers#PSCoverDL)
-- [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup  "PCSX2 Setup")
+- [Covers Stats](#covers-stats)
+- [PSCoverDL App](#pscoverdl)
+- [PCSX2 Setup](#pcsx2-setup)
 
 ## PSCoverDL
 
@@ -22,11 +22,11 @@ PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
 - Tools -> Cover Downloader...
 - Use this URL for default covers
   ```python
-  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${serial}.jpg
+  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/default/${title}.jpg
 - or use this one for 3D covers.
   ```python
-  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${serial}.png
-- Check "Use Serial Files Name"
+  https://raw.githubusercontent.com/xlenore/ps2-covers/main/covers/3d/${title}.png
+- Check "Use Title Files Name"
 - Click Start
 - Enjoy :)
 
