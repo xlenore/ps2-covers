@@ -852,7 +852,6 @@ SLES-53222  ---  Scudetto 5
 SLES-53223  ---  Championship Manager 5
 SLES-53242  ---  Madagascar
 SLES-53300  ---  SOCOM 3 - U.S. Navy SEALs
-SLES-53396  ---  Spartan - Total Warrior
 SLES-53420  ---  Winnie the Pooh's Rumbly Tumbly Adventure
 SLES-53466  ---  Il Grande Quiz sul Calcio Italiano
 SLES-53496  ---  Spongebob SquarePants - Lights, Camera, PANTS!
