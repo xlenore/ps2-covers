@@ -853,7 +853,6 @@ SLES-53223  ---  Championship Manager 5
 SLES-53242  ---  Madagascar
 SLES-53420  ---  Winnie the Pooh's Rumbly Tumbly Adventure
 SLES-53466  ---  Il Grande Quiz sul Calcio Italiano
-SLES-53496  ---  Spongebob SquarePants - Lights, Camera, PANTS!
 SLES-53499  ---  Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!
 SLES-53530  ---  FIFA '06
 SLES-53634  ---  Nicktoons Unite!
