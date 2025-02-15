@@ -923,7 +923,6 @@ SLES-55421  ---  Buzz! Brain of Switzerland
 SLES-55434  ---  Disney Sing It
 SLES-55453  ---  SingStar Queen
 SLES-55460  ---  Trivial Pursuit
-SLES-55496  ---  Secret Agent Clank
 SLES-55516  ---  L'Era Glaciale 3 - L'Alba dei Dinosauri
 SLES-55517  ---  Trivial Pursuit
 SLES-55518  ---  Guitar Hero - Van Halen
