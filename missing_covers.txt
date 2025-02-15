@@ -928,7 +928,6 @@ SLES-55516  ---  L'Era Glaciale 3 - L'Alba dei Dinosauri
 SLES-55517  ---  Trivial Pursuit
 SLES-55518  ---  Guitar Hero - Van Halen
 SLES-55526  ---  Disney-Pixar Psila ston Ourano
-SLES-55571  ---  Ghostbusters
 SLES-55573  ---  MotorStorm Arctic Edge
 SLES-55597  ---  Hugo - Magic in the Trollwoods
 SLES-55604  ---  PES 2010 - Pro Evolution Soccer [Demo]
