@@ -338,7 +338,6 @@ SCED-54338  ---  Bonus Demo 11
 SCED-54403  ---  Official PlayStation 2 Magazine Demo 78
 SCED-54404  ---  Official PlayStation 2 Magazine Demo 79
 SCED-54405  ---  Official PlayStation 2 Magazine Demo 80
-SCED-54406  ---  Official PlayStation 2 Magazine Demo 81
 SCED-54407  ---  Official PlayStation 2 Magazine Demo 82
 SCED-54408  ---  Official PlayStation 2 Magazine Demo 83
 SCED-54409  ---  Official PlayStation 2 Magazine Demo 84
