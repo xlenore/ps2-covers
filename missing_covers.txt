@@ -851,11 +851,8 @@ SLES-53095  ---  Rugby 2005
 SLES-53222  ---  Scudetto 5
 SLES-53223  ---  Championship Manager 5
 SLES-53242  ---  Madagascar
-SLES-53300  ---  SOCOM 3 - U.S. Navy SEALs
-SLES-53396  ---  Spartan - Total Warrior
 SLES-53420  ---  Winnie the Pooh's Rumbly Tumbly Adventure
 SLES-53466  ---  Il Grande Quiz sul Calcio Italiano
-SLES-53496  ---  Spongebob SquarePants - Lights, Camera, PANTS!
 SLES-53499  ---  Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!
 SLES-53530  ---  FIFA '06
 SLES-53634  ---  Nicktoons Unite!
@@ -926,12 +923,10 @@ SLES-55421  ---  Buzz! Brain of Switzerland
 SLES-55434  ---  Disney Sing It
 SLES-55453  ---  SingStar Queen
 SLES-55460  ---  Trivial Pursuit
-SLES-55496  ---  Secret Agent Clank
 SLES-55516  ---  L'Era Glaciale 3 - L'Alba dei Dinosauri
 SLES-55517  ---  Trivial Pursuit
 SLES-55518  ---  Guitar Hero - Van Halen
 SLES-55526  ---  Disney-Pixar Psila ston Ourano
-SLES-55571  ---  Ghostbusters
 SLES-55573  ---  MotorStorm Arctic Edge
 SLES-55597  ---  Hugo - Magic in the Trollwoods
 SLES-55604  ---  PES 2010 - Pro Evolution Soccer [Demo]
