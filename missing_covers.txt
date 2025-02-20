@@ -898,7 +898,6 @@ SLES-55011  ---  Thrillville - Fuera de Control
 SLES-55019  ---  Ratchet & Clank - Size Matters
 SLES-55023  ---  Pro Evolution Soccer 2008
 SLES-55026  ---  Disney-Pixar Cars - Mater-National Championship
-SLES-55080  ---  Nickelodeon SpongeBob's Atlantis SquarePantis
 SLES-55145  ---  Chronicles of Narnia, The - Prince Caspian
 SLES-55166  ---  Bob O Construtor - Festival do Divertimento
 SLES-55168  ---  Paard & Pony - Topruiter
