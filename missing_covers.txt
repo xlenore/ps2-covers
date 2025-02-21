@@ -146,7 +146,6 @@ SCED-51440  ---  Official PlayStation 2 Magazine Demo 29
 SCED-51457  ---  Official PlayStation 2 Magazine Demo 30
 SCED-51483  ---  Official PlayStation 2 Magazine Demo 30
 SCED-51485  ---  Official PlayStation 2 Magazine Demo 30
-SCED-51486  ---  Bonus Demo 4
 SCED-51489  ---  Official PlayStation 2 Magazine Demo 30
 SCED-51529  ---  Official PlayStation 2 Magazine Demo 31
 SCED-51530  ---  Official PlayStation 2 Magazine Demo 32
