@@ -829,7 +829,6 @@ SLES-52124  ---  Kill Switch
 SLES-52249  ---  Premier Manager 2003-2004
 SLES-52314  ---  Hugo - Bukkazoom
 SLES-52392  ---  Combat Elite - WWII Paratroopers [Preview]
-SLES-52395  ---  UFEA Euro 2004
 SLES-52423  ---  Smash Court Tennis - Pro Tournament 2
 SLED-52574  ---  Crash Twinsanity & Spyro - A Hero's Tail [Demo]
 SLES-52593  ---  Dynasty Warriors 4 - Empires
