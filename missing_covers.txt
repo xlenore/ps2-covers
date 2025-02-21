@@ -858,7 +858,6 @@ SLES-53793  ---  Pro Evolution Soccer 5 [Demo]
 SLES-53861  ---  Dynasty Warriors 5 - Xtreme Legends
 SLES-53897  ---  Dreamworks Vecinos Invasores
 SLES-53986  ---  Over the Hedge
-SLES-54081  ---  FIFA World Cup 2006
 SLES-54106  ---  Kidz Sports - Ice Hockey
 SLES-54107  ---  Kidz Sports - Basketball
 SLES-54108  ---  Habitrail - Hamster Ball

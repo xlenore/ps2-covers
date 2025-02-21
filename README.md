@@ -54,7 +54,7 @@ PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
 | SCUS | 207/397 | 52.14% |
 | SLAJ | 43/63 | 68.25% |
 | SLED | 3/52 | 5.77% |
-| SLES | 2918/3069 | 95.07% |
+| SLES | 2919/3069 | 95.11% |
 | SLKA | 168/261 | 64.37% |
 | SLPM | 2456/2728 | 90.03% |
 | SLPS | 1136/1288 | 88.20% |
