@@ -46,7 +46,7 @@ PCSX2 has its own cover downloader, upgrade to version **v1.7.3329** or higher.
 | SCAJ | 160/213 | 75.12% |
 | SCCS | 12/18 | 66.67% |
 | SCED | 9/304 | 2.96% |
-| SCES | 380/455 | 83.52% |
+| SCES | 381/455 | 83.73% |
 | SCKA | 65/92 | 70.65% |
 | SCPM | 2/2 | 100.00% |
 | SCPN | 7/7 | 100.00% |

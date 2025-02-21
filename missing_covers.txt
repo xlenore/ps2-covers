@@ -368,7 +368,6 @@ SCES-50009  ---  Wild Wild Racing
 SCES-50614  ---  Jak and Daxter - The Precursor Legacy
 SCES-50935  ---  WRC II Extreme
 SCES-50987  ---  Resident Evil - Outbreak
-SCES-51040  ---  Le Monde des Bleus 2003
 SCES-51041  ---  This is Football 2003
 SCES-51179  ---  This is Football 2003
 SCES-51533  ---  God of War
