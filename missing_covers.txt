@@ -886,7 +886,6 @@ SLES-54744  ---  Disney-Pixar Ratatouille
 SLES-54746  ---  Disney-Pixar Ratatouille
 SLES-54807  ---  Thrillville - Off the Rails
 SLES-54896  ---  NBA Live 08
-SLES-54982  ---  Bob the Builder - Festival of Fun
 SLES-54990  ---  Nicktoons - Attack of the Toybots
 SLES-55010  ---  Thrillville - Fuori dai Binari
 SLES-55011  ---  Thrillville - Fuera de Control
