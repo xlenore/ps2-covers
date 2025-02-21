@@ -812,7 +812,6 @@ SLES-51298  ---  Jimmy Neutron - Boy Genius
 SLES-51460  ---  Football Manager 2004
 SLES-51461  ---  Football Manager 2004
 SLES-51541  ---  Grand Theft Auto - San Andreas
-SLES-51618  ---  Starsky & Hutch
 SLES-51645  ---  Def Jam - Vendetta [Demo]
 SLES-51667  ---  Piglet's Big Game
 SLES-51668  ---  Piglet's Big Game
