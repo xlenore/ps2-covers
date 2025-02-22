@@ -146,7 +146,6 @@ SCED-51440  ---  Official PlayStation 2 Magazine Demo 29
 SCED-51457  ---  Official PlayStation 2 Magazine Demo 30
 SCED-51483  ---  Official PlayStation 2 Magazine Demo 30
 SCED-51485  ---  Official PlayStation 2 Magazine Demo 30
-SCED-51486  ---  Bonus Demo 4
 SCED-51489  ---  Official PlayStation 2 Magazine Demo 30
 SCED-51529  ---  Official PlayStation 2 Magazine Demo 31
 SCED-51530  ---  Official PlayStation 2 Magazine Demo 32
@@ -369,7 +368,6 @@ SCES-50009  ---  Wild Wild Racing
 SCES-50614  ---  Jak and Daxter - The Precursor Legacy
 SCES-50935  ---  WRC II Extreme
 SCES-50987  ---  Resident Evil - Outbreak
-SCES-51040  ---  Le Monde des Bleus 2003
 SCES-51041  ---  This is Football 2003
 SCES-51179  ---  This is Football 2003
 SCES-51533  ---  God of War
@@ -812,7 +810,6 @@ SLES-51298  ---  Jimmy Neutron - Boy Genius
 SLES-51460  ---  Football Manager 2004
 SLES-51461  ---  Football Manager 2004
 SLES-51541  ---  Grand Theft Auto - San Andreas
-SLES-51618  ---  Starsky & Hutch
 SLES-51645  ---  Def Jam - Vendetta [Demo]
 SLES-51667  ---  Piglet's Big Game
 SLES-51668  ---  Piglet's Big Game
@@ -829,7 +826,6 @@ SLES-52124  ---  Kill Switch
 SLES-52249  ---  Premier Manager 2003-2004
 SLES-52314  ---  Hugo - Bukkazoom
 SLES-52392  ---  Combat Elite - WWII Paratroopers [Preview]
-SLES-52395  ---  UFEA Euro 2004
 SLES-52423  ---  Smash Court Tennis - Pro Tournament 2
 SLED-52574  ---  Crash Twinsanity & Spyro - A Hero's Tail [Demo]
 SLES-52593  ---  Dynasty Warriors 4 - Empires
@@ -859,7 +855,6 @@ SLES-53793  ---  Pro Evolution Soccer 5 [Demo]
 SLES-53861  ---  Dynasty Warriors 5 - Xtreme Legends
 SLES-53897  ---  Dreamworks Vecinos Invasores
 SLES-53986  ---  Over the Hedge
-SLES-54081  ---  FIFA World Cup 2006
 SLES-54106  ---  Kidz Sports - Ice Hockey
 SLES-54107  ---  Kidz Sports - Basketball
 SLES-54108  ---  Habitrail - Hamster Ball
@@ -889,16 +884,12 @@ SLES-54744  ---  Disney-Pixar Ratatouille
 SLES-54746  ---  Disney-Pixar Ratatouille
 SLES-54807  ---  Thrillville - Off the Rails
 SLES-54896  ---  NBA Live 08
-SLES-54900  ---  EyeToy - Bob the Builder
-SLES-54923  ---  EyeToy - Bob the Builder
-SLES-54982  ---  Bob the Builder - Festival of Fun
 SLES-54990  ---  Nicktoons - Attack of the Toybots
 SLES-55010  ---  Thrillville - Fuori dai Binari
 SLES-55011  ---  Thrillville - Fuera de Control
 SLES-55019  ---  Ratchet & Clank - Size Matters
 SLES-55023  ---  Pro Evolution Soccer 2008
 SLES-55026  ---  Disney-Pixar Cars - Mater-National Championship
-SLES-55080  ---  Nickelodeon SpongeBob's Atlantis SquarePantis
 SLES-55145  ---  Chronicles of Narnia, The - Prince Caspian
 SLES-55166  ---  Bob O Construtor - Festival do Divertimento
 SLES-55168  ---  Paard & Pony - Topruiter
