@@ -1,5 +1,3 @@
-PAPX-90516  ---  Jak and Daxter II [Trial]
-PBPX-95203  ---  HDD Utility Disc [Version 1.01]
 PBPX-95207  ---  DVD Player Version 2.10
 PBPX-95208  ---  DVD Player Version 2.10
 PBPX-95209  ---  DVD Player Version 2.10
