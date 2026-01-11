@@ -1,7 +1,5 @@
 *⭐**Star this repo if it was useful to you**⭐*
 
-⚠️**Please report Not found | Low quality | Wrong covers**⚠️
-
 - [Covers Stats](https://github.com/xlenore/ps2-covers#Covers_Stats  "Covers Stats")
 - [PSCoverDL App](https://github.com/xlenore/ps2-covers#PSCoverDL)
 - [PCSX2 Setup](https://github.com/xlenore/ps2-covers#pcsx2-setup  "PCSX2 Setup")
