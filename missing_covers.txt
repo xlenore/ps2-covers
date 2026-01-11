@@ -1,14 +1,121 @@
+PAPX-90020  ---  Koukaku Kidoutai - Stand Alone Complex [Trial]
+PAPX-90204  ---  TVDJ [Trial]
+PAPX-90205  ---  Dark Cloud MovieDisk [Trial]
+PAPX-90206  ---  Blood the Last Vampire Trailer Disc [Trial]
+PAPX-90207  ---  Gran Turismo 3 - A-Spec - Autobacs Gentei Replay Theater
+PAPX-90210  ---  Yappa RPG desho. [Original Movie Disk]
+PAPX-90211  ---  Extermination [Trial]
+PAPX-90212  ---  Boku to Maou [Trial]
+PAPX-90213  ---  Phase Paradox
+PAPX-90216  ---  Bravo Music [Trial]
+PAPX-90218  ---  SkyGunner [Trial]
+PAPX-90220  ---  Surveillance - Kanshisha [Trial]
+PAPX-90224  ---  Sidewinder F [Trial]
+PAPX-90225  ---  Legaia - Duel Saga - Special Disc [Trial]
+PAPX-90226  ---  Otostaz [Trial]
+PAPX-90228  ---  Otostaz [Trial/Limited]
+PAPX-90229  ---  XI Go [Trial]
+PAPX-90230  ---  Arc the Lad - Seirei no Tasogare - Premiere Disc [ShopDemo]
+PAPX-90232  ---  Chain Dive [Trial]
+PAPX-90233  ---  Bakusou Mountain Bikers [Trial]
+PAPX-90234  ---  Katamari Damacy [Trial]
+PAPX-90235  ---  XII [Trial]
+PAPX-90236  ---  Minna Daisuki Katamari Damacy [Trial]
+PAPX-90330  ---  Saru! Get You! 2 - Ukki Ukki Disc
+PAPX-90501  ---  Dark Cloud [Trial]
+PAPX-90502  ---  Yamanote-sen - Train Simulator Real, The [Trial]
+PAPX-90511  ---  Siren [Trial]
+PAPX-90514  ---  Recommended Winter Software Trial Disc
+PAPX-90515  ---  Recommended Winter Software Trial Disc 2003-2004
+PAPX-90519  ---  Dokodemo Issyo - Toro to Ippai [Trial]
+PAPX-90521  ---  Waga Ryuu wo Miyo - Pride of the Dragon Peace [Users Trial]
+PAPX-90522  ---  Genji [Trial]
+PAPX-90523  ---  Gran Turismo 4 - Online Test Version
+PAPX-90524  ---  Wild Arms - The Vth Vanguard [Trial]
 PBPX-95207  ---  DVD Player Version 2.10
 PBPX-95208  ---  DVD Player Version 2.10
 PBPX-95209  ---  DVD Player Version 2.10
-PBPX-95211  ---  HDD Utility Disc
-PBPX-95601  ---  Gran Turismo 4 [PlayStation 2 Racing Pack]
+PBPX-95211  ---  HDD Utility Disc Version 1.00
+PBPX-95237  ---  HDD Utility Disc
+PBPX-95250  ---  Online Start-Up Disc v1.0
+PBPX-95501  ---  PS2 Linux Beta Release 1
+PBPX-95502  ---  GRAN TURISMO 3 - A-Spec [PS2 Bundle]
+PBPX-95507  ---  Linux (for PlayStation 2) Release 1.0 (Disc 1) (Runtime Environment)
+PBPX-95508  ---  Linux (for PlayStation 2) Release 1.0 (Disc 2) (Software Packages)
+PBPX-95510  ---  Linux (for PlayStation 2) Release 1.0 (Disc 2) (Software Packages)
+PBPX-95519  ---  Network Adaptor Start-Up Disc v2.0
+PBPX-95522  ---  Kidou Senshi Z Gundam - A.E.U.G. vs. Titans [PS2 Bundle]
+PBPX-95523  ---  Gran Turismo 4 Prologue [PS2 Bundle]
+PBPX-95525  ---  FINAL FANTASY XII [PS2 Bundle]
+PBPX-95601  ---  GRAN TURISMO 4 [PS2 Bundle]
+PCPX-96301  ---  I.Q Remix+ [Trial]
+PCPX-96302  ---  Fantavision [Trial]
 PCPX-96303  ---  6-gatsu Hatsubai Title Promotion Disc (Aconcagua - Boku no Natsuyasumi - TVDJ)
+PCPX-96304  ---  Scandal MovieDisk [ShopPV]
+PCPX-96305  ---  Play-Pre Plus 004 - 2000 June [Disc 2]
+PCPX-96306  ---  Bikkuri Mouse [ShopTrail]
+PCPX-96309  ---  GRAN TURISMO 3 Netz TOYOTA [Demo]
+PCPX-96310  ---  X-treme Racing SSX [Trial]
 PCPX-96311  ---  Gran Turismo 3 Trial Disk Volume 1
+PCPX-96312  ---  Gran Turismo 3 - A-Spec - Autobacs Tentou Shiyuu Disc
+PCPX-96314  ---  The Sky Odyssey [Trial]
+PCPX-96315  ---  Phase Paradox [ShopTrail]
+PCPX-96316  ---  Phase Paradox [Dengeki PlayStation D-Edition Trial]
 PCPX-96317  ---  Ka [Trial]
-PCPX-96328  ---  3 Title Special Disc (Saru! Get You! 2 - PoPoLoCrois: Hajimari no Bouken - Boku no Natsuyasumi 2)
+PCPX-96318  ---  Rimococoron [Trial]
+PCPX-96319  ---  Pipo Saru 2001 [Trial]
+PCPX-96320  ---  PaRappa the Rapper 2 [Trial]
+PCPX-96323  ---  Toro to Kyuujitsu [Demo Movie]
+PCPX-96324  ---  Dual Hearts [Trial]
+PCPX-96328  ---  3 Title Special Disc (Saru! Get You! 2 - PoPoLoCrois: Hajimari no Bouken - Boku no Natsuyasumi 2) [Trial]
+PCPX-96330  ---  Arc the Lad - Seirei no Tasogare - Premiere Disc [ShopTrial]
+PCPX-96603  ---  Dark Cloud [Trial]
+PCPX-96605  ---  MiruMiru 2000-nen12-gatsudo Juchuugou
+PCPX-96606  ---  Play-Pre 2 Volume 1 - 2001 February
+PCPX-96607  ---  2000-2001 Winter Lineup
+PCPX-96608  ---  MiruMiru 2001-nen 1-gatsudo Juchuugou
+PCPX-96609  ---  Gran Turismo 3 - A-Spec - Tentou Shiyuu Disc Vol. 2
+PCPX-96610  ---  MiruMiru 2001-nen 2-gatsudo Juchuugou
+PCPX-96611  ---  Play-Pre 2 Volume 1 - 2001 April
+PCPX-96612  ---  MiruMiru 2001-nen 3-gatsudo Juchuugou
+PCPX-96613  ---  MiruMiru 2001-nen 4-gatsudo Juchuugou
+PCPX-96614  ---  MiruMiru 2001-nen 5-gatsudo Juchuugou
+PCPX-96615  ---  MiruMiru 2001-nen 6-gatsudo Juchuugou
+PCPX-96617  ---  MiruMiru 2001-nen 8-gatsudo Juchuugou
+PCPX-96618  ---  MiruMiru 2001-nen 7-gatsudo Juchuugou
+PCPX-96619  ---  Genshi no Kotoba [Trial]
+PCPX-96620  ---  MiruMiru 2001-nen 9-gatsudo Juchuugou
+PCPX-96621  ---  MiruMiru 2001-nen 10-gatsudo Juchuugou
+PCPX-96622  ---  Play-Pre 2 Volume 3 - 2001 December
+PCPX-96624  ---  Gran Turismo - Concept 2001 Tokyo
+PCPX-96625  ---  Play-Pre 2 Volume 4 - 2002 April
+PCPX-96626  ---  PlayStation Index (DVD-ROM-ban) - PlayStation 2 Official Soft Catalog 2002 April
+PCPX-96628  ---  Play-Pre 2 Volume 5 - 2002 August
+PCPX-96629  ---  Fuyu no osusume soft otameshi Disc 2002
+PCPX-96630  ---  Play-Pre 2 Volume 6 - 2002 December
+PCPX-96631  ---  Koedashite Ikou. [Trial]
+PCPX-96632  ---  Play-Pre 2 Volume 7 - 2003 April
+PCPX-96633  ---  Play-Pre 2 Volume 7 - 2003 April - CM Collection
+PCPX-96634  ---  Gran Tourismo - SUBARU Driving Simulator ver.
+PCPX-96635  ---  Play-Pre 2 Volume 8 - 2003 August
+PCPX-96636  ---  SIREN [ShopTrial]
+PCPX-96638  ---  EyeToy - Play
+PCPX-96639  ---  Play-Pre 2 Volume 9 - 2003 December
+PCPX-96641  ---  Play-Pre 2 Volume 10 - 2004 April
+PCPX-96646  ---  Play-Pre 2 Volume 11 - 2004 August
+PCPX-96653  ---  Ratchet & Clank 3 - Up Your Arsenal [ShopTrial]
+PCPX-96655  ---  Play-Pre 2 Volume 12 - 2004 December
+PCPX-96656  ---  Play-Pre 2 Volume 12 - 2004 December - PSP Movie Collection & CM Collection
+PCPX-96657  ---  Saru! Get You! 3 [Demo]
 PCPX-96660  ---  Tourist Trophy [Demo]
-PCPX-98017  ---  Ratchet & Clank - Giri Giri Ginga no Giga Battle [Demo]
+PCPX-98017  ---  Ratchet & Clank 4th - GiriGiri Ginga no Giga Battle [Trial]
+PCPX-98041  ---  Saru! Get You! - Million Monkeys [Trial]
+PCPX-98042  ---  Minna no Tennis [Trial]
+PSXC-00201  ---  PSX Update Disc Version 1.10
+PSXC-00202  ---  PSX Update Disc Version 1.20
+PSXC-00203  ---  PSX Update Disc Version 1.31
+PSXC-00204  ---  PSX Update Disc Version 2.11
+PUPX-93033  ---  PlayStation Seizou Kensa-you Disc 3 CD-ROM US-ban Ver1.1
 SCAJ-10001  ---  Makai Senki Disgaea
 SCAJ-10006  ---  Taiko no Tatsujin - Appare Sandaime
 SCAJ-10007  ---  Taiko no Tatsujin - Waku Waku Anime Matsuri
@@ -21,19 +128,19 @@ SCAJ-20012  ---  Venus & Braves
 SCAJ-20014  ---  Time Splitter
 SCAJ-20018  ---  This is Football 2003
 SCAJ-20022  ---  Super Robot Wars - Alpha 2nd
-SCAJ-20024  ---  dot hack - Quarantine Part 4
+SCAJ-20024  ---  .hack Quarantine Part 4
 SCAJ-20025  ---  Grand Prix Challenge
 SCAJ-20026  ---  Generation of Chaos 3
 SCAJ-20027  ---  Tenchu 3
 SCAJ-20032  ---  Ka 2 - Let's Go Hawaiian
 SCAJ-20039  ---  Sidewinder V
-SCAJ-20040  ---  King of Fighters 2001, The
-SCAJ-20043  ---  ChainDive
+SCAJ-20040  ---  The King of Fighters 2001
+SCAJ-20043  ---  Chain Dive
 SCAJ-20045  ---  Shadow Tower Abyss
+SCAJ-20052  ---  Ratchet & Clank 2 - Going Commando
 SCAJ-20063  ---  Popolocrois - The Law of the Moon
 SCAJ-20065  ---  EyeToy - Play [with Camera]
-SCAJ-20066  ---  Gran Turismo 4 - Prologue
-SCAJ-20067  ---  GunGrave O.D.
+SCAJ-20067  ---  Gungrave O.D.
 SCAJ-20069  ---  Gallop Racer - Lucky 7
 SCAJ-20076  ---  Armored Core - Nexus [Disc 1]
 SCAJ-20077  ---  Armored Core - Nexus [Disc 2]
@@ -41,7 +148,7 @@ SCAJ-20084  ---  MLB '04
 SCAJ-20097  ---  EyeToy - FuriFuri Dance Tengoku
 SCAJ-20098  ---  EyeToy - Oosawagi! Ukkiiuki Game Tenkomori!!
 SCAJ-20102  ---  Tales of Symphonia
-SCAJ-20105  ---  Armored Core - Nine breaker
+SCAJ-20105  ---  Armored Core - Nine Breaker
 SCAJ-20107  ---  Bakufuu Slash! Kizna Arashi
 SCAJ-20113  ---  Dragon Quest & Final Fantasy in Itadaki Street
 SCAJ-20115  ---  Yoshitsune Eiyuuden
@@ -51,23 +158,25 @@ SCAJ-20127  ---  EyeToy - Play 2 [with Camera]
 SCAJ-20128  ---  EyeToy - Play 2
 SCAJ-20131  ---  namCollection - Namco 50th Anniversary
 SCAJ-20132  ---  Drag-on Dragoon 2 - Fuuin no Aka, Haitoku no Kuro
-SCAJ-20133  ---  Kagero 2 - Dark Illusion
+SCAJ-20133  ---  Kagero II - Dark Illusion
 SCAJ-20135  ---  Minna Daisuki Katamari Damacy
-SCAJ-20155  ---  Yoshitsune Eiyuuden Syura
+SCAJ-20155  ---  The Story of Hero Yoshitsune Shura
 SCAJ-20185  ---  Super Robot Taisen - Original Generations
 SCAJ-20191  ---  Super Robot Taisen OG - Original Generations Gaiden [Limited Edition]
-SCAJ-20194  ---  Minna no Golf 4 [PlayStation 2 The Best]
-SCAJ-20198  ---  Everybody's Tennis [PlayStation 2 The Best]
+SCAJ-20194  ---  Minna no Golf 4 [PlayStation2 the Best]
+SCAJ-20198  ---  Everybody's Tennis [PlayStation2 the Best]
 SCAJ-25002  ---  Shinobi
 SCAJ-25034  ---  Sakura Taisen Monogatari
 SCAJ-25037  ---  Astro Boy Atom
-SCAJ-30001  ---  Xenosaga - Episode I - Der Wille zur Macht [PlayStation 2 The Best]
-SCCS-40005  ---  ICO
+SCAJ-30001  ---  Xenosaga - Episode I - Der Wille zur Macht [PlayStation2 the Best]
+SCCS-40005  ---  Ico
+SCCS-40012  ---  Virtua Fighter 4 - Evolution
 SCCS-40014  ---  World Soccer Winning Eleven 7 - International
 SCCS-40015  ---  Viorate no Atelier - Gramnad no Renkinjutsushi 2
 SCCS-40016  ---  Ape Escape - Pumped & Primed
 SCCS-40018  ---  Saru EyeToy - Oosawagi! Ukkiuki Game Tenkomori!!
 SCCS-40022  ---  World Soccer Winning Eleven 8 - Asia Championship
+SCCS-60001  ---  Sakura Taisen - Atsuki Chishio Ni
 SCED-50041  ---  Tekken Tag Tournament [Demo]
 SCED-50065  ---  Official PlayStation 2 Magazine Demo 1
 SCED-50066  ---  Official PlayStation 2 Magazine Demo 2
@@ -88,23 +197,30 @@ SCED-50151  ---  Official PlayStation 2 Magazine Demo 16
 SCED-50152  ---  Official PlayStation 2 Magazine Demo 17
 SCED-50153  ---  Official PlayStation 2 Magazine Demo 18
 SCED-50154  ---  Official PlayStation 2 Magazine Demo 19
-SCED-50162  ---  Official PS2 Magazine UK Greatest Hits Vol 2 - Special Ed - A-Z of PS2
-SCED-50163  ---  PlayStation 2 Greatest Hits Vol.3 [Demo]
+SCED-50161  ---  Official PlayStation 2 Magazine-UK Greatest Hits Volume 1 - Special Edition - Buyers Guide
+SCED-50162  ---  Official PlayStation 2 Magazine-UK Greatest Hits Volume 2 - Special Edition - A-Z of PS2
+SCED-50163  ---  Official PlayStation 2 Magazine-UK Greatest Hits Volume 3 - Special Edition - Players Guide
+SCED-50164  ---  Official PlayStation 2 Magazine-UK Greatest Hits Volume 4 - Special Edition - Yearbook 2001
 SCED-50254  ---  Official Review of the 2000 FIA Formula 1 World Championship [Formula One 2001 Bonus Disc]
 SCED-50286  ---  Red Faction [Demo]
 SCED-50313  ---  Formula One 2001 [Demo]
 SCED-50381  ---  Official PlayStation 2 Magazine Demo 8
 SCED-50404  ---  Official PlayStation 2 Magazine Demo 10
+SCED-50449  ---  This is Football 2002 [Demo]
+SCED-50450  ---  Le Monde des Bleus 2002 [Demo]
 SCED-50460  ---  Official PlayStation 2 Magazine Demo 11
 SCED-50463  ---  Official PlayStation 2 Magazine Demo 11
 SCED-50506  ---  Official PlayStation 2 Magazine Demo 12
 SCED-50520  ---  World Rally Championship [Demo]
 SCED-50543  ---  Official PlayStation 2 Magazine Demo 12
+SCED-50569  ---  Play PlayStation 2 Demo Disc playable demos and videos Sept - Oct - Nov 2001
 SCED-50593  ---  Official PlayStation 2 Magazine Demo 13
 SCED-50594  ---  Official PlayStation 2 Magazine Demo 13
 SCED-50610  ---  Official PlayStation 2 Magazine Demo 14
+SCED-50615  ---  Official Demo Disc 1 - Retail Edition November 01
 SCED-50622  ---  Official PlayStation 2 Magazine Demo 14
 SCED-50642  ---  Final Fantasy X [Demo] [Final Fantasy VI PS1 - Bonus Disc]
+SCED-50660  ---  Dropship - United Peace Force
 SCED-50675  ---  Official PlayStation 2 Magazine Demo 16
 SCED-50685  ---  Official PlayStation 2 Magazine Demo 15
 SCED-50697  ---  Official PlayStation 2 Magazine Demo 17
@@ -112,6 +228,9 @@ SCED-50698  ---  Official PlayStation 2 Magazine Demo 18
 SCED-50699  ---  Official PlayStation 2 Magazine Demo 20
 SCED-50700  ---  Official PlayStation 2 Magazine Demo 21
 SCED-50701  ---  Official PlayStation 2 Magazine Demo 22
+SCED-50708  ---  Official PlayStation 2 Magazine Demo 15
+SCED-50732  ---  Official Demo Disc Retail Edition February 02
+SCED-50733  ---  Play PlayStation 2 Demo Disc playable demos and videos Jan - Feb 2002
 SCED-50734  ---  PS2 Bonus Demo Jan 2002
 SCED-50736  ---  Official PlayStation 2 Magazine Demo 16
 SCED-50742  ---  Official PlayStation 2 Magazine Demo 21
@@ -123,29 +242,72 @@ SCED-50747  ---  Official PlayStation 2 Magazine Demo 25
 SCED-50748  ---  Official PlayStation 2 Magazine Demo 26
 SCED-50749  ---  Official PlayStation 2 Magazine Demo 27
 SCED-50750  ---  Official PlayStation 2 Magazine Demo 28
+SCED-50761  ---  Sega Cubed Demo
+SCED-50768  ---  Wipeout Fusion
+SCED-50780  ---  Official PlayStation 2 Magazine Germany Special Edition 1
 SCED-50781  ---  Destruction Derby Arenas [Beta]
+SCED-50783  ---  Official PlayStation 2 Magazine-UK Greatest Hits Volume 6 - Special Edition - Awards 2002
+SCED-50784  ---  Official PlayStation 2 Magazine-UK Greatest Hits Volume 5 - Special Edition - Action Heroes
+SCED-50785  ---  Official PlayStation 2 Magazine-UK Greatest Hits Volume 7 - Special Edition - Sports Games
+SCED-50786  ---  Official PlayStation 2 Magazine-UK Greatest Hits Volume 8 - Special Edition - Racing Games
+SCED-50811  ---  Selector Demo 01
 SCED-50825  ---  Official PlayStation 2 Magazine Demo 18
+SCED-50844  ---  Ico [Demo]
 SCED-50907  ---  Final Fantasy X [Bonus Disc - Beyond Final Fantasy]
+SCED-50916  ---  Ratchet & Clank [Demo]
+SCED-50932  ---  Smash Court Tennis - Pro Tournament [Demo]
 SCED-50945  ---  Official PlayStation 2 Magazine Demo 20
+SCED-50990  ---  Frequency [Demo]
 SCED-51016  ---  Official PlayStation 2 Magazine Demo 22-23
 SCED-51075  ---  Ratchet & Clank [Regular Demo]
+SCED-51111  ---  Magazine Ufficiale PlayStation 2 Demo Italia 08-02
+SCED-51120  ---  Tekken 4 [Demo]
 SCED-51140  ---  PS2 Bonus Demo 03
+SCED-51146  ---  Selector Demo 03
 SCED-51147  ---  Official PlayStation 2 Magazine Demo 24
+SCED-51148  ---  PlayStation Experience [Demo]
+SCED-51161  ---  Das Offizielle PlayStation 2 Magazin - Special Edition 2
+SCED-51163  ---  Official PlayStation 2 Magazine Demo 23
+SCED-51165  ---  This is Football 2003
+SCED-51166  ---  Le Monde des Bleus 2003 - Un Nouveau DÃ©fi
+SCED-51173  ---  Magazine Ufficiale PlayStation 2 Demo Italia 09/02
 SCED-51185  ---  Official PlayStation 2 Magazine Demo 24
+SCED-51187  ---  SCEE Catalogue Video
 SCED-51262  ---  Official PlayStation 2 Magazine Demo 25
+SCED-51269  ---  Selector Demo 04
+SCED-51278  ---  SCEE Catalogue Video 3+
 SCED-51279  ---  Official PlayStation 2 Magazine Demo 25
+SCED-51280  ---  Official PlayStation 2 Magazine-UK Greatest Hits Volume 9 - Special Edition - Buyers Guide
+SCED-51304  ---  WRC II Extreme - Peugeot Special Demo
+SCED-51305  ---  WRC II Extreme [Press Kit]
+SCED-51314  ---  Kingdom Hearts
 SCED-51319  ---  Official PlayStation 2 Magazine Demo 27
-SCED-51352  ---  Gran Turismo - Nissan Micra Edition [Demo]
+SCED-51321  ---  Official PlayStation 2 Magazine Demo 26
+SCED-51351  ---  The Getaway [Demo]
 SCED-51359  ---  Official PlayStation 2 Magazine Demo 27
+SCED-51366  ---  Ape Escape 2 [Demo]
+SCED-51375  ---  Germany Special Issue 3
 SCED-51376  ---  Official PlayStation 2 Magazine Demo 28
 SCED-51384  ---  Official PlayStation 2 Magazine Demo 29
+SCED-51389  ---  Best PS2 Games Ever 10
+SCED-51405  ---  Space Channel 5 - Part 2 Special Demo
+SCED-51406  ---  The Mark of Kri
+SCED-51411  ---  Magazine Ufficiale PlayStation 2 Italia 02/03
 SCED-51432  ---  Official PlayStation 2 Magazine Demo 29
 SCED-51440  ---  Official PlayStation 2 Magazine Demo 29
+SCED-51444  ---  Official PlayStation 2 Magazine-UK - Crime Special
+SCED-51452  ---  Sly Raccoon
+SCED-51454  ---  Tango - Game On Demo Disc 1
 SCED-51457  ---  Official PlayStation 2 Magazine Demo 30
 SCED-51483  ---  Official PlayStation 2 Magazine Demo 30
+SCED-51484  ---  Primal
 SCED-51485  ---  Official PlayStation 2 Magazine Demo 30
 SCED-51486  ---  Bonus Demo 4
 SCED-51489  ---  Official PlayStation 2 Magazine Demo 30
+SCED-51491  ---  Primal + The Mark of Kri
+SCED-51505  ---  Official PlayStation 2 Magazine-UK Special Edition 11 - The World's Best PS2 Games Ever
+SCED-51506  ---  Primal + The Mark of Kri + War of the Monsters
+SCED-51512  ---  Official PlayStation 2 Magazine Germany Special Edition 2003/01
 SCED-51529  ---  Official PlayStation 2 Magazine Demo 31
 SCED-51530  ---  Official PlayStation 2 Magazine Demo 32
 SCED-51531  ---  Official PlayStation 2 Magazine Demo 33
@@ -158,12 +320,20 @@ SCED-51537  ---  Official PlayStation 2 Magazine Demo 37
 SCED-51538  ---  Official PlayStation 2 Magazine Demo 38
 SCED-51539  ---  Official PlayStation 2 Magazine Demo 42
 SCED-51540  ---  Official PlayStation 2 Magazine Demo 39
+SCED-51541  ---  Official PlayStation 2 Magazine-UK Special Edition 12 - PlayStation 2 Blockbusters!
+SCED-51542  ---  Official PlayStation 2 Magazine-UK Special Edition 13 - Girls! Motors! Guns! War! Monsters!
+SCED-51543  ---  Official PlayStation 2 Magazine-UK Special Edition 14 - The Hit Squad
+SCED-51544  ---  Official PlayStation 2 Magazine-UK Special Edition 15 - Summer Blockbusters!
+SCED-51545  ---  Official PlayStation 2 Magazine-UK Special Edition 16 - Buyers Guide
+SCED-51546  ---  Official PlayStation 2 Magazine-UK Special Edition 17 - The Best Games of 2003!
+SCED-51549  ---  Official PlayStation 2 Magazine Germany Special Edition 2003/02
+SCED-51551  ---  Official PlayStation 2 Magazine Germany Special Edition 2003/03
+SCED-51552  ---  Official PlayStation 2 Magazine Demo 30
 SCED-51556  ---  Official PlayStation 2 Magazine Demo 31
 SCED-51558  ---  Official PlayStation 2 Magazine Demo 32
 SCED-51559  ---  Official PlayStation 2 Magazine Demo 33
 SCED-51560  ---  Official PlayStation 2 Magazine Demo 34
 SCED-51561  ---  Official PlayStation 2 Magazine Demo 35
-SCED-51563  ---  Official PlayStation 2 Magazine Demo 37
 SCED-51565  ---  Official PlayStation 2 Magazine Demo 40
 SCED-51566  ---  Official PlayStation 2 Magazine Demo 31
 SCED-51567  ---  Official PlayStation 2 Magazine Demo 32
@@ -174,34 +344,66 @@ SCED-51571  ---  Official PlayStation 2 Magazine Demo 36
 SCED-51572  ---  Official PlayStation 2 Magazine Demo 37
 SCED-51573  ---  Official PlayStation 2 Magazine Demo 38
 SCED-51575  ---  Official PlayStation 2 Magazine Demo 40
-SCED-51657  ---  Official Playstation Magazine Demo 33
+SCED-51591  ---  PlayStation 2 Official Demo Disc Edition Pour Revendeurs #5
+SCED-51596  ---  Selector Demo 06
+SCED-51597  ---  Selector Demo 7
+SCED-51598  ---  Selector Demo 08
+SCED-51601  ---  Shinobi
+SCED-51632  ---  WRC II Extreme [Special Demo]
+SCED-51643  ---  Tango - Game On Demo Disc 2
+SCED-51644  ---  Tango - Game On Demo Disc 3
+SCED-51652  ---  Magazine Ufficiale PlayStation 2 Demo Italia 04/03
+SCED-51656  ---  Official PlayStation 2 Magazine Demo 32
+SCED-51657  ---  Official PlayStation Magazine Demo 33
+SCED-51669  ---  MotoGP 3
+SCED-51677  ---  My Street
+SCED-51683  ---  Selector Demo 05
+SCED-51692  ---  SOCOM - U.S. Navy SEALs
+SCED-51728  ---  EverQuest Online Adventures [Demo]
+SCED-51752  ---  Magazine Ufficiale PlayStation 2 Demo Italia 06/03
+SCED-51760  ---  Official PlayStation 2 Magazine Demo 34
+SCED-51779  ---  EyeToy - Play
+SCED-51836  ---  Magazine Ufficiale PlayStation 2 Demo Italia 07/03
+SCED-51880  ---  Magazine Ufficiale PlayStation 2 Demo Italia 08/03
+SCED-51894  ---  Magazine Ufficiale PlayStation 2 Demo Italia 09/03
+SCED-51899  ---  PlayStation Experience [Demo]
+SCED-51905  ---  Amplitude
 SCED-51922  ---  Ghosthunter [Demo]
 SCED-51935  ---  Official PlayStation 2 Magazine Demo 38
+SCED-51936  ---  Official PlayStation 2 Magazine Demo 12/2003
+SCED-51937  ---  Das Offizielle PlayStation 2 Magazin 13/2003 - Uncut Edition
+SCED-51938  ---  PlayStation Experience [Demo]
 SCED-51940  ---  Bonus Demo 5
 SCED-51941  ---  Bonus Demo 5
+SCED-51962  ---  Nordic Fall 2003 Demo
 SCED-52037  ---  Official PlayStation 2 Magazine Demo 39
 SCED-52049  ---  Dog's Life [Demo]
 SCED-52051  ---  Official PlayStation 2 Magazine Demo 43
 SCED-52052  ---  Official PlayStation 2 Magazine Demo 44
-SCED-52053  ---  Official Playstation 2 Magazine Demo 40
+SCED-52053  ---  Official PlayStation 2 Magazine Demo 40
 SCED-52054  ---  Official PlayStation 2 Magazine Demo 40
-SCED-52057  ---  Official Playstation Magazine Demo Disc 40
-SCED-52260  ---  Forbidden Siren [Demo]
-SCED-52261  ---  Jet Li - Rise to Honor [Demo]
+SCED-52057  ---  Official PlayStation Magazine Demo Disc 40
 SCED-52068  ---  Official PlayStation 2 Magazine Demo 41
 SCED-52069  ---  Official PlayStation 2 Magazine Demo 42
 SCED-52076  ---  Official PlayStation 2 Magazine Demo 49
 SCED-52080  ---  Official PlayStation 2 Magazine Demo 53
 SCED-52081  ---  Official PlayStation 2 Magazine Demo 41
+SCED-52082  ---  Das Offizielle PlayStation 2 Magazin 02/2004 - Uncut Edition
 SCED-52083  ---  Official PlayStation 2 Magazine Demo 43
 SCED-52085  ---  Official PlayStation 2 Magazine Demo 45
 SCED-52087  ---  Official PlayStation 2 Magazine Demo 47
 SCED-52088  ---  Official PlayStation 2 Magazine Demo 48
+SCED-52089  ---  Das Offizielle PlayStation 2 Magazin 09/2004
 SCED-52090  ---  Official PlayStation 2 Magazine Demo 50
 SCED-52091  ---  Official PlayStation 2 Magazine Demo 51
 SCED-52092  ---  Official PlayStation 2 Magazine Demo 52
+SCED-52094  ---  G-Con 2 Competition Demo
+SCED-52119  ---  Official PlayStation 2 Magazine Germany Special Edition 01/2004
 SCED-52120  ---  Official PlayStation 2 Magazine Demo 55
+SCED-52137  ---  WRC 3 [Demo]
 SCED-52141  ---  WRC 3 [Demo]
+SCED-52147  ---  EyeToy - Christmas Wishi Washi
+SCED-52158  ---  Official PlayStation 2 Magazine Demo 41
 SCED-52160  ---  Official PlayStation 2 Magazine Demo 45
 SCED-52161  ---  Official PlayStation 2 Magazine Demo 46
 SCED-52162  ---  Official PlayStation 2 Magazine Demo 47
@@ -214,40 +416,76 @@ SCED-52168  ---  Official PlayStation 2 Magazine Demo 53
 SCED-52169  ---  Official PlayStation 2 Magazine Demo 54
 SCED-52170  ---  Official PlayStation 2 Magazine Demo 55
 SCED-52177  ---  Official PlayStation 2 Magazine Demo 41
+SCED-52183  ---  Magazine Ufficiale PlayStation 2 Platinum Speciale 2003
 SCED-52185  ---  Official PlayStation 2 Magazine Demo 41
+SCED-52186  ---  Magazine Ufficiale PlayStation 2 Italia 01/04 Demo
+SCED-52193  ---  Official PlayStation 2 Magazine-UK Special Edition 18 - Hot 100
 SCED-52196  ---  Official PS2 Magazine Demo 22 Special Ed - It's Here
+SCED-52225  ---  PlayStation 2 Christmas Special 2003
+SCED-52260  ---  Forbidden Siren [Demo]
+SCED-52261  ---  Jet Li - Rise to Honor [Demo]
 SCED-52270  ---  Official PlayStation 2 Magazine Demo 42
 SCED-52271  ---  Official PlayStation 2 Magazine Demo 42
+SCED-52272  ---  Magazine Ufficiale PlayStation 2 Italia Demo 02/04
 SCED-52273  ---  Official PlayStation 2 Magazine Demo 42
+SCED-52311  ---  I-Ninja
 SCED-52354  ---  Official PlayStation 2 Magazine Demo 43
-SCED-52355  ---  Military Multi Demo
 SCED-52377  ---  Official PlayStation 2 Magazine Demo 44
 SCED-52390  ---  Bonus Demo 6
 SCED-52391  ---  Bonus Demo 6
+SCED-52423  ---  Smash Court Tennis - Pro Tournament 2
 SCED-52436  ---  Bonus Demo 7
 SCED-52437  ---  Bonus Demo 7
 SCED-52442  ---  Official PlayStation 2 Magazine Demo 45
+SCED-52443  ---  Magazine Ufficiale PlayStation 2 Italia 05/04
 SCED-52452  ---  Official PlayStation 2 Magazine Demo 45
 SCED-52461  ---  SingStar [Press Kit]
-SCED-52549  ---  Official PlayStation 2 Magazine Demo 47
+SCED-52491  ---  Athens 2004
+SCED-52496  ---  This Is Football 2004 [Demo]
+SCED-52497  ---  This Is Football 2004 [Demo]
 SCED-52578  ---  Gran Turismo 4 BMW 1 Series Virtual Drive Dealership [Demo]
+SCED-52580  ---  Magazine Ufficiale PlayStation 2 Italia 06/04
+SCED-52618  ---  Smash Court Tennis - Pro Tournament 2
 SCED-52619  ---  Official PlayStation 2 Magazine Demo 48
 SCED-52681  ---  Gran Turismo 4 BMW 1 Series Virtual Drive [Demo]
 SCED-52687  ---  Formula One 04 [Demo]
+SCED-52723  ---  DJ - Decks & FX [Demo]
 SCED-52728  ---  Official PlayStation 2 Magazine Demo 49
+SCED-52759  ---  Killzone [Demo]
 SCED-52785  ---  Official PlayStation 2 Magazine Demo 50
 SCED-52786  ---  Official PlayStation 2 Magazine Demo 51
+SCED-52795  ---  Magazine Ufficiale PlayStation 2 Speciale di Corso
 SCED-52796  ---  Official PlayStation 2 Magazine Demo 50
-SCED-52889  ---  Killzone [Bonus Disc]
+SCED-52841  ---  Jackie Chan Adventures [Demo]
+SCED-52846  ---  Killzone [Demo]
+SCED-52847  ---  Ratchet & Clank 3 [Demo]
+SCED-52848  ---  Ratchet & Clank 3 + Sly 2 - Band of Thieves
+SCED-52855  ---  Magazine Ufficiale PlayStation 2 Italia 09/04
+SCED-52869  ---  WRC 4 [Demo]
+SCED-52880  ---  WRC 4 - The Official Game of the FIA World Rally Championship [Demo]
 SCED-52932  ---  Bonus Demo 8
 SCED-52933  ---  Bonus Demo 8
-SCED-52935  ---  SingStar Party [Demo]
+SCED-52935  ---  SingStar - Party [Demo]
 SCED-52938  ---  Official PlayStation 2 Magazine Demo 52
+SCED-52945  ---  WRC 4 - The Official Game of the FIA World Rally Championship [Ford Fiesta Sports Edition Demo]
+SCED-52946  ---  The Getaway - Black Monday [Demo]
+SCED-52969  ---  EyeToy - Play 2
 SCED-52970  ---  SCEE Hits Demo
+SCED-52981  ---  Magazine Ufficiale PlayStation 2 Italia 11/04
 SCED-52990  ---  Official PlayStation 2 Magazine Demo 53
 SCED-52991  ---  Official PlayStation 2 Magazine Demo 53
+SCED-52996  ---  Official PlayStation 2 Magazine SpÃ©cial NoÃ«l 2004
+SCED-52997  ---  Official PlayStation 2 Magazine Sonderausgabe 2004/3
+SCED-53018  ---  Bonus Demo 8 (Geu)
+SCED-53043  ---  Magazine Ufficiale PlayStation 2 Speciale Platinum Italia
 SCED-53056  ---  Official PlayStation 2 Magazine Demo 54
+SCED-53067  ---  Official PlayStation 2 Magazine Demo 54
 SCED-53068  ---  Official PlayStation 2 Magazine Demo 54
+SCED-53070  ---  Magazine Ufficiale PlayStation 2 Demo 2005/01 Ita
+SCED-53081  ---  Ace Combat - Squadron Leader [Demo]
+SCED-53115  ---  Ace Combat - Squadron Leader [Demo]
+SCED-53116  ---  Bonus Demo 9 (You)
+SCED-53117  ---  Bonus Demo 9 (Old)
 SCED-53122  ---  Official PlayStation 2 Magazine Demo 56
 SCED-53123  ---  Official PlayStation 2 Magazine Demo 55
 SCED-53132  ---  Official PlayStation 2 Magazine Demo 56
@@ -265,6 +503,7 @@ SCED-53170  ---  Official PlayStation 2 Magazine Demo 67
 SCED-53171  ---  Official PlayStation 2 Magazine Demo 68
 SCED-53175  ---  Official PlayStation 2 Magazine Demo 40
 SCED-53176  ---  Official PlayStation 2 Magazine Demo 56
+SCED-53177  ---  EyeToy Special Demo
 SCED-53206  ---  Official PlayStation 2 Magazine Demo 58
 SCED-53207  ---  Official PlayStation 2 Magazine Demo 59
 SCED-53208  ---  Official PlayStation 2 Magazine Demo 60
@@ -285,23 +524,43 @@ SCED-53290  ---  Official PlayStation 2 Magazine Demo 60
 SCED-53291  ---  Official PlayStation 2 Magazine Demo 61
 SCED-53292  ---  Official PlayStation 2 Magazine Demo 62
 SCED-53293  ---  Official PlayStation 2 Magazine Demo 63
-SCED-53316  ---  SingStar Pop [Demo]
+SCED-53294  ---  Magazine Ufficiale PlayStation 2 Italia 10/2005 - Italian Demo
+SCED-53298  ---  Official PlayStation 2 Magazine Germany Special Edition 2005/01
+SCED-53316  ---  SingStar - Pop [Demo]
 SCED-53325  ---  Official PlayStation 2 Magazine Demo 58
 SCED-53348  ---  Official PlayStation 2 Magazine Demo 58
+SCED-53349  ---  Roland Garros Virtual Tour
+SCED-53431  ---  God of War [Demo]
 SCED-53447  ---  Formula One 05 [Press Kit Demo]
 SCED-53448  ---  Formula One 05 [Demo]
 SCED-53513  ---  Bonus Demo 10
 SCED-53514  ---  Bonus Demo 10
 SCED-53515  ---  Bonus Demo 10
+SCED-53516  ---  Magazine Ufficiale PlayStation 2 Italian Demo 61 07/05
+SCED-53522  ---  EyeToy - Kinetic
+SCED-53538  ---  Tekken 5 [Demo]
+SCED-53611  ---  Official PlayStation 2 Magazine - German Kids Special
+SCED-53613  ---  EyeToy - Play 3 + SpyToy
 SCED-53622  ---  24 - The Game [Demo]
+SCED-53662  ---  Official PlayStation 2 Magazine Germany Special 2/2005
+SCED-53674  ---  SoulCalibur III [Demo]
 SCED-53679  ---  Fire It Up Lads [Demo]
-SCED-53684  ---  SingStar '80s [Demo]
+SCED-53684  ---  SingStar - '80s [Demo]
+SCED-53733  ---  Genji Special Demo
+SCED-53792  ---  EyeToy - Antigrav + SpyToy Demo
+SCED-53798  ---  Ufficiale PlayStation 2 Italia Kids Special 2005 Demo
 SCED-53854  ---  Official PS2 Magazine French Christmas Special
 SCED-53905  ---  Official PlayStation 2 Magazine Italia Special Sport Demo
 SCED-53916  ---  Official PlayStation 2 Magazine Demo 67
 SCED-53932  ---  Official PlayStation 2 Magazine Demo 67
+SCED-53933  ---  Magazine Ufficiale PlayStation 2 Demo Italia 01/2006
+SCED-53938  ---  Official PlayStation 2 Magazine Germany Special 3/2005
 SCED-53939  ---  Official PlayStation 2 Magazine Demo 67
+SCED-53946  ---  Ufficiale PlayStation 2 Special Platinum 2006
+SCED-53947  ---  Magazine Ufficiale PlayStation 2 Italia Demo Speciale Horror
+SCED-53962  ---  Shadow of the Colossus [Demo]
 SCED-53978  ---  Official PlayStation 2 Magazine Demo 69
+SCED-53990  ---  Shadow of the Colossus + Ico
 SCED-54001  ---  Official PlayStation 2 Magazine Demo 69
 SCED-54024  ---  Official PlayStation 2 Magazine Demo 70
 SCED-54036  ---  Official PlayStation 2 Magazine Demo 69-70
@@ -322,17 +581,32 @@ SCED-54056  ---  Official PlayStation 2 Magazine Demo 77
 SCED-54057  ---  Official PlayStation 2 Magazine Demo 78
 SCED-54058  ---  Official PlayStation 2 Magazine Demo 79
 SCED-54059  ---  Official PlayStation 2 Magazine Demo 80
+SCED-54069  ---  Magazine Ufficiale PlayStation 2 Demo Italia Special Racing
 SCED-54070  ---  Official PlayStation 2 Magazine Demo 71
 SCED-54079  ---  Official PlayStation 2 Magazine Demo 71
+SCED-54088  ---  Roland Garros Virtual Tour '06
+SCED-54090  ---  Magazine Ufficiale PlayStation 2 Demo Italia 03/2006
 SCED-54099  ---  Official PlayStation 2 Magazine Demo 71
 SCED-54101  ---  Bonus Demo 11
 SCED-54102  ---  Bonus Demo 11
 SCED-54105  ---  Bonus Demo 11
+SCED-54134  ---  EyeToy - Play Sports
 SCED-54144  ---  Official PlayStation 2 Magazine Demo 72
+SCED-54149  ---  Magazine Ufficiale PlayStation 2 Italia 04/2006
 SCED-54176  ---  Official PlayStation 2 Magazine Demo 73
+SCED-54180  ---  Magazine Ufficiale PlayStation 2 Demo Italia 05/2006
+SCED-54192  ---  AFL Premiership 2006
 SCED-54202  ---  Official PlayStation 2 Magazine Demo 74
 SCED-54207  ---  Formula One 06 [Demo]
+SCED-54208  ---  Magazine Ufficiale PlayStation 2 Italia 06/2006
+SCED-54238  ---  Buzz! The Sports Quiz
+SCED-54314  ---  Magazine Ufficiale PlayStation 2 Demo Italia 07-2006
 SCED-54338  ---  Bonus Demo 11
+SCED-54345  ---  Buzz! Junior - Jungle Party
+SCED-54363  ---  Buzz! The Sports Quiz
+SCED-54397  ---  Bonus Demo 12 (You)
+SCED-54398  ---  Bonus Demo 12m (Old)
+SCED-54399  ---  Bonus Demo 12
 SCED-54403  ---  Official PlayStation 2 Magazine Demo 78
 SCED-54404  ---  Official PlayStation 2 Magazine Demo 79
 SCED-54405  ---  Official PlayStation 2 Magazine Demo 80
@@ -350,11 +624,23 @@ SCED-54417  ---  Official PlayStation 2 Magazine Demo 92
 SCED-54418  ---  Official PlayStation 2 Magazine Demo 93
 SCED-54480  ---  Official PlayStation 2 Magazine Demo 78
 SCED-54481  ---  Official PlayStation 2 Magazine Demo 79
+SCED-54495  ---  EyeToy - Kinetic Combat
+SCED-54523  ---  Magazine Ufficiale PlayStation 2 Italia Speciale Kids
+SCED-54543  ---  Magazine Ufficiale PlayStation 2 Demo Special Cinema
+SCED-54558  ---  Official PlayStation 2 Magazine Germany Winter 2006
 SCED-54567  ---  Official PlayStation 2 Magazine Demo 80
+SCED-54602  ---  Magazine Ufficiale PlayStation 2 Italia Speciale Wrestling
+SCED-54603  ---  Official PlayStation 2 Magazine Demo 81
 SCED-54605  ---  Official PlayStation 2 Magazine Demo 81
+SCED-54640  ---  PlayStation 2 Magazine Ufficiale Italia Presenta - Speciale Sport
 SCED-54642  ---  Official PlayStation 2 Magazine Demo 82
+SCED-54680  ---  God of War II [Demo]
+SCED-54682  ---  UPS2 Speciale Platinum 2007
 SCED-54692  ---  Official PlayStation 2 Magazine Demo 83
+SCED-54693  ---  Official PlayStation 2 Magazine Germany Special Edition 2007-1
+SCED-54730  ---  Ufficiale PlayStation 2 Speciale Racing 2007
 SCED-54758  ---  Official PlayStation 2 Magazine Demo 84
+SCED-54808  ---  Buzz! Junior - RoboJam + Buzz! Junior - Jungle Party
 SCED-55113  ---  Official PlayStation 2 Magazine Demo 94
 SCED-55114  ---  Official PlayStation 2 Magazine Demo 95
 SCED-55115  ---  Official PlayStation 2 Magazine Demo 96
@@ -363,137 +649,216 @@ SCED-55117  ---  Official PlayStation 2 Magazine Demo 98
 SCED-55118  ---  Official PlayStation 2 Magazine Demo 99
 SCED-55119  ---  Official PlayStation 2 Magazine Demo 100
 SCED-55120  ---  Official PlayStation 2 Magazine Demo 101
+SCED-55432  ---  Buzz! Junior - Ace Racers [Demo]
+SCES-00000  ---  Ico [Preview]
 SCES-50009  ---  Wild Wild Racing
 SCES-50614  ---  Jak and Daxter - The Precursor Legacy
 SCES-50935  ---  WRC II Extreme
+SCES-50957  ---  Disney's Stitch - Experiment 626
+SCES-50959  ---  Disney's Stitch - Experiment 626
 SCES-50987  ---  Resident Evil - Outbreak
+SCES-51003  ---  Network Access Disc
 SCES-51040  ---  Le Monde des Bleus 2003
 SCES-51041  ---  This is Football 2003
-SCES-51179  ---  This is Football 2003
+SCES-51407  ---  Exclusive PlayStation 2 Summer Sample Disc
 SCES-51533  ---  God of War
 SCES-51610  ---  This is Football 2004 [Red Devils 2004]
 SCES-51611  ---  This is Football 2004
 SCES-51614  ---  Monde des Bleus 2004, Le - Nouvelle Generation
 SCES-52065  ---  Flipnic
+SCES-52137  ---  WRC 3 - The Official Game of the FIA World Rally Championship
 SCES-52306  ---  SOCOM II - U.S. Navy SEALs
 SCES-52425  ---  This is Football 2004
 SCES-52427  ---  This is Football 2005
 SCES-52431  ---  This is Football 2005
 SCES-52432  ---  This is Football 2005
 SCES-52596  ---  This is Football 2005
+SCES-52684  ---  WRC 3 - The Official Game of the FIA World Rally Championship
 SCES-52762  ---  DJ Decks & FX
 SCES-52764  ---  DJ - Decks & FX - Live Session
-SCES-52827  ---  SingStar Party
-SCES-53181  ---  SingStar
-SCES-53184  ---  SingStar Norske Hits
-SCES-53397  ---  SingStar Pop - World Events Code
-SCES-53565  ---  SingStar Pop
-SCES-53795  ---  SingStar '80s
+SCES-52827  ---  SingStar - Party
+SCES-53181  ---  SingStar - Radio 105
+SCES-53184  ---  SingStar - Norwegian Hits
+SCES-53397  ---  SingStar - Popworld Events Code
+SCES-53565  ---  SingStar - Pop
+SCES-53795  ---  SingStar - '80s
 SCES-53882  ---  Buzz! The Big Quiz
-SCES-53893  ---  SingStar Rocks! [Promo]
+SCES-53893  ---  SingStar Rocks! TMF [Promo]
 SCES-53894  ---  SingStar Rocks!
 SCES-53897  ---  SingStar Rocks!
 SCES-53898  ---  SingStar Rocks!
-SCES-54025  ---  SingStar Rocks!
+SCES-54025  ---  SingStar Rocks! with RTÉ 2fm
 SCES-54071  ---  Buzz! The Big Quiz
 SCES-54073  ---  Buzz! The Big Quiz
-SCES-54197  ---  SingStar Legends
-SCES-54329  ---  SingStar Legends
-SCES-54353  ---  SingStar Legends
-SCES-54370  ---  SingStar Pop Hits
-SCES-54371  ---  SingStar Pop Hits
-SCES-54372  ---  SingStar Pop Hits - 40 Principales
-SCES-54373  ---  SingStar Pop Hits
-SCES-54374  ---  SingStar Pop Hits
-SCES-54375  ---  SingStar Pop Hits
+SCES-54197  ---  SingStar - Legends
+SCES-54329  ---  SingStar - Legends
+SCES-54353  ---  SingStar - Legends
+SCES-54498  ---  Buzz! The Mega Quiz
+SCES-54501  ---  Buzz! The Mega Quiz
+SCES-54503  ---  Buzz! Megavisa
+SCES-54504  ---  Buzz! O Mega Quiz
 SCES-54524  ---  Buzz! Junior - Jungle Party
-SCES-54598  ---  SingStar - Svenska Hits Schlager
-SCES-54764  ---  SingStar Pop Hits 2
-SCES-54773  ---  SingStar Pop Hits
+SCES-54526  ---  The Big! Sports Quiz
+SCES-54556  ---  The Big! Mega Quiz
+SCES-54598  ---  SingStar - Swedish Hits - Schlager
+SCES-54613  ---  SingStar - Pop Hits
+SCES-54689  ---  Buzz! The Maha Quiz
+SCES-54690  ---  Buzz! Mega Quiz
+SCES-54701  ---  Buzz! Junior - RoboJam
+SCES-54704  ---  Monsterspass
+SCES-54750  ---  Buzz! Junior - Dino Den
+SCES-54764  ---  SingStar - Pop Hits 2
+SCES-54773  ---  SingStar - Pop Hits
 SCES-54851  ---  Buzz! The Hollywood Quiz
+SCES-54854  ---  Buzz! Hollywood Quiz
 SCES-54856  ---  Buzz! The Hollywood Quiz
-SCES-55059  ---  SingStar Italian Greatest Hits
-SCES-55061  ---  SingStar Wakacyjna Impreza!
-SCES-55062  ---  SingStar Pop Hits 3
-SCES-55077  ---  SingStar Party Hits
+SCES-55059  ---  SingStar - Italian Greatest Hits
+SCES-55060  ---  SingStar - Summer Party
+SCES-55061  ---  SingStar - Holiday Party!
+SCES-55062  ---  SingStar - Pop Hits 3
+SCES-55077  ---  SingStar - Party Hits
+SCES-55095  ---  Buzz! The Pop Quiz
 SCES-55097  ---  Buzz! The Pop Quiz
-SCES-55127  ---  SingStar Summer Party
-SCES-55158  ---  SingStar Pop Hits 4
-SCES-55176  ---  SingStar Amped
-SCES-55181  ---  SingStar Italian Party 2
-SCES-55241  ---  SingStar Russian Hit
-SCES-55257  ---  SingStar - Chansons Magiques de Disney
-SCES-55261  ---  SingStar Sjung med Disney
-SCES-55262  ---  SingStar Syng med Disney
-SCES-55360  ---  SingStar Singalong with Disney
-SCES-55401  ---  SingStar Zingt met Disney
-SCES-55436  ---  SingStar ABBA
-SCES-55439  ---  SingStar ABBA
-SCES-55478  ---  SingStar Afrikaanse Treffers
-SCES-55485  ---  SingStar Queen
-SCES-55513  ---  SingStar Polskie Hity
+SCES-55100  ---  Buzz! The Pop Quiz
+SCES-55107  ---  Buzz! Pop Quiz
+SCES-55127  ---  SingStar - Summer Party
+SCES-55158  ---  SingStar - Pop Hits 4
+SCES-55176  ---  SingStar - Amped
+SCES-55181  ---  SingStar - Italian Party 2
+SCES-55241  ---  SingStar - Russian Hit
+SCES-55257  ---  SingStar - Magical Songs of Disney
+SCES-55261  ---  SingStar - Sing with Disney
+SCES-55262  ---  SingStar - Sing with Disney
+SCES-55360  ---  SingStar - Singalong with Disney
+SCES-55401  ---  SingStar - Sing with Disney
+SCES-55420  ---  Buzz! De Slimste van Nederland
+SCES-55421  ---  Buzz! Brain of Switzerland
+SCES-55424  ---  Buzz! Brain of the World
+SCES-55425  ---  Buzz! Brain of the World
+SCES-55436  ---  SingStar - ABBA
+SCES-55439  ---  SingStar - ABBA
+SCES-55478  ---  SingStar - African Hits
+SCES-55485  ---  SingStar - Queen
+SCES-55497  ---  Medical and Engineering Joint Entrance Quiz
+SCES-55513  ---  SingStar - Polish Hits
 SCES-55538  ---  SingStar
-SCES-55551  ---  SingStar MoTown
-SCES-55553  ---  SingStar MoTown
-SCES-55594  ---  SingStar Vasco
-SCES-55618  ---  SingStar Kent
+SCES-55551  ---  SingStar - Motown
+SCES-55553  ---  SingStar - Motown
+SCES-55590  ---  SingStar - Big Dreams
+SCES-55594  ---  SingStar - Vasco
+SCES-55618  ---  SingStar - Kent
 SCES-55670  ---  Don 2 - The Game
 SCKA-10001  ---  Gangcheol Gigap Sadan - Online Battlefield
 SCKA-10005  ---  EyeToy - Edukids
 SCKA-10007  ---  EyeToy - Tales
-SCKA-20001  ---  XI Go
+SCKA-10008  ---  Come on Baby [PlayStation 2 BigHit Series]
+SCKA-14001  ---  Gangcheol Gigap Sadan - Online Battlefield
+SCKA-20001  ---  XI5 - Aqui Ohyeongje
+SCKA-20002  ---  Time Crisis II
 SCKA-20003  ---  War of the Monsters
-SCKA-20011  ---  Ratchet & Clank 2
+SCKA-20011  ---  Ratchet & Clank - Tool Warrior Jackpot
+SCKA-20013  ---  SOCOM - U.S. Navy SEALs
 SCKA-20017  ---  EyeToy - Play
-SCKA-20018  ---  Getaway, The
+SCKA-20018  ---  The Getaway
 SCKA-20020  ---  SOCOM II - U.S. Navy SEALs
 SCKA-20024  ---  EyeToy - Groove
-SCKA-20029  ---  Gran Turismo Concept 2002 Tokyo-Seoul [PlayStation 2 Big Hit Series]
-SCKA-20030  ---  Sly Cooper - Jeonseolui Bibeobseoreul Chajaseo
-SCKA-20034  ---  Time Crisis 3 [PlayStation 2 Big Hit Series]
-SCKA-20035  ---  Hot Shots Golf 3 [PlayStation 2 Big Hit Series]
+SCKA-20029  ---  Gran Turismo Concept - 2002 Tokyo-Seoul [PlayStation 2 BigHit Series]
+SCKA-20030  ---  Sly Cooper - In Search of the Legendary Secret Manual [PlayStation 2 BigHit Series]
+SCKA-20034  ---  Time Crisis 3 [PlayStation 2 BigHit Series]
+SCKA-20035  ---  Hot Shots Golf 3 [PlayStation 2 BigHit Series]
 SCKA-20036  ---  EyeToy - Monkey Mania
 SCKA-20041  ---  EyeToy - Play 2
-SCKA-20053  ---  SOCOM II - U.S. Navy SEALs [PlayStation 2 Big Hit Series]
-SCKA-20054  ---  Tales of Destiny 2 [PlayStation 2 Big Hit Series]
-SCKA-20056  ---  LuluRara - Powered by Zillerner [with USB microphone]
-SCKA-20060  ---  Ratchet - Deadlocked
+SCKA-20045  ---  Tekken 4 [PlayStation 2 Big Hit Series]
+SCKA-20046  ---  Ratchet & Clank - Tool Warrior Jackpot [PlayStation 2 BigHit Series]
+SCKA-20053  ---  SOCOM II - U.S. Navy SEALs [PlayStation 2 BigHit Series]
+SCKA-20054  ---  Tales of Destiny 2 [PlayStation 2 BigHit Series]
+SCKA-20056  ---  LuluRara Karaoke Vol. 1 [Bundled with USB microphone]
+SCKA-20060  ---  Ratchet & Clank - Tool Warrior's Crisis
 SCKA-20066  ---  EyeToy - Play 3
 SCKA-20067  ---  Stuart Little 3 - Big Photo Adventure
-SCKA-20072  ---  LuluRara 2 [with USB microphone]
-SCKA-20081  ---  Tekken 5 [PlayStation 2 Big Hit Series]
-SCKA-20087  ---  Shin Onimusha - Dawn of Dreams [Disc2of2]
-SCKA-20093  ---  Ratatouille
-SCKA-20096  ---  Barnyard
-SCPS-11020  ---  Otostaz [Taikenban]
-SCPS-11028  ---  Let's Bravo Music
-SCPS-11029  ---  Shibai Muchi
-SCPS-11030  ---  Shibai Muchi [with Microphone]
+SCKA-20072  ---  LulaRara Karaoke Vol. 2 [Bundled with USB microphone]
+SCKA-20074  ---  Sly 2 - The Great Operation of the Phantom Thief Brothers!
+SCKA-20075  ---  Dark Cloud 2 [PlayStation 2 BigHit Series]
+SCKA-20081  ---  Tekken 5 [PlayStation 2 BigHit Series]
+SCKA-20087  ---  Shin Onimusha - Dawn of Dreams [Disc 2 of 2]
+SCKA-20088  ---  Everybody's Tennis
+SCKA-20089  ---  BioHazard 4
+SCKA-20091  ---  MLB 07 - The Show
+SCKA-20093  ---  Disney/Pixar Ratatouille
+SCKA-20094  ---  Ōkami
+SCKA-20096  ---  Nickelodeon Barnyard
+SCKA-20097  ---  Super Robot Taisen OG - Original Generations
+SCKA-20100  ---  Tales of Destiny
+SCKA-20104  ---  Genji
+SCKA-20105  ---  Everybody's Golf 4
+SCKA-20106  ---  Wander and the Colossus [PlayStation 2 BigHit Series]
+SCKA-20108  ---  Ratchet & Clank - Tool Warrior's Crisis [PlayStation 2 BigHit Series]
+SCKA-20110  ---  Final Fantasy XII International - Zodiac Job System
+SCKA-20111  ---  Sly 3 - The Last Master Thief
+SCKA-20112  ---  Shin Megami Tensei Persona 3 FES [Append]
+SCKA-20116  ---  SOCOM 3 - U.S. Navy SEALs [PlayStation 2 BigHit Series]
+SCKA-20118  ---  Disgaea - Hour of Darkness [PlayStation 2 BigHit Series]
+SCKA-20119  ---  Tales of Destiny - Director's Cut [Premium Box]
+SCKA-20123  ---  Let's Bravo Music [PlayStation 2 BigHit Series]
+SCKA-20124  ---  Piposarugetchu 3 [PlayStation 2 BigHit Series]
+SCKA-20126  ---  Shin Megami Tensei Persona 3 FES [PlayStation 2 BigHit Series]
+SCKA-20129  ---  Tales of Legendia [PlayStation 2 BigHit Series]
+SCKA-20130  ---  Everybody's Tennis [PlayStation 2 BigHit Series]
+SCKA-20131  ---  Super Robot Taisen Z
+SCKA-20133  ---  Ace Combat Zero - The Belkan War [PlayStation 2 BigHit Series]
+SCKA-20134  ---  Drag-on Dragoon 2 [Ultimate Hits]
+SCKA-20136  ---  Super Robot Taisen Z - Special Disc
+SCKA-20137  ---  Evangelion - Jo
+SCKA-20139  ---  SD Gundam - GGeneration Wars
+SCKA-20140  ---  MLB 10 - The Show
+SCKA-20141  ---  Shin Megami Tensei Persona 4 [PlayStation 2 BigHit Series]
+SCKA-20142  ---  MLB 11 - The Show
+SCKA-24004  ---  Sly Cooper - In Search of the Legendary Secret Manual [BANG]
+SCKA-24007  ---  Let's Bravo Music [BANG]
+SCKA-24012  ---  EyeToy - Groove [BANG]
+SCKA-30004  ---  Gran Turismo 4 [PlayStation 2 BigHit Series]
+SCKA-30005  ---  Rogue Galaxy
+SCKA-80003  ---  Ratchet & Clank - Tool Warrior Reloaded [Public Beta]
+SCKA-80005  ---  Siren 2 [Trial]
+SCKA-90002  ---  Jeolche Jeolmyeong Dosi
+SCKA-90003  ---  XI5 - Aqui Ohyeongje [Trial]
+SCKA-90004  ---  Sly Cooper - In Search of the Legendary Secret Manual [Trial]
+SCKA-90006  ---  SOCOM: U.S. Navy SEALs [Public Beta]
+SCKA-90009  ---  R-Type Final [Trial]
+SCKA-90010  ---  SOCOM - U.S. Navy SEALs [Trial]
+SCKA-90011  ---  Arc the Lad - Twilight of the Spirits - Premiere Disc [Promo]
+SCKA-90016  ---  Goehon - Gulryeora! Wangjanim! [Trial]
+SCKA-90505  ---  Devil May Cry 3 [Trial]
+SCPM-85302  ---  Minna no Golf Online
+SCPM-85303  ---  SpeSaru Disc 2003
+SCPM-85304  ---  Gran Turismo 4 - First Preview -
+SCPN-60107  ---  PlayStation BB Navigator - Version 0.10 [Prerelease] [Disc 2]
+SCPN-60110  ---  PlayStation BB Navigator - Version 0.10 [Prerelease] [Disc 2]
+SCPS-11020  ---  Otostaz [Trial]
+SCPS-11029  ---  Shibai Michi [with USB Mic]
 SCPS-15006  ---  Popolocrois Story 3 [Limited Edition]
-SCPS-15034  ---  This is Football 2003
 SCPS-15042  ---  Deka Voice [with Microphone]
-SCPS-15043  ---  Deka Voice
-SCPS-15049  ---  Minna no Golf Online
-SCPS-15051  ---  MLB 2003
-SCPS-15065  ---  SOCOM II - U.S. Navy SEALs
+SCPS-15065  ---  SOCOM II :U.S. NAVY SEALs
 SCPS-15070  ---  EyeToy - Play [Game Only]
 SCPS-15071  ---  Minna no Golf Online
 SCPS-15075  ---  DJ Box [Premium Kit]
 SCPS-15077  ---  EyeToy - Uki Uki Panic [with Camera]
 SCPS-15089  ---  EyeToy - Play 2 [With Camera]
-SCPS-15094  ---  EyeToy - Play 2 [Game Only]
 SCPS-17008  ---  Nike - Gran Turismo [Limited Edition - 8 inch]
 SCPS-17009  ---  Nike - Gran Turismo [Limited Edition - 9 inch]
 SCPS-17010  ---  Nike - Gran Turismo [Limited Edition - 10 inch]
 SCPS-17011  ---  Nike - Gran Turismo [Limited Edition - 11 inch]
-SCPS-19104  ---  Pipo Saru 2001 [PlayStation 2 The Best]
-SCPS-19152  ---  Saru Get You! 2 [PlayStation 2 The Best]
-SCPS-19202  ---  Extermination [PlayStation 2 The Best]
-SCPS-19207  ---  Popolocrois Story - Hajime no Bouken [PlayStation 2 The Best]
-SCPS-19208  ---  Gran Turismo - Concept 2001 Tokyo [PlayStation 2 The Best]
-SCPS-19304  ---  Gran Turismo 4 - Prologue [PlayStation 2 The Best]
-SCPS-19310  ---  Ratchet & Clank [PlayStation 2 The Best]
-SCPS-19315  ---  EyeToy - Play [PlayStation 2 The Best]
+SCPS-17501  ---  Linux for PlayStation 2 - Release 1.0 (Disc 1) (Runtime Environment)
+SCPS-17502  ---  Linux for PlayStation 2 - Release 1.0 (Disc 2) (Software Packages)
+SCPS-19104  ---  Pipo Saru 2001 [PlayStation2 the Best]
+SCPS-19152  ---  Saru Get You! 2 [PlayStation2 the Best]
+SCPS-19202  ---  Extermination [PlayStation2 the Best]
+SCPS-19207  ---  Popolocrois - Hajimari no Bouken [PlayStation2 the Best]
+SCPS-19208  ---  Gran Turismo - Concept 2001 Tokyo [PlayStation2 the Best]
+SCPS-19304  ---  Gran Turismo 4 Prologue [PlayStation2 the Best]
+SCPS-19310  ---  Ratchet & Clank [PlayStation2 the Best]
+SCPS-19315  ---  EyeToy - Play [PlayStation2 the Best]
+SCPS-19333  ---  Wild ARMs - The Vth Vanguard [PlayStation2 the Best]
 SCPS-51011  ---  Raging Bless - Gouma Mokushiroku
 SCPS-51013  ---  Torneko's Adventure 3
 SCPS-51015  ---  Super Puzzle Bobble 2
@@ -503,44 +868,50 @@ SCPS-55008  ---  Thunderstrike
 SCPS-55013  ---  Soul Reaver 2 - Legacy of Kain
 SCPS-55014  ---  Armored Core 3
 SCPS-55018  ---  Kingdom of Scribbling
-SCPS-55021  ---  Super Robot Wars Impact
+SCPS-55021  ---  Super Robot Taisen Impact
 SCPS-55024  ---  Armored Core 2 - Another Age
-SCPS-55025  ---  Eve of Extinction
-SCPS-55026  ---  Gundam Giren's Ambition
-SCPS-55029  ---  dot hack - Infection Part 1
-SCPS-55030  ---  First Step Victorious Boxers [PlayStation 2 The Best]
-SCPS-55035  ---  Ape Escape 2
-SCPS-55042  ---  dot hack - Mutation Part 2
-SCPS-55044  ---  Energy Airforce
-SCPS-55046  ---  Ultraman Fighting Evolution 2
+SCPS-55025  ---  EOE - Eve of Extinction - Houkai no Zen'ya
+SCPS-55026  ---  Gundam Gihren's Ambition
+SCPS-55029  ---  .hack//Infection Part 1
+SCPS-55030  ---  Hajime no Ippo - Victorious Boxers [PlayStation2 the Best]
+SCPS-55035  ---  Saru Get You! 2
+SCPS-55042  ---  .hack//Mutation Part 2
+SCPS-55044  ---  Energy Airforce [Asia Version]
+SCPS-55046  ---  Ultraman Fighting Evolution 2 [Asia Version]
 SCPS-55049  ---  King of Fighters 2000, The
-SCPS-55901  ---  Xenosaga Episode I - Der Wille zur Macht
+SCPS-55901  ---  Xenosaga Episode 1 - Der Wille zur Macht [Asia Version]
+SCPS-56007  ---  Hot Shots Golf 3
 SCPS-56009  ---  Smash Court Pro Tournament
-SCPS-56013  ---  This is Football 2003
+SCPS-56013  ---  This Is Football - World's Strongest Soccer 2003
 SCPS-56016  ---  Axel Impact - The Extreme Racing
+SCPS-72002  ---  Minna no Golf 3 [MEGA HITS!]
+SCUS-21052  ---  Disney/Pixar Monsters, Inc.
 SCUS-21295  ---  Tony Hawk's American Wasteland Collector's Edition
+SCUS-90682  ---  Gran Turismo 4
 SCUS-94677  ---  989 Sports 2003 Demo Disc
+SCUS-97095  ---  Network Adaptor Start-Up Disc v2.0
 SCUS-97115  ---  Gran Turismo 3 - A-Spec [Demo]
-SCUS-97116  ---  Kiosk Demo Disc 2.01
+SCUS-97116  ---  Kiosk Disc 2.1
 SCUS-97117  ---  PlayStation 2 Demo Disc Version 2.1 [Need for Speed - Underground]
 SCUS-97118  ---  NFL GameDay 2001 [Demo]
-SCUS-97121  ---  PlayStation Underground 4.4 [Disc2]
+SCUS-97121  ---  PlayStation Underground 4.4 [Disc 2]
 SCUS-97122  ---  ATV Offroad Fury [Demo]
 SCUS-97126  ---  PlayStation 2 Demo Disc Version 2.2
-SCUS-97127  ---  Kiosk Demo Disc 2.02
+SCUS-97127  ---  Kiosk Disc 2.2
 SCUS-97144  ---  PlayStation Underground 5.1
 SCUS-97147  ---  Cool Boarders 2001 [Demo]
 SCUS-97152  ---  Dark Cloud [Demo]
 SCUS-97153  ---  Vans Warped Tour '01 [Demo]
 SCUS-97155  ---  PlayStation 2 Demo Disc Version 2.3
 SCUS-97157  ---  Frequency [Demo]
-SCUS-97159  ---  ICO [Demo]
+SCUS-97159  ---  Ico [Demo]
 SCUS-97160  ---  Extermination [Demo]
 SCUS-97161  ---  Kinetica [Demo]
-SCUS-97164  ---  Twisted Metal Black [Demo]
+SCUS-97164  ---  Twisted Metal - Black [Demo]
 SCUS-97169  ---  Drakan - The Ancients' Gates [Demo]
 SCUS-97175  ---  NCAA Final Four 2002 [Demo]
 SCUS-97176  ---  Official U.S. PlayStation Magazine Demo Disc 053
+SCUS-97178  ---  NFL GameDay 2002
 SCUS-97183  ---  Official U.S. PlayStation Magazine Demo Disc 057
 SCUS-97184  ---  Official U.S. PlayStation Magazine Demo Disc 058
 SCUS-97185  ---  Official U.S. PlayStation Magazine Demo Disc 059
@@ -551,20 +922,20 @@ SCUS-97189  ---  Official U.S. PlayStation Magazine Demo Disc 063
 SCUS-97190  ---  Official U.S. PlayStation Magazine Demo Disc 064
 SCUS-97191  ---  Official U.S. PlayStation Magazine Demo Disc 065
 SCUS-97192  ---  World Tour Soccer 2002 [Demo]
-SCUS-97195  ---  Twisted Metal Black - Online
+SCUS-97195  ---  Twisted Metal - Black Online
 SCUS-97205  ---  SOCOM - U.S. Navy SEALs [Demo]
 SCUS-97208  ---  Hot Shots Golf 3 & PaRappa the Rapper 2 [Demo]
 SCUS-97210  ---  Sly Cooper and the Thievius Raccoonus [Demo]
 SCUS-97216  ---  PlayStation Underground Summer Sampler
-SCUS-97218  ---  Kiosk Demo Disc 2.06
+SCUS-97218  ---  Kiosk Demo Disc 2.6
 SCUS-97219  ---  Gran Turismo 3 - A-Spec - Nissan 350Z Edition
-SCUS-97222  ---  Mark of Kri [Demo]
+SCUS-97222  ---  The Mark of Kri [Demo]
 SCUS-97223  ---  NFL GameDay 2003 [Demo]
 SCUS-97224  ---  Wild ARMs 3 [Demo]
 SCUS-97225  ---  Primal [Demo]
 SCUS-97226  ---  NCAA GameBreaker 2003 [Demo]
 SCUS-97229  ---  Dark Cloud 2 [Demo]
-SCUS-97232  ---  Getaway [Demo]
+SCUS-97232  ---  The Getaway [Demo]
 SCUS-97236  ---  World Tour Soccer 2003 [Demo]
 SCUS-97238  ---  ATV Offroad Fury 2 [Demo]
 SCUS-97239  ---  Jet X2O [Demo]
@@ -581,24 +952,23 @@ SCUS-97249  ---  Official U.S. PlayStation Magazine Demo Disc 074
 SCUS-97250  ---  Official U.S. PlayStation Magazine Demo Disc 075
 SCUS-97251  ---  Official U.S. PlayStation Magazine Demo Disc 076
 SCUS-97252  ---  Official U.S. PlayStation Magazine Demo Disc 077
-SCUS-97253  ---  NBA Shootout 2003 [Demo]
+SCUS-97253  ---  NBA ShootOut 2003 [Demo]
 SCUS-97257  ---  MLB 2004 [Demo]
 SCUS-97259  ---  NHL FaceOff 2003 [Demo]
 SCUS-97260  ---  War of the Monsters [Demo]
-SCUS-97261  ---  Kiosk Demo Disc 2.08
+SCUS-97261  ---  Kiosk Demo Disc 2.8
 SCUS-97262  ---  Amplitude [Demo]
 SCUS-97263  ---  My Street [Demo]
-SCUS-97271  ---  Final Fantasy XI - Online [Beta Version] [Disc1of2]
-SCUS-97272  ---  Final Fantasy XI - Online [Beta Version] [Disc2of2]
+SCUS-97271  ---  Final Fantasy XI - Online [Beta Version] [Disc 1 of 2]
+SCUS-97272  ---  Final Fantasy XI - Online [Beta Version] [Disc 2 of 2]
 SCUS-97282  ---  Arc the Lad - Twilight of the Spirits [Demo]
-SCUS-97292  ---  Amplitude [Demo]
 SCUS-97315  ---  NCAA GameBreaker 2004 [Demo]
 SCUS-97317  ---  NFL GameDay 2004 [Demo]
-SCUS-97321  ---  Kiosk Demo Disc 2.10
+SCUS-97321  ---  Kiosk June·July·August 2003
 SCUS-97322  ---  Ratchet & Clank 2 - Going Commando [Regular Demo]
 SCUS-97323  ---  Ratchet & Clank 2 - Going Commando [Retail Employees Demo]
-SCUS-97324  ---  Kiosk Demo Disc 2.11
-SCUS-97325  ---  NBA Shootout 2004 [Demo]
+SCUS-97324  ---  Kiosk 2-11 Winter 2003
+SCUS-97325  ---  NBA ShootOut 2004 [Demo]
 SCUS-97327  ---  MLB 2005 [Demo]
 SCUS-97329  ---  Downhill Domination [Demo]
 SCUS-97331  ---  Official U.S. PlayStation Magazine Demo Disc 078
@@ -614,17 +984,19 @@ SCUS-97341  ---  Official U.S. PlayStation Magazine Demo Disc 088
 SCUS-97342  ---  Official U.S. PlayStation Magazine Demo Disc 089
 SCUS-97366  ---  SOCOM II - U.S. Navy SEALs [Public Beta v1.0]
 SCUS-97368  ---  SOCOM II - U.S. Navy SEALs [Regular Demo]
-SCUS-97372  ---  Jet Li-Rise to Honor [Demo]
+SCUS-97370  ---  NCAA Final Four 2004
+SCUS-97372  ---  Jet Li - Rise to Honor [Demo]
 SCUS-97373  ---  989 Sports 2004 Demo Disc
 SCUS-97377  ---  Syphon Filter - The Omega Strain [Regular Demo]
 SCUS-97378  ---  EyeToy and EyeToy Play [Demo]
 SCUS-97380  ---  Final Fantasy XI - Online [Demo]
-SCUS-97382  ---  NBA Shootout 2004 [Demo]
-SCUS-97383  ---  Kiosk Demo Disc 2.12
+SCUS-97382  ---  NBA ShootOut 2004 [Demo]
+SCUS-97383  ---  Kiosk 2-12 Spring 2004
 SCUS-97384  ---  Gran Turismo Special Edition 2004 Toyota [Demo]
 SCUS-97392  ---  NBA '06 featuring The Life Vol.1 [Demo]
 SCUS-97394  ---  Welcome to the World of Online Gaming for Your PlayStation 2 [Demo]
 SCUS-97396  ---  World Tour Soccer 2005 [Demo]
+SCUS-97397  ---  Syphon Filter - The Omega Strain
 SCUS-97398  ---  Siren [Demo]
 SCUS-97403  ---  Athens 2004 [Demo]
 SCUS-97406  ---  Jampack Demo Disc Vol.10 - Summer 2004 [M-Rated]
@@ -641,7 +1013,7 @@ SCUS-97431  ---  Killzone Public Beta V1.0
 SCUS-97432  ---  Killzone [Regular Demo]
 SCUS-97437  ---  ATV Offroad Fury 3 [Demo]
 SCUS-97438  ---  EyeToy - Antigrav [Demo]
-SCUS-97441  ---  Getaway The - Black Monday [Demo]
+SCUS-97441  ---  The Getaway - Black Monday [Demo]
 SCUS-97442  ---  Official U.S. PlayStation Magazine Demo Disc 090
 SCUS-97443  ---  Official U.S. PlayStation Magazine Demo Disc 091
 SCUS-97444  ---  Official U.S. PlayStation Magazine Demo Disc 092
@@ -671,7 +1043,7 @@ SCUS-97498  ---  EyeToy - Play 3
 SCUS-97503  ---  MLB '06 - The Show [Demo]
 SCUS-97504  ---  Genji - Dawn of the Samurai [Demo]
 SCUS-97505  ---  Shadow of the Colossus [Demo]
-SCUS-97506  ---  Gretzky NHL '06 [Demo]
+SCUS-97506  ---  Gretzky NHL 06 [Demo]
 SCUS-97507  ---  EyeToy [Demo]
 SCUS-97510  ---  ATV Offroad Fury 2 [Greatest Hits]
 SCUS-97511  ---  SOCOM II - U.S. Navy SEALs [Greatest Hits]
@@ -695,44 +1067,62 @@ SCUS-97538  ---  Official U.S. PlayStation Magazine Demo Disc 110
 SCUS-97539  ---  Official U.S. PlayStation Magazine Demo Disc 111
 SCUS-97540  ---  Official U.S. PlayStation Magazine Demo Disc 112
 SCUS-97548  ---  Ape Escape 3 [Demo]
+SCUS-97553  ---  ATV Offroad Fury 4
 SCUS-97554  ---  NBA '07 featuring The Life Vol.2 [Demo]
 SCUS-97557  ---  Kiosk Demo Disc Q2-Q3 2006
 SCUS-97560  ---  SOCOM - U.S. Navy SEALs - Combined Assault [Demo]
+SCUS-97563  ---  Gran Turismo 4
 SCUS-97568  ---  MLB '07 - The Show [Demo]
 SCUS-97572  ---  Rogue Galaxy [Demo]
+SCUS-97574  ---  Jak X - Combat Racing [Greatest Hits]
 SCUS-97579  ---  ATV Offroad Fury 4 [Demo]
 SCUS-97590  ---  SingStar Rocks!
+SCUS-97600  ---  EyeToy
 SCUS-97602  ---  Buzz! Jr. Jungle Party [Game Only]
-SCUS-97618  ---  SingStar 80's
+SCUS-97618  ---  SingStar - '80s
+SCUS-97619  ---  Hot Shots Tennis
 SCUS-97620  ---  Syphon Filter - Dark Mirror [Demo]
-SCUS-97650  ---  SingStar Country
-SCUS-97660  ---  SingStar Latino
+SCUS-97650  ---  SingStar - Country
+SCUS-97660  ---  SingStar - Latino
+SCUS-97859  ---  SOCOM - U.S. Navy SEALs
 SCUS-97869  ---  Amplitude P.O.D. [Demo]
-SLAJ-25006  ---  Virtual Fighter 4 - Evolution
+SLAJ-25006  ---  Virtua Fighter 4 - Evolution
 SLAJ-25008  ---  Initial D - Special Stage
 SLAJ-25012  ---  Final Fantasy X-2
+SLAJ-25015  ---  Enter the Matrix
+SLAJ-25017  ---  Harry Potter and the Philosopher's Stone
 SLAJ-25018  ---  Shutokou Battle 01
-SLAJ-25023  ---  Shin Sangoku Musou 3 - Mushoden
+SLAJ-25019  ---  The Lord of the Rings - The Return of the King
+SLAJ-25023  ---  Shin Sangoku Musou 3 - Moushouden
 SLAJ-25026  ---  Kunoichi Shinobi
+SLAJ-25028  ---  The Sims - Bustin' Out
+SLAJ-25036  ---  Zhen Sanguo Wushuang 2
 SLAJ-25039  ---  Beni no Umi 2
+SLAJ-25041  ---  Harry Potter and the Prisoner of Azkaban
 SLAJ-25042  ---  Virtua Fighter - Cyber Generation
 SLAJ-25046  ---  NBA Live 2005
-SLAJ-25048  ---  Sengoku Musou Mushoden
-SLAJ-25052  ---  Urbz, The - Sims in the City
-SLAJ-25055  ---  Def Jam - Fight for N.Y.
+SLAJ-25048  ---  Sengoku Musou Moushouden
+SLAJ-25052  ---  The Urbz - Sims in the City
+SLAJ-25055  ---  Def Jam - Fight for NY
 SLAJ-25063  ---  Shin Sangoku Musou 4
 SLAJ-25064  ---  MVP Baseball 2005
 SLAJ-25066  ---  Burnout Revenge - Battle Racing Ignited
-SLAJ-25072  ---  Matrix, The - Path of Neo
+SLAJ-25072  ---  The Matrix - Path of Neo
 SLAJ-25075  ---  Need for Speed - Most Wanted [Black Edition]
 SLAJ-25084  ---  Sengoku Musou 2 - Empires
-SLAJ-25093  ---  Sangoku Musou [PlayStation 2 The Best]
+SLAJ-25093  ---  Sangoku Musou [PlayStation2 the Best]
 SLAJ-25095  ---  Medal of Honor - Vanguard
+SLAJ-25103  ---  Musou Orochi - Maou Sairin
+SLAJ-25104  ---  Shin Sangoku Musou 5 Special [Disc 1]
+SLAJ-25105  ---  Shin Sangoku Musou 5 Special [Disc 2]
+SLAJ-25111  ---  World Soccer Winning Eleven 2009
+SLAJ-25114  ---  World Soccer Winning Eleven 2010
+SLAJ-35007  ---  Zhen San Guo Wu Shuang 5 Special
 SLED-50117  ---  Metal Gear Solid 2 - Sons of Liberty [Demo] [Zone of the Enders Bonus Disc]
 SLED-50286  ---  Red Faction [Demo]
 SLED-50359  ---  Devil May Cry [Demo]
 SLED-50439  ---  MX 2002 featuring Ricky Carmichael [Demo]
-SLED-50478  ---  WWF Smackdown! - Just Bring It [Demo]
+SLED-50478  ---  WWF SmackDown! - Just Bring It [Demo]
 SLED-50484  ---  Rayman M [Demo]
 SLED-50488  ---  Spy Hunter [Demo]
 SLED-50489  ---  Stuntman [Demo]
@@ -741,45 +1131,123 @@ SLED-50617  ---  Burnout [Demo]
 SLED-50762  ---  Maximo [Demo]
 SLED-50884  ---  TimeSplitters 2 [Demo]
 SLED-50895  ---  Medal of Honor - Frontline [Demo]
-SLED-51062  ---  Fireblade [Demo]
+SLED-50904  ---  Dynasty Warriors 3
+SLED-50980  ---  Gitaroo Man
+SLED-51012  ---  Stuntman [Demo]
+SLED-51047  ---  Red Faction II
+SLED-51048  ---  Red Faction II
+SLED-51062  ---  Fire Blade [Demo]
+SLED-51074  ---  Aggressive Inline
+SLED-51091  ---  Summoner 2
+SLED-51127  ---  MX SuperFly
+SLED-51178  ---  TOCA Race Driver
+SLED-51186  ---  Mat Hoffman's Pro BMX 2 [Demo]
 SLED-51211  ---  Burnout 2 - Point of Impact [Demo]
+SLED-51212  ---  V-Rally 3
 SLED-51225  ---  Rayman 3 [Demo]
+SLED-51264  ---  Pro Evolution Soccer 2
 SLED-51281  ---  Haven - Call of the King [Demo]
+SLED-51338  ---  Tom Clancy's Ghost Recon
 SLED-51342  ---  FIFA Soccer 2003 [Demo]
-SLED-51901  ---  Soul Calibur II [Demo]
+SLED-51364  ---  ATV - Quad Power Racing 2
+SLED-51380  ---  Zone of the Enders - The 2nd Runner [Demo]
+SLED-51472  ---  Tom Clancy's Splinter Cell
+SLED-51645  ---  Def Jam - Vendetta [Demo]
+SLED-51651  ---  Starsky & Hutch [Demo]
+SLED-51676  ---  Warhammer 40,000 - Fire Warrior [Demo]
+SLED-51807  ---  Summer Heat Beach Volleyball
+SLED-51832  ---  Sphinx and the Cursed Mummy
+SLED-51901  ---  SoulCalibur II [Demo]
+SLED-51902  ---  True Crime - Streets of LA [Demo]
+SLED-51921  ---  Final Fantasy X-2 [Demo]
+SLED-51961  ---  Prince of Persia - The Sands of Time [Demo]
+SLED-51962  ---  Nordic Fall 2003 Demo
+SLED-51975  ---  Need for Speed - Underground [Demo]
+SLED-51987  ---  Kya - Dark Lineage
+SLED-51992  ---  Pro Evolution Soccer 3
+SLED-51993  ---  Pro Evolution Soccer 3
+SLED-51994  ---  Pro Evolution Soccer 3
+SLED-52014  ---  XIII [Demo]
+SLED-52031  ---  Beyond Good & Evil [Demo]
+SLED-52304  ---  Tom Clancy's Rainbow Six 3
+SLED-52325  ---  Downhill Domination [Demo]
 SLED-52326  ---  007 - Everything or Nothing [Demo]
 SLED-52375  ---  Fight Night 2004 [Demo]
-SLED-52441  ---  Transformers [Demo]
+SLED-52441  ---  Transformers [2004] [Demo]
 SLED-52473  ---  Transformers - Optimus Prime [Demo]
 SLED-52474  ---  Transformers - Red Alert [Demo]
 SLED-52476  ---  UEFA Euro 2004 - Portugal [Demo]
 SLED-52485  ---  Alias [Demo]
-SLED-52488  ---  Suffering, The [Demo]
+SLED-52488  ---  The Suffering [Demo]
+SLED-52506  ---  Mashed - Drive to Survive [Demo]
+SLED-52574  ---  Crash Twinsanity & Spyro - A Hero's Tail [Demo]
+SLED-52736  ---  Need for Speed - Underground 2 [Demo]
+SLED-52851  ---  TOCA Race Driver 2
+SLED-52852  ---  Forgotten Realms - Demon Stone [Demo]
+SLED-52873  ---  Pro Evolution Soccer 4
 SLED-52875  ---  Sega Superstars [Demo]
+SLED-52879  ---  Pro Evolution Soccer 4
 SLED-52890  ---  FIFA 2005 [Demo]
+SLED-52891  ---  Rocky Legends
+SLED-52899  ---  Killzone [Bonus Disc]
 SLED-52929  ---  Prince of Persia - Warrior Within [Demo]
+SLED-52979  ---  Mercenaries - Playground of Destruction [Demo]
+SLED-53066  ---  TimeSplitters - Future Perfect
 SLED-53083  ---  Monster Hunter [Demo]
+SLED-53097  ---  Worms 4 - Mayhem [Demo]
 SLED-53109  ---  Juiced [Demo]
-SLED-53445  ---  Incredible Hulk, The - Ultimate Destruction [Demo]
+SLED-53137  ---  Stolen [Demo]
+SLED-53198  ---  Rugby 2005
+SLED-53327  ---  Cold Winter [Demo]
+SLED-53330  ---  Enthusia Professional Racing [Demo]
+SLED-53359  ---  LEGO Star Wars - The Video Game
+SLED-53365  ---  Brian Lara International Cricket 2005
+SLED-53440  ---  Area 51
+SLED-53442  ---  Crash Tag Team Racing [Demo]
+SLED-53445  ---  The Incredible Hulk - Ultimate Destruction [Demo]
 SLED-53512  ---  Burnout Revenge [Demo]
-SLED-53537  ---  187 - Ride or Die [Demo]
+SLED-53543  ---  Tiger Woods PGA Tour 06
+SLED-53591  ---  Fahrenheit [Demo]
+SLED-53619  ---  Tom Clancy's Rainbow Six - Lockdown
+SLED-53625  ---  SSX On Tour [Demo]
+SLED-53627  ---  The Suffering - Ties That Bind
+SLED-53637  ---  Burnout Revenge [Demo]
+SLED-53650  ---  Need for Speed - Most Wanted [Demo]
+SLED-53664  ---  FIFA 06 - Demo Pre-Release Version
 SLED-53673  ---  007 - From Russia with Love [Demo]
 SLED-53681  ---  007 - From Russia with Love & Need for Speed Most Wanted & SSX On Tour [Demo]
+SLED-53711  ---  Brothers in Arms - Earned in Blood
 SLED-53719  ---  Pro Evolution Soccer 5 [Demo]
 SLED-53723  ---  Peter Jackson's King Kong [Demo]
+SLED-53731  ---  Battlefield 2 - Modern Combat [Demo]
 SLED-53732  ---  Spartan - Total Warrior [Demo]
 SLED-53745  ---  Total Overdose [Demo]
-SLED-53845  ---  Matrix, The - Path of Neo [Demo]
+SLED-53845  ---  The Matrix - Path of Neo [Demo]
+SLED-53888  ---  TOCA Race Driver 3 + V8 Supercars Australia 3
 SLED-53951  ---  Honda Demo [Demo]
 SLED-53953  ---  FIFA Street 2 [Demo]
+SLED-53977  ---  Dragon Quest - The Journey of the Cursed King
+SLED-53980  ---  Urban Chaos - Riot Response [Demo]
 SLED-53983  ---  Fight Night Round 3 [Demo]
+SLED-54022  ---  Lara Croft Tomb Raider - Legend [Demo]
 SLED-54032  ---  Sonic Riders [Demo]
 SLED-54035  ---  Play the Best Demos from Atari [Demo]
+SLED-54103  ---  FIFA World Cup Germany 2006
 SLED-54312  ---  Need for Speed - Carbon [Demo]
+SLED-54315  ---  LEGO Star Wars II - The Original Trilogy [Demo]
+SLED-54327  ---  FIFA 07
+SLED-54328  ---  NBA Live 07 [Demo]
+SLED-54401  ---  Destroy All Humans! 2 [Demo]
+SLED-54445  ---  Pro Evolution Soccer 6 [Demo]
+SLED-54509  ---  Guitar Hero II [Demo]
+SLED-54925  ---  FIFA '08
+SLED-55022  ---  PES 2008 - Pro Evolution Soccer
+SLED-55602  ---  PES 2010 - Pro Evolution Soccer
 SLES-50003  ---  Swap Magic DVD Disc v2.0
-SLES-50025  ---  NBA 2001
-SLES-50026  ---  NBA 2001
+SLES-50025  ---  NBA Live 2001
+SLES-50026  ---  NBA Live 2001
 SLES-50119  ---  Tiger Woods PGA Tour 2001
+SLES-50121  ---  Rumble Racing
 SLES-50137  ---  Robot Warlords
 SLES-50166  ---  Star Wars - Starfighter
 SLES-50168  ---  Star Wars - Starfighter
@@ -788,13 +1256,12 @@ SLES-50420  ---  Supercar Street Challenge
 SLES-50460  ---  Official PlayStation 2 Magazine Demo 11
 SLES-50468  ---  FIFA 2002
 SLES-50484  ---  Rayman M
-SLES-50620  ---  Micro Machines
-SLES-50633  ---  Gitaroo Man
+SLES-50620  ---  Jonny Moseley Mad Trix
 SLES-50704  ---  GoDai - Elemental Force
 SLES-50705  ---  GoDai - Elemental Force
 SLES-50729  ---  Tiger Woods USA Tour 2002
 SLES-50765  ---  Music Maker
-SLES-50853  ---  Marcel DeSaily Pro Football
+SLES-50853  ---  Marcel Desailly Pro Football
 SLES-50855  ---  Mundial 2002 Challenge
 SLES-50901  ---  Conflict - Desert Storm
 SLES-50932  ---  Smash Court Tennis - Pro Tournament
@@ -807,36 +1274,33 @@ SLES-51273  ---  Wakeboarding Unleashed
 SLES-51275  ---  Summoner 2
 SLES-51294  ---  XIII
 SLES-51298  ---  Jimmy Neutron - Boy Genius
-SLES-51460  ---  Football Manager 2004
-SLES-51461  ---  Football Manager 2004
-SLES-51541  ---  Grand Theft Auto - San Andreas
+SLES-51460  ---  Football Manager Campionato 2004
+SLES-51461  ---  Manager de Liga 2004
 SLES-51618  ---  Starsky & Hutch
 SLES-51645  ---  Def Jam - Vendetta [Demo]
+SLES-51647  ---  Energy Airforce
 SLES-51667  ---  Piglet's Big Game
 SLES-51668  ---  Piglet's Big Game
 SLES-51687  ---  Pitfall - The Lost Expedition
-SLES-51731  ---  Bust-A-Block
-SLES-51782  ---  Fire Warrior
 SLES-51827  ---  Gladiator - Sword of Vengeance
-SLES-51834  ---  Premier Manager 2003-2004
+SLES-51834  ---  Premier Manager 2003-04
 SLES-51925  ---  Splashdown 2 - Rides Gone Wild
 SLES-51961  ---  Prince of Persia - The Sands of Time
 SLES-51999  ---  GrooveRider Slot Car Thunder
 SLES-52061  ---  Star Academy
-SLES-52124  ---  Kill Switch
-SLES-52249  ---  Premier Manager 2003-2004
-SLES-52314  ---  Hugo - Bukkazoom
+SLES-52124  ---  kill.switch
+SLES-52249  ---  Premier Manager 2003-04
 SLES-52392  ---  Combat Elite - WWII Paratroopers [Preview]
 SLES-52395  ---  UFEA Euro 2004
 SLES-52423  ---  Smash Court Tennis - Pro Tournament 2
-SLED-52574  ---  Crash Twinsanity & Spyro - A Hero's Tail [Demo]
 SLES-52593  ---  Dynasty Warriors 4 - Empires
-SLES-52675  ---  Hugo Cannon Cruise
-SLES-52676  ---  Hugo Cannon Cruise
+SLES-52675  ---  Hugo - Cannon Cruise
+SLES-52676  ---  Hugo - Cannon Cruise
 SLES-52696  ---  Football Manager Campionato 2005
-SLES-52697  ---  Manager de la Liga 2005
-SLES-52716  ---  Energy Thieves, The
-SLES-52741  ---  Red Star, The [Beta]
+SLES-52697  ---  Mánager de Liga 2005
+SLES-52698  ---  Manchester United Manager 2005
+SLES-52716  ---  The Energy Thieves
+SLES-52741  ---  The Red Star [Beta]
 SLES-52852  ---  Capcom Fighting Jam
 SLES-52856  ---  10 Most Wanted
 SLES-52910  ---  UEFA Champions League 2005
@@ -845,45 +1309,47 @@ SLES-52934  ---  Guilty Gear Isuka [Preview]
 SLES-52960  ---  Premier Manager 2004-2005
 SLES-52961  ---  Premier Manager 2004-2005
 SLES-53095  ---  Rugby 2005
+SLES-53149  ---  LMA Manager 2005
 SLES-53222  ---  Scudetto 5
 SLES-53223  ---  Championship Manager 5
 SLES-53420  ---  Winnie the Pooh's Rumbly Tumbly Adventure
 SLES-53466  ---  Il Grande Quiz sul Calcio Italiano
 SLES-53499  ---  Nickelodeon SpongeBob SquarePants - Licht uit, Camera aan!
-SLES-53530  ---  FIFA '06
+SLES-53500  ---  Nickelodeon Svampbob Fyrkant - Tystnad, Tagning, TvÃ¤ttsvamp!
+SLES-53530  ---  FIFA 06
 SLES-53634  ---  Nicktoons Unite!
 SLES-53793  ---  Pro Evolution Soccer 5 [Demo]
 SLES-53861  ---  Dynasty Warriors 5 - Xtreme Legends
-SLES-53897  ---  Dreamworks Vecinos Invasores
-SLES-53986  ---  Over the Hedge
+SLES-53986  ---  DreamWorks La Gang del Bosco
 SLES-54081  ---  FIFA World Cup 2006
 SLES-54106  ---  Kidz Sports - Ice Hockey
 SLES-54107  ---  Kidz Sports - Basketball
 SLES-54108  ---  Habitrail - Hamster Ball
 SLES-54112  ---  Myth Makers - Orbs of Doom
 SLES-54113  ---  Myth Makers - Super Kart GP
-SLES-54131  ---  SingStar Anthems
-SLES-54173  ---  Over The Hedge
+SLES-54131  ---  SingStar - Anthems
+SLES-54173  ---  DreamWorks På Andra Sidan Häcken
 SLES-54335  ---  Steambot Chronicles
 SLES-54344  ---  Bratz - Forever Diamondz
 SLES-54349  ---  Superman Returns
-SLES-54378  ---  Barnyard
-SLES-54433  ---  Dr. Dolittle
-SLES-54435  ---  Babe
-SLES-54436  ---  Jumanji
+SLES-54378  ---  Nickelodeon Barnyard
+SLES-54434  ---  Babe
+SLES-54435  ---  Casper and the Ghostly Trio
 SLES-54447  ---  Pro Evolution Soccer 6
-SLES-54453  ---  Chicken Little - Asso Spaziale!
+SLES-54453  ---  Disney Chicken Little - Asso Spaziale!
 SLES-54455  ---  Thrillville
-SLES-54472  ---  Home Alone
 SLES-54512  ---  UEFA Champions League 2006-2007
-SLES-54532  ---  Home Alone
+SLES-54520  ---  Agent Hugo - RoboRumble
+SLES-54522  ---  Nickelodeon SpongeBob and Friends - Battle for Volcano Island
 SLES-54536  ---  Big Idea's VeggieTales - LarryBoy and the Bad Apple
 SLES-54560  ---  Alpine Ski Racing 2007 - Bode Miller vs. Hermann Maier
-SLES-54579  ---  Flintstones, The - Bedrock Racing
+SLES-54579  ---  The Flintstones - Bedrock Racing
 SLES-54612  ---  Captain Scarlet
 SLES-54668  ---  Thomas & Friends - A Day at the Races
-SLES-54744  ---  Disney-Pixar Ratatouille
-SLES-54746  ---  Disney-Pixar Ratatouille
+SLES-54712  ---  Action Man A.T.O.M. - Alpha Teens on Machines
+SLES-54713  ---  Pajeczyna Charlotty
+SLES-54744  ---  Disney/Pixar Ratatouille
+SLES-54746  ---  Disney/Pixar Ratatouille
 SLES-54807  ---  Thrillville - Off the Rails
 SLES-54896  ---  NBA Live 08
 SLES-54900  ---  EyeToy - Bob the Builder
@@ -894,16 +1360,17 @@ SLES-55010  ---  Thrillville - Fuori dai Binari
 SLES-55011  ---  Thrillville - Fuera de Control
 SLES-55019  ---  Ratchet & Clank - Size Matters
 SLES-55023  ---  Pro Evolution Soccer 2008
-SLES-55026  ---  Disney-Pixar Cars - Mater-National Championship
+SLES-55026  ---  Disney/Pixar Cars - Mater-National Championship
+SLES-55074  ---  Casper's Scare School
 SLES-55080  ---  Nickelodeon SpongeBob's Atlantis SquarePantis
-SLES-55145  ---  Chronicles of Narnia, The - Prince Caspian
+SLES-55145  ---  The Chronicles of Narnia - Prince Caspian
 SLES-55166  ---  Bob O Construtor - Festival do Divertimento
 SLES-55168  ---  Paard & Pony - Topruiter
 SLES-55189  ---  Nick Jr. Go Diego Go! Safari Rescue
-SLES-55196  ---  Disney-Pixar WALL-E
+SLES-55196  ---  Disney/Pixar WALL-E
 SLES-55202  ---  Riding Star
 SLES-55239  ---  Hasbro Family Game Night
-SLES-55250  ---  WWE SmackDown vs. Raw 2009
+SLES-55250  ---  WWE SmackDown! vs. Raw 2009
 SLES-55264  ---  Nickelodeon Avatar - The Legend of Aang - Into the Inferno
 SLES-55336  ---  NBA Live 09
 SLES-55339  ---  NHL 09
@@ -911,566 +1378,1034 @@ SLES-55342  ---  Hasbro Family Game Night
 SLES-55343  ---  Tube Mania
 SLES-55358  ---  Bratz - Girlz Really Rock
 SLES-55366  ---  Agent Hugo - Hula Holiday
+SLES-55390  ---  DreamWorks Madagaskar 2
 SLES-55397  ---  Disney Sing It - High School Musical 3 - Senior Year
+SLES-55402  ---  Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom
 SLES-55405  ---  Pro Evolution Soccer 2009
 SLES-55411  ---  RTL Winter Sports 2009 - The Next Challenge
 SLES-55418  ---  Tube Mania
-SLES-55421  ---  Buzz! Brain of Switzerland
 SLES-55434  ---  Disney Sing It
-SLES-55453  ---  SingStar Queen
-SLES-55460  ---  Trivial Pursuit
+SLES-55450  ---  PES 2009 - Pro Evolution Soccer
+SLES-55453  ---  SingStar - Queen
+SLES-55460  ---  DreamWorks Shrek's Carnival Craze - Party Games
 SLES-55516  ---  L'Era Glaciale 3 - L'Alba dei Dinosauri
 SLES-55517  ---  Trivial Pursuit
 SLES-55518  ---  Guitar Hero - Van Halen
-SLES-55526  ---  Disney-Pixar Psila ston Ourano
-SLES-55573  ---  MotorStorm Arctic Edge
+SLES-55526  ---  Disney/Pixar Psila ston Ourano
+SLES-55573  ---  MotorStorm - Arctic Edge
 SLES-55597  ---  Hugo - Magic in the Trollwoods
 SLES-55604  ---  PES 2010 - Pro Evolution Soccer [Demo]
 SLES-55674  ---  Pro Evolution Soccer 2014
-SLES-82034  ---  Xenosaga Episode II [Disc1of2]
-SLES-82035  ---  Xenosaga Episode II [Disc2of2]
+SLKA-15001  ---  Barbarian
+SLKA-15006  ---  Knight Rider - The Game
 SLKA-15011  ---  XII Stag
 SLKA-15013  ---  Grand Slam 2003 Tennis
 SLKA-15016  ---  Harry Potter - Quidditch World Cup
 SLKA-15018  ---  Kidou Senshi Gundam Seed
-SLKA-15021  ---  GrowLanser3
-SLKA-15029  ---  Simple 2000 Series Vol. 37 - The Shooting - Double Shienryu
-SLKA-15043  ---  Super Puzzle Bobble Collection Vol 1
-SLKA-15044  ---  Super Puzzle Bobble 2
+SLKA-15019  ---  F1 Career Challenge
+SLKA-15020  ---  Aliens Versus Predator - Extinction
+SLKA-15021  ---  Growlanser III - The Dual Darkness
+SLKA-15022  ---  Speed Kings
+SLKA-15025  ---  Space Invaders Anniversary
+SLKA-15029  ---  The Shooting - Double Flame Dragon
+SLKA-15035  ---  Saiyuuki Reload Gunlock
+SLKA-15041  ---  Simple 2000 Series - The Catfight
+SLKA-15042  ---  Simple 2000 Series - The Swimming Competition
+SLKA-15043  ---  Super Puzzle Bobble Collection [Disc 1 of 2]
+SLKA-15044  ---  Super Puzzle Bobble Collection [Disc 2 of 2]
+SLKA-15045  ---  Simple 2000 Series - The Chanbara
+SLKA-15051  ---  Yokushin - GigaWing Generations
+SLKA-15054  ---  Simple 2000 Series - The Daemiin
+SLKA-15055  ---  Raiden III
+SLKA-15058  ---  The Terra Defence Force 2
+SLKA-15059  ---  Sega Rally Championship
+SLKA-15060  ---  Raiden III [PlayStation 2 BigHit Series]
+SLKA-19002  ---  Super Puzzle Bobble 2 [BANG]
+SLKA-25002  ---  Energy Airforce
+SLKA-25003  ---  Herdy Gerdy
 SLKA-25006  ---  Twin Caliber
 SLKA-25010  ---  Super Battle Bongsin
 SLKA-25014  ---  Evolution Snowboarding
-SLKA-25024  ---  Disneys Stitch - Experiment 626
+SLKA-25024  ---  Disney's Stitch - Experiment 626
+SLKA-25025  ---  World Soccer Winning Eleven 6 - International
 SLKA-25027  ---  NBA Street Vol. 2
 SLKA-25030  ---  WWE SmackDown! Shut Your Mouth
 SLKA-25031  ---  Tom Clancy's Ghost Recon
 SLKA-25034  ---  Real Bass Fishing - Top Angler
 SLKA-25035  ---  Mobile Suit Gundam - Lost War Chronicles
+SLKA-25039  ---  Burnout 2 - Point of Impact
 SLKA-25044  ---  Robotech - Battlecry
-SLKA-25050  ---  Shin Sangoku Musou 3
-SLKA-25055  ---  Hitman - Silent Assasin
-SLKA-25056  ---  Finding Nemo
+SLKA-25050  ---  Jin Samguk Mussang 3
+SLKA-25053  ---  Def Jam - Vendetta
+SLKA-25054  ---  Grand Prix Challenge
+SLKA-25055  ---  Hitman 2 - Silent Assassin
+SLKA-25056  ---  Disney/Pixar Finding Nemo
+SLKA-25057  ---  All-Star Baseball 2004 featuring Derek Jeter
+SLKA-25059  ---  Pride FC - Fighting Championships
 SLKA-25061  ---  Tom Clancy's Splinter Cell
 SLKA-25063  ---  Kaido Battle
-SLKA-25073  ---  Tomb Raider - The Angel of Darkness
-SLKA-25076  ---  Shin Megami Tensei 3
-SLKA-25080  ---  dot hack - Infection
-SLKA-25084  ---  Shutokou Battle 01
-SLKA-25085  ---  Shin Sangoku Musou 3 - Mushouden
+SLKA-25073  ---  Lara Croft Tomb Raider - The Angel of Darkness
+SLKA-25076  ---  Jin Yeosin Jeonsaeng 3 - Nocturne
+SLKA-25080  ---  .hack//Infection Part 1
+SLKA-25084  ---  Sudogo Battle 01
+SLKA-25085  ---  Jin Samguk Mussang 3 - Maengjangjeon
 SLKA-25086  ---  NBA Live 2004
 SLKA-25087  ---  FIFA Soccer 2004
+SLKA-25088  ---  Samgukji Jeongi 2
+SLKA-25095  ---  Madden NFL 2004
+SLKA-25097  ---  Tiger Woods PGA Tour 2004
+SLKA-25099  ---  The Urbz - Sims in the City
+SLKA-25102  ---  Batman - Rise of Sin Tzu
 SLKA-25105  ---  XIII
 SLKA-25108  ---  Eve Burst Error Plus
 SLKA-25110  ---  NBA Live 2005
-SLKA-25111  ---  King of Fighters 2001, The
+SLKA-25113  ---  Jin Samguk Mussang 2 [Premium Package]
+SLKA-25114  ---  Jin Samguk Mussang 2 - Maengjangjeon
+SLKA-25116  ---  WWE SmackDown! Here Comes the Pain
 SLKA-25117  ---  World Soccer Winning Eleven 7 International
 SLKA-25120  ---  Prince of Persia - The Sands of Time
+SLKA-25121  ---  Vexx
+SLKA-25126  ---  Samguk Mussang 3 - Maengjangjeon [Premium Package]
+SLKA-25127  ---  Samguk Mussang 3 [Premium Package]
 SLKA-25128  ---  Sangokushi IX
-SLKA-25130  ---  Bloody Roar 4
-SLKA-25137  ---  Sims, The - Bustin' Out
-SLKA-25138  ---  dot hack - Mutation
-SLKA-25145  ---  dot hack  - Outbreak
+SLKA-25130  ---  Bloody Roar 4 [Reprint]
+SLKA-25137  ---  The Sims - Bustin' Out
+SLKA-25138  ---  .hack//Mutation Vol. 2
+SLKA-25142  ---  Tak and the Power of Juju
+SLKA-25143  ---  Jin Samguk Mussang 4 [PlayStation 2 BigHit Series]
+SLKA-25145  ---  .hack//Outbreak Vol. 3
 SLKA-25146  ---  Kaido Battle 2 - Chain Reaction
+SLKA-25148  ---  MVP Baseball 2004
+SLKA-25155  ---  Crimson Sea 2
+SLKA-25156  ---  Medal of Honor - Vanguard
+SLKA-25158  ---  Shining Force EXA
 SLKA-25168  ---  WWE SmackDown! vs. RAW 2007
+SLKA-25169  ---  UEFA Euro 2004
 SLKA-25172  ---  Harry Potter and the Prisoner of Azkaban
-SLKA-25174  ---  dot hack - Quarantine
-SLKA-25175  ---  Transformers
+SLKA-25174  ---  .hack//Quarantine Vol. 4
+SLKA-25175  ---  Transformers [2004]
 SLKA-25176  ---  Pump It Up - Exceed
 SLKA-25180  ---  Tom Clancy's Splinter Cell - Pandora Tomorrow
-SLKA-25187  ---  Shin Sangoku Musou 3 - Empires
-SLKA-25196  ---  DRIV3R
-SLKA-25203  ---  World Soccer Winning Eleven 8 International
+SLKA-25187  ---  Jin Samguk Mussang 3 - Empires
+SLKA-25188  ---  Virtua Fighter 4 - Evolution
+SLKA-25189  ---  SSX Tricky [PlayStation 2 BigHit Series]
+SLKA-25192  ---  Need for Speed - Underground
+SLKA-25196  ---  Driv3r
+SLKA-25203  ---  World Soccer Winning Eleven 8
 SLKA-25204  ---  Showdown - Legends of Wrestling
 SLKA-25206  ---  Burnout 3 - Takedown
-SLKA-25209  ---  FIFA 2005
-SLKA-25211  ---  King of Fighters, The - Maximum Impact
-SLKA-25214  ---  Final Fantasy X - International [PlayStation 2 - Big Hit Series]
+SLKA-25209  ---  FIFA Soccer 2005
+SLKA-25210  ---  Summer Heat Beach Volleyball
+SLKA-25211  ---  KOF: Maximum Impact
+SLKA-25212  ---  Jin Samguk Mussang 2 [PlayStation 2 BigHit Series]
+SLKA-25214  ---  Final Fantasy X International [PlayStation 2 BigHit Series]
 SLKA-25218  ---  Hitman - Contracts
-SLKA-25233  ---  Sonic - Mega Collection Plus
-SLKA-25237  ---  Lord of the Rings, The - The Third Age
+SLKA-25220  ---  Viewtiful Joe - A New Hope
+SLKA-25223  ---  K-League Winning Eleven 8 - Asia Championship
+SLKA-25228  ---  The Lord of the Rings - The Return of the King [PlayStation 2 BigHit Series]
+SLKA-25230  ---  Def Jam - Fight for NY
+SLKA-25233  ---  Sonic Mega Collection Plus
+SLKA-25235  ---  FIFA Street
+SLKA-25237  ---  The Lord of the Rings - The Third Age
+SLKA-25240  ---  WWE SmackDown! Shut Your Mouth [PlayStation 2 BigHit Series]
 SLKA-25241  ---  Need for Speed - Underground 2
+SLKA-25242  ---  Fight Night Round 2
 SLKA-25244  ---  WWE SmackDown! vs. Raw
-SLKA-25245  ---  Spongebob SquarePants - Movin' With Friends
-SLKA-25249  ---  Ys - The Ark of Napishtim [with Guide Book]
-SLKA-25259  ---  Swords of Destiny
-SLKA-25262  ---  World Soccer Winning Eleven 8 International
+SLKA-25245  ---  SpongeBob SquarePants - Movin' With Friends
+SLKA-25249  ---  Ys - The Ark of Napishtim [Bundled with Guide Book]
+SLKA-25250  ---  GoldenEye - Rogue Agent
+SLKA-25259  ---  Cheonseong - Swords of Destiny
+SLKA-25260  ---  Burnout Dominator
+SLKA-25262  ---  World Soccer Winning Eleven 8 - International
 SLKA-25266  ---  Sangokushi IX [PlayStation 2 - Big Hit Series]
 SLKA-25268  ---  Mobile Suit Gundam - Gundam vs. Z-Gundam
-SLKA-25277  ---  Brothers In Arms - Road to Hill 30
+SLKA-25276  ---  The King of Fighters 2003
+SLKA-25277  ---  Brothers in Arms - Road to Hill 30
+SLKA-25278  ---  MVP Baseball 2005
+SLKA-25282  ---  MX vs. ATV Unleashed
+SLKA-25288  ---  Metal Slug 5
 SLKA-25291  ---  Chains of Power
-SLKA-25297  ---  Taito Memories - Joukan [Special Package]
-SLKA-25298  ---  Winning Eleven 9
-SLKA-25300  ---  Digital Devil Saga [Special Package]
-SLKA-25303  ---  Matrix, The - Path of Neo
+SLKA-25292  ---  Batman Begins
+SLKA-25297  ---  Taito Memories - Sangpyeon [Special Package]
+SLKA-25298  ---  World Soccer Winning Eleven 9
+SLKA-25300  ---  Digital Devil Saga - Avatar Tuner [Special Package]
+SLKA-25303  ---  The Matrix - Path of Neo
 SLKA-25304  ---  Burnout Revenge
+SLKA-25305  ---  Taito Memories - Hapyeon
+SLKA-25308  ---  Sonic Gems Collection
+SLKA-25310  ---  Musou Orochi
 SLKA-25314  ---  Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T.
 SLKA-25315  ---  NBA Live 06
-SLKA-25317  ---  Shin Sangoku Musou 3 [PlayStation 2 - Big Hit Series]
-SLKA-25319  ---  Spongebob SquarePants - Lights, Camera, PANTS
-SLKA-25321  ---  K.League - Winning Eleven 9 - Asia Championship
+SLKA-25316  ---  Disney/Pixar The Incredibles - Rise of the Underminer
+SLKA-25317  ---  Jin Samguk Mussang 3 [PlayStation 2 BigHit Series]
+SLKA-25319  ---  Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants!
+SLKA-25321  ---  K-League Winning Eleven 9 - Asia Championship
 SLKA-25325  ---  SSX On Tour
-SLKA-25332  ---  Marc Ecko's Getting Up - Contents Under Pressure
+SLKA-25332  ---  Guilty Gear XX Slash - The Midnight Carnival
 SLKA-25334  ---  Need for Speed - Most Wanted
-SLKA-25354  ---  Metal Gear Solid 3 - Subsistence [Limited Edition] [Disc2of2]
+SLKA-25339  ---  Jin Samguk Mussang 4 [Premium Package]
+SLKA-25340  ---  Jin Samguk Mussang 4 - Empires [Premium Package]
+SLKA-25343  ---  Thrillville - Off the Rails
+SLKA-25344  ---  Tom Clancy's Ghost Recon - Advanced Warfighter
+SLKA-25354  ---  Metal Gear Solid 3 - Subsistence [Disc 2 of 3]
+SLKA-25355  ---  Metal Gear Solid 3 - Subsistence [Disc 3 of 3]
 SLKA-25363  ---  Guitar Hero III - Legends of Rock
-SLKA-25378  ---  FIFA world cup 2006
-SLKA-25381  ---  Winning Eleven 10
+SLKA-25367  ---  Superman Returns
+SLKA-25368  ---  Full Spectrum Warrior - Ten Hammers
+SLKA-25372  ---  Black
+SLKA-25377  ---  OutRun 2006 - Coast 2 Coast
+SLKA-25378  ---  FIFA World Cup Germany 2006
+SLKA-25379  ---  Jeonguk Mussang 2
+SLKA-25380  ---  WinBack 2 - Project Poseidon
+SLKA-25381  ---  World Soccer Winning Eleven 10
+SLKA-25382  ---  The Chronicles of Narnia - The Lion, the Witch and the Wardrobe
 SLKA-25385  ---  Spider-Man 3
-SLKA-25390  ---  Shin Sangoku Musou 4 - Empires
-SLKA-25406  ---  King of Fighters, The - Maximum Impact - Regulation A
-SLKA-25413  ---  SD Gundam G - Generation Spirits
-SLKA-25424  ---  SNK Arcade Classics Vol.1
+SLKA-25390  ---  Jin Samguk Mussang 4 - Empires
+SLKA-25391  ---  Jin Samguk Mussang 3 - Empires
+SLKA-25394  ---  KOF2 - Maximum Impact II
+SLKA-25395  ---  NBA Live 07
+SLKA-25398  ---  Jeonguk Mussang 2 - Empires
+SLKA-25399  ---  The Sims 2 - Pets
+SLKA-25402  ---  Devil May Cry 3 [PlayStation 2 BigHit Series]
+SLKA-25404  ---  NBA Live 08
+SLKA-25406  ---  KOF - Maximum Impact Regulation A
+SLKA-25408  ---  FIFA 08
+SLKA-25409  ---  World Soccer Winning Eleven 2008
+SLKA-25411  ---  Need for Speed - ProStreet
+SLKA-25412  ---  Sengoku Basara 2 - Heroes
+SLKA-25413  ---  SD Gundam - GGeneration Spirits - G-Spirits
+SLKA-25414  ---  Guitar Hero III - Legends of Rock
+SLKA-25415  ---  WWE SmackDown! vs. Raw 2007 [PlayStation 2 BigHit Series]
+SLKA-25417  ---  Jin Samguk Mussang 4 - Empires [PlayStation 2 BigHit Series]
+SLKA-25423  ---  Sega Rally 2006 [PlayStation 2 BigHit Series]
+SLKA-25424  ---  SNK Arcade Classics Vol. 1
+SLKA-25426  ---  Sonic Heroes [PlayStation 2 BigHit Series]
+SLKA-25427  ---  Virtua Fighter 4 - Evolution [PlayStation 2 BigHit Series] [Reprint]
+SLKA-25428  ---  Sonic Riders [PlayStation 2 BigHit Series]
+SLKA-25429  ---  Sonic Mega Collection Plus [PlayStation 2 BigHit Series]
+SLKA-25430  ---  Like a Dragon [PlayStation 2 BigHit Series]
+SLKA-25431  ---  Tantei Jinguji Saburo - Innocent Black [PlayStation 2 BigHit Series]
+SLKA-25432  ---  The King of Fighters '98 - Ultimate Match
+SLKA-25433  ---  Samurai Spirits - 6beonui Seungbu
+SLKA-25434  ---  Guitar Hero - Aerosmith
+SLKA-25436  ---  DreamWorks Kung Fu Panda
+SLKA-25437  ---  Street Fighter Anniversary Collection [PlayStation 2 BigHit Series]
+SLKA-25438  ---  Taito Memories II - Sangpyeon
+SLKA-25439  ---  Taito Memories II - Hapyeon
+SLKA-25441  ---  Kidou Senshi Gundam 00 - Gundam Meisters
+SLKA-25442  ---  007 - Quantum of Solace
+SLKA-25444  ---  Dragon Ball Z - Infinite World
+SLKA-25446  ---  Need for Speed - Undercover
+SLKA-25447  ---  FIFA 09
+SLKA-25448  ---  WWE SmackDown! vs. Raw 2009
+SLKA-25449  ---  Call of Duty - World at War - Final Fronts
+SLKA-25450  ---  Jikkyou Powerful Major League 3
+SLKA-25451  ---  WWE SmackDown! vs. Raw 2008 [PlayStation 2 BigHit Series]
+SLKA-25452  ---  Viewtiful Joe - A New Hope [PlayStation 2 BigHit Series]
+SLKA-25453  ---  Shin Onimusha - Dawn of Dreams [Disc 1 of 2] [PlayStation 2 BigHit Series]
+SLKA-25454  ---  Shin Onimusha - Dawn of Dreams [Disc 2 of 2] [PlayStation 2 BigHit Series]
+SLKA-25455  ---  World Soccer Winning Eleven 2009
+SLKA-25456  ---  Jikkyou Powerful Major League 2009
+SLKA-25457  ---  The King of Fighters 2002 - Unlimited Match
+SLKA-25458  ---  The King of Fighters Collection - The Orochi Saga
+SLKA-25459  ---  Transformers - Revenge of the Fallen
+SLKA-25460  ---  Prince of Persia - The Sands of Time [PlayStation 2 BigHit Series]
+SLKA-25461  ---  Prince of Persia - The Two Thrones [PlayStation 2 BigHit Series]
+SLKA-25462  ---  Prince of Persia - Warrior Within [PlayStation 2 BigHit Series]
+SLKA-25463  ---  WWE SmackDown! vs. Raw 2010
+SLKA-25464  ---  FIFA 10
+SLKA-25466  ---  Beatmania IIDX 16 - Empress + Premium Best [Disc 1 of 2 - Empress Disc]
+SLKA-25467  ---  Beatmania IIDX 16 - Empress + Premium Best [Disc 2 of 2 - Premium Best Disc]
+SLKA-25468  ---  World Soccer Winning Eleven 2010
+SLKA-25470  ---  Zone of the Enders - The 2nd Runner - Special Edition
+SLKA-25471  ---  Metal Gear Solid 2 - Sons of Liberty [PlayStation 2 BigHit Series]
+SLKA-25475  ---  FIFA 11
+SLKA-25478  ---  World Soccer Winning Eleven 2011 [PlayStation 2 BigHit Series]
 SLKA-25480  ---  World Soccer Winning Eleven 2012
-SLKA-35005  ---  Shin Sangoku Musou 5 Special
-SLPM-20391  ---  Saiyuki Gunlock
-SLPM-20436  ---  Sakigake!! Otokojuku
-SLPM-55062  ---  Jikkyou Powerful Major League 3
+SLKA-29011  ---  Armored Core 3 - Silent Line [BANG]
+SLKA-29017  ---  SSX Tricky
+SLKA-29019  ---  NBA Street Vol. 2 [BANG]
+SLKA-29020  ---  Def Jam - Vendetta [BANG]
+SLKA-29021  ---  MVP Baseball 2003 [BANG]
+SLKA-29027  ---  NBA Live 2004 [BANG]
+SLKA-35005  ---  Jin Samguk Mussang 5 Special
+SLKA-90502  ---  SSX 3
+SLKA-90503  ---  Need for Speed - Underground
+SLPM-20391  ---  Saiyuki Gunlock (SLPS-20391 ?)
+SLPM-20436  ---  Sakigake!! Otokojuku (SLPS-20436 ?)
+SLPM-55003  ---  Need for Speed - Most Wanted [EA:SY! 1980]
+SLPM-55004  ---  Burnout Revenge [EA:SY! 1980])
+SLPM-55019  ---  Kingdom Hearts 2 [Ultimate Hits]
+SLPM-55020  ---  Kingdom Hearts 2 - Final Mix Plus [Ultimate Hits] [Disc 1]
+SLPM-55021  ---  Kingdom Hearts 2 - Re:Chain of Memories [Ultimate Hits] [Disc 2]
+SLPM-55023  ---  Dragon Quest & Final Fantasy in Itadaki Street Special
+SLPM-55029  ---  Galaxy Angel II
+SLPM-55035  ---  Fight Night Round 2 [EA:SY! 1980]
+SLPM-55036  ---  Burnout Dominator [EA:SY! 1980]
+SLPM-55038  ---  Grand Theft Auto - Liberty City Stories [Best Price]
+SLPM-55046  ---  TOCA Race Driver 3 - The Ultimate Racing Simulator [Best Price]
+SLPM-55048  ---  Shin Sangoku Musou 4 - Empires
+SLPM-55076  ---  Medal of Honor - Vanguard [EA:SY! 1980]
 SLPM-55081  ---  Drag-on Dragoon 2 - Fuuin no Aka, Haitoku no Kuro [Ultimate Hits]
+SLPM-55083  ---  Shin Sangoku Musou 5 Special [Disc 2]
 SLPM-55092  ---  Grand Theft Auto - San Andreas [Best Price]
-SLPM-55127  ---  Need for Speed - Undercover
-SLPM-55158  ---  Pro Yakyuu Spirits 6
-SLPM-55209  ---  World Soccer Winning Eleven 2010
-SLPM-55211  ---  Pachislot Higurashi no Naku Koro ni Matsuri
-SLPM-55244  ---  Need for Speed - Undercover [Ea-SY! 1980]
-SLPM-55252  ---  Pro Yakyuu Spirits 2010
+SLPM-55093  ---  Galaxy Angel II - Mugen Kairou no Kagi [Disc 1 of 2]
+SLPM-55094  ---  Galaxy Angel II - Mugen Kairou no Kagi [Disc 2 of 2]
+SLPM-55107  ---  Baroque International [Best Price]
+SLPM-55112  ---  Sangokushi XI with Power-Up Kit
+SLPM-55113  ---  WinBack 2 - Project Poseidon [KOEI The Best]
+SLPM-55115  ---  Dokapon Kingdom [Best Price]
+SLPM-55128  ---  Rugby 08 [English] [EA:SY! 1980]
+SLPM-55137  ---  Harukanaru Toki no Naka de - Yume no Ukihashi Special [Premium Box]
+SLPM-55139  ---  Drift Nights - Juiced 2
+SLPM-55144  ---  NBA Live 08 [EA Best Hits]
+SLPM-55145  ---  Akudaikan 3 [PlayStation2 The Best]
+SLPM-55151  ---  Need for Speed - ProStreet
+SLPM-55190  ---  L2 - Love x Loop [Limited Edition]
+SLPM-55198  ---  Naxat Soft Reach Mania Vol. 1 - CR Galaxy Angel [naxat Best]
+SLPM-55230  ---  Mercenaries 2 - World in Flames [EA:SY! 1980]
+SLPM-55234  ---  Zill O'll Infinite [KOEI The Best]
+SLPM-55237  ---  Metal Gear Solid 2 - Solid Snake [KONAMI Dendou Selection] [Disc 2]
+SLPM-55242  ---  Gundam Musou 2 [GUNDAM 30th ANNIVERSARY COLLECTION]
+SLPM-55244  ---  Need for Speed - Undercover [EA:SY! 1980]
+SLPM-55250  ---  Warship Gunner 2 - Change of Direction [Koei Teiban Series]
 SLPM-55268  ---  Nobunaga no Yabou - Kakushin with Power-Up Kit [Koei Tecmo the Best]
+SLPM-55291  ---  Grand Theft Auto - Vice City[Rockstar Classics]
 SLPM-55292  ---  Grand Theft Auto - San Andreas [Rockstar Classics]
-SLPM-60123  ---  Gekikuukan Pro Baseball - The End of the Century 1999 [Trial]
-SLPM-60124  ---  Shadow Hearts II [Demo]
-SLPM-60125  ---  GI Jockey 2 [Demo]
+SLPM-60112  ---  Hresvelgr [Trial]
+SLPM-60113  ---  Sorcerous Stabber Orphen [Trial]
+SLPM-60114  ---  Magical Sports - 2000 Koushien [Trial]
+SLPM-60115  ---  Super Puzzle Bobble [Trial]
+SLPM-60116  ---  Magical Sports Go Go Golf [Trial]
+SLPM-60117  ---  Shin Sangoku Musou [Trial]
+SLPM-60118  ---  Surfroid - Densetsu no Surfer [Trial]
+SLPM-60119  ---  CrossFire [Trial]
+SLPM-60120  ---  Greatest Striker [Trial]
+SLPM-60121  ---  Gungriffon Blaze & Silpheed - The Lost Planet [Trial]
+SLPM-60122  ---  Ring of Red [Trial]
+SLPM-60123  ---  Gekikuukan Pro Yakyuu - At The End of the Century 1999 [Trial]
+SLPM-60124  ---  X-treme Racing SSX [Trial]
+SLPM-60125  ---  G1 JOCKEY2 [Demo]
 SLPM-60126  ---  Hajime no Ippo - Victorious Boxers [Trial]
-SLPM-60138  ---  Klonoa 2 - Lunatea's Veil [Trial]
-SLPM-60167  ---  Zero [Trial]
+SLPM-60127  ---  Kuri Kuri Mix [Trial]
+SLPM-60128  ---  Sidewinder Max [Trial]
+SLPM-60129  ---  Lake Masters EX [Trial]
+SLPM-60130  ---  Truck Kyousoukyoku - Ai to Kanashimi no Rodeo [Trial]
+SLPM-60132  ---  Shutokou Battle 0 [Trial]
+SLPM-60133  ---  Zeonic Front - Kidou Senshi Gundam 0079 [Trial]
+SLPM-60134  ---  Technictix [Treial]
+SLPM-60135  ---  Shadow of Memories [Shop Demonstration Movie]
+SLPM-60136  ---  Bloody Roar 3 [Trial]
+SLPM-60138  ---  Kaze no Klonoa 2 - Sekai ga Nozonda Wasuremono [Trial]
+SLPM-60140  ---  Lilie no Atelier - Salburg no Renkinjutsushi 3 [Trial]
+SLPM-60141  ---  Golful Golf [Trial]
+SLPM-60142  ---  Densha de Go! 3 - Tsuukin-hen [Trial]
+SLPM-60143  ---  Tekkouki Mikazuki [Trial]
+SLPM-60145  ---  Shadow Hearts [Trial]
+SLPM-60146  ---  Tetsu-One Train Battle [Trial]
+SLPM-60147  ---  Bokujou Monogatari 3 - Heart ni Hi wo Tsukete [Trial]
+SLPM-60148  ---  Yanya Caballista - featuring Gawoo [Trial]
 SLPM-60149  ---  Ace Combat 04 - Shattered Skies [Trial]
-SLPM-60172  ---  Itadaki Street 3 - Okuman Chouja ni Shiteageru
-SLPM-60216  ---  R - Racing Evolution [Trial]
-SLPM-60239  ---  Katamari Damacy [Trial]
+SLPM-60150  ---  Tamamayu Story 2 - Horobi no Mushi [Trial]
+SLPM-60152  ---  NBA Street [Trial]
+SLPM-60153  ---  Galacta Meisaku Gekijou - Rakugaki Oukouku [Trial]
+SLPM-60154  ---  Touge 3 [Trial]
+SLPM-60157  ---  Buile Baku [Trial]
+SLPM-60158  ---  Hippa Linda [Trial]
+SLPM-60159  ---  Dengeki PS2 / DengekiPlayStation D47
+SLPM-60162  ---  Guilty Gear X Plus [Trial]
+SLPM-60165  ---  Maximo [Trial]
+SLPM-60166  ---  Jet de Go! 2 [Trial]
+SLPM-60167  ---  Fatal Frame [Trial]
+SLPM-60169  ---  Exciting Pro Wrestling 3 [Trial]
+SLPM-60171  ---  Soul Reaver 2 - Legacy of Kain [Trial]
+SLPM-60172  ---  Itadaki Street 3 - Okuman Chouja ni Shiteageru! [Trial]
+SLPM-60174  ---  Zettai Zetsumei Toshi [Trial]
+SLPM-60175  ---  Wangan Midnight [Trial]
+SLPM-60176  ---  U - Underwater Unit [Trial]
+SLPM-60177  ---  Kengō 2 [Trial]
+SLPM-60178  ---  Dramatic Soccer Game - Nihon Daihyou Senshu ni Narou! [Trial]
+SLPM-60179  ---  Densha de Go! Ryojou-hen [Trial]
+SLPM-60180  ---  Disney Golf Classics [Trial]
+SLPM-60181  ---  Street Golfer [Trial]
+SLPM-60182  ---  Zoku Segare Ijiri - Henchin Tama Segare [Trial]
+SLPM-60183  ---  Energy Airforce TRIAL VERSION [Trial]
+SLPM-60184  ---  Gungrave [Trial]
+SLPM-60188  ---  Marvel vs. Capcom 2 New Age of Heroes [Trial]
+SLPM-60189  ---  Dengeki PS2 / DengekiPlayStation D54
+SLPM-60190  ---  Ultraman Fighting Evolution 2 [Trial]
+SLPM-60192  ---  Shinobi [Trial]
+SLPM-60193  ---  Guilty Gear XX - The Midnight Carnival [Trial]
+SLPM-60194  ---  Kotoba no Puzzle - Mojipittan [Trial]
+SLPM-60195  ---  Kaidō Battle - Nikko, Haruna, Rokko, Hakone [Trial]
+SLPM-60197  ---  Exciting Pro Wrestling 4 [Trial]
+SLPM-60198  ---  MotoGP 3 [Trial]
+SLPM-60199  ---  Dengeki PS2 / DengekiPlayStation D58
+SLPM-60200  ---  Visual Works of Anubis [Trial]
+SLPM-60202  ---  R-Type Final [Trial]
+SLPM-60204  ---  Initial D - Special Stage [Trial]
+SLPM-60205  ---  Initial D - Special Stage [Special Trial]
+SLPM-60206  ---  Shutokou Battle 01 [Trial]
+SLPM-60208  ---  Tennis no Oji-Sama - Smash-Hit! [Trial]
+SLPM-60209  ---  Real Sports Pro Yakyuu [Trial]
+SLPM-60211  ---  Bujingai [Trial]
+SLPM-60212  ---  Makai Eiyuuki Maximo - Machine Monster no Yabou [Trial]
+SLPM-60214  ---  Shadow Hearts II [Trial]
+SLPM-60215  ---  Dengeki PS2 / DengekiPlayStation D63
+SLPM-60216  ---  R:Racing Evolution [Trial]
+SLPM-60217  ---  Time Crisis 3 [Shop Trial]
+SLPM-60218  ---  Gungrave O.D. [Trial]
+SLPM-60219  ---  Shadow Hearts II [Appendix Version]
+SLPM-60220  ---  Hajime no Ippo II - Victorious Road [Trial]
+SLPM-60225  ---  Fuuun Shinsengumi [Trial]
+SLPM-60226  ---  Shadow Hearts II [Trial]
+SLPM-60228  ---  Kaidō Battle 2 - Chain Reaction [Trial]
+SLPM-60237  ---  Densha de Go! Final [Trial]
+SLPM-60239  ---  Katamari Damacy [Store Demo]
+SLPM-60240  ---  Dengeki PS2 / DengekiPlayStation D67
+SLPM-60241  ---  Sakurazaka Shouboutai [Trial]
+SLPM-60242  ---  Virtua Fighter Cyber Generation - Ambition of the Judgement Six [Trial]
 SLPM-60243  ---  Full House Kiss [Trial]
-SLPM-60251  ---  Devil May Cry 3 [Trial Version]
-SLPM-60254  ---  Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi [Trial A]
-SLPM-60256  ---  Dengeki D73 demo
-SLPM-60260  ---  D1 Professional Drift Grand Prix Series [Taikenban]
-SLPM-60265  ---  10th Anniversary PlayStation & PlayStation 2 All-Soft Catalogue Special SaveData Collection [PS2 Disc]
-SLPM-60266  ---  Ponkotsu Roman Daikatsugeki Bumpy Trot [Trial]
-SLPM-60270  ---  D1 Professional Drift Grand Prix Series 2005 [Trial]
-SLPM-60271  ---  D1 Professional Drift Grand Prix Series 2005 [Trial]
+SLPM-60245  ---  Virtua Fighter Cyber Generation - Ambition of the Judgement Six [Trial]
+SLPM-60247  ---  Gradius V [Trial]
+SLPM-60248  ---  Dororo [Trial]
+SLPM-60250  ---  Need for Speed - Underground 2 [Trial]
+SLPM-60251  ---  Devil May Cry 3 [Trial]
+SLPM-60252  ---  Futakoi [Trial]
+SLPM-60253  ---  Zettai Zetsumei Toshi 2 - Itetsuita Kioutachi [Trial Type-B]
+SLPM-60254  ---  Zettai Zetsumei Toshi 2 - Itetsuita Kioutachi [Trial Type-A]
+SLPM-60255  ---  Ponkotsu Roeman Daikatsugeki Bumpy Trot [Trial]
+SLPM-60256  ---  Dengeki PS2 / DengekiPlayStation D73
+SLPM-60258  ---  Typing of the Dead - Zombie Panic [Trial]
+SLPM-60259  ---  Jissen Pachi-Slot Hisshouhou! Hokuto no Ken Premium Disc [Trial]
+SLPM-60260  ---  D1 Grand Prix Series - Professional Drift [Trial]
+SLPM-60263  ---  Dengeki PS2 / DengekiPlayStation D78
+SLPM-60264  ---  Shadow Hearts - From the New World [Trial]
+SLPM-60265  ---  Steamboy [Trial]
+SLPM-60266  ---  Ponkotsu Roeman Daikatsugeki Bumpy Trot [Trial]
+SLPM-60268  ---  Minna Daisuki Katamari Damacy [Store Demo]
+SLPM-60270  ---  D1 Grand Prix Series 2005 - Professional Drift [Trial]
+SLPM-60271  ---  D1 Grand Prix Series 2005 - Professional Drift [Trial with DVD]
 SLPM-60272  ---  Urban Reign [Trial]
-SLPM-60273  ---  Zettai Zetsumei Toshi 2 - Itetsuita Kioku-tachi [Trial B]
+SLPM-60273  ---  Zettai Zetsumei Toshi 2 - Itetsuita Kioutachi [Trial Type-B]
 SLPM-60274  ---  Full House Kiss 2 [Trial]
-SLPM-60277  ---  Jissen Pachi-Slot Hisshouhou! Hokuto no Ken Special Edition [Trial]
+SLPM-60275  ---  Dengeki PS2 - PlayStation 2 Save Data Collection 2006
+SLPM-60277  ---  Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE [Trial]
+SLPM-60278  ---  Wrestle Kingdom [Trial]
+SLPM-60279  ---  Kamen Rider Kabuto [Trial]
+SLPM-60280  ---  Dengeki PS2 - PlayStation 2 Save Data Collection 2007
+SLPM-60281  ---  Dengeki PS2 / DengekiPlayStation D94
 SLPM-60282  ---  Lucky Star - RAvish Romance [Trial]
+SLPM-60283  ---  Dengeki PS2 / DengekiPlayStation D95
+SLPM-60284  ---  Dengeki PS2 - PlayStation 2 Save Data Collection 2008
+SLPM-61001  ---  Onimusha [Trial]
+SLPM-61002  ---  DengekiPlayStation D40- Konami Fan Book
+SLPM-61004  ---  Shadow of Memories / Zone of the Enders - Z.O.E [Shop Demonstration Movie]
 SLPM-61007  ---  Maken Shao [Trial]
-SLPM-61008  ---  Devil May Cry [Trial]
-SLPM-61010  ---  Devil May Cry [Trial Version]
+SLPM-61008  ---  Devil May Cry [Trial Ver.2]
+SLPM-61010  ---  Devil May Cry [Trial Ver.2]
+SLPM-61012  ---  Dengeki PS2 / DengekiPlayStation D46
+SLPM-61013  ---  Time Crisis 2 & Vampire Night [Shop Trial]
 SLPM-61018  ---  Abarenbou Princess [Trial]
-SLPM-61039  ---  Gun Survivor 4 - Biohazard - Heroes Never Die [Demo]
+SLPM-61019  ---  Jitsumei Jikkyou Keiba - Dream Classic 2001 Autumn [Trial]
+SLPM-61020  ---  Gun Survivor 2 - BioHazard CODE - Veronica [Store Demo]
+SLPM-61022  ---  Dengeki PS2 / DengekiPlayStation D48 - Konami Fan Book
+SLPM-61023  ---  Dengeki PS2 / DengekiPlayStation D49
+SLPM-61024  ---  Dengeki PS2 / DengekiPlayStation D50
+SLPM-61025  ---  Kingdom Hearts [Trial]
+SLPM-61026  ---  Gun Survivor 3 - Dino Crisis [Trial]
+SLPM-61027  ---  Prismix - PlayStation 2 Sen'you Music Visual Soft - Demo Disc Vol. 1
+SLPM-61028  ---  Dengeki PS2 / DengekiPlayStation D51
+SLPM-61029  ---  Shin Combat Choro Q [Trial]
+SLPM-61030  ---  JoJo no Kimyou na Bouken - Ougon no Kaze [Trial]
+SLPM-61031  ---  Dengeki PS2 / DengekiPlayStation D52
+SLPM-61032  ---  Dengeki PS2 / DengekiPlayStation D53
+SLPM-61033  ---  Dengeki PS2 / DengekiPlayStation D55
+SLPM-61034  ---  Dengeki PS2 / DengekiPlayStation D56
+SLPM-61035  ---  Anubis - Zone of the Enders [Trial]
+SLPM-61036  ---  Argus no Senshi [Trial]
+SLPM-61037  ---  Devil May Cry 2 [Trial]
+SLPM-61038  ---  Dengeki PS2 / DengekiPlayStation D57
+SLPM-61039  ---  BioHazard Gun Survivor 4 - Heroes Never Die [Store Demo]
+SLPM-61041  ---  Virtua Fighter 4 - Evolution Trial
+SLPM-61042  ---  Baseball 2003, The - Battle Ball Park Sengen - Perfect Play Pro Yakyuu [Trial]
+SLPM-61043  ---  Devil May Cry 2 [Trial]
+SLPM-61044  ---  Dengeki PS2 / DengekiPlayStation D59
 SLPM-61046  ---  Dennou Senki - Virtual-On Marz [Trial]
-SLPM-61051  ---  Dengeki PS2 D61
-SLPM-61087  ---  Fullmetal Alchemist 2 - Curse of the Crimson Elixir [Trial]
-SLPM-61090  ---  Tim Burton's The Nightmare Before Christmas [Trial]
+SLPM-61048  ---  Dengeki PS2 / DengekiPlayStation D60
+SLPM-61050  ---  Hanjuku Hero VS 3-D [Trial]
+SLPM-61051  ---  Dengeki PS2 / DengekiPlayStation D61
+SLPM-61052  ---  Gekitou Pro Yakyuu - Mizushima Shinji All Stars vs. Pro Yakyuu [Trial]
+SLPM-61053  ---  Jikkyou Powerful Pro Yakyuu 10 [Trial]
+SLPM-61054  ---  Sidewinder V [Trial]
+SLPM-61055  ---  Gregory Horror Show - Soul Collector [Trial]
+SLPM-61056  ---  NHK Tensai Bit-Kun - Guramon Battle [Trial]
+SLPM-61058  ---  Dengeki PS2 / DengekiPlayStation D62
+SLPM-61059  ---  Kunoichi -Shinobi- [Trial]
+SLPM-61060  ---  BUSIN 0 ～Wizardry Alternative NEO～ [Trial]
+SLPM-61062  ---  Castlevania [Trial]
+SLPM-61065  ---  Dengeki PS2 / DengekiPlayStation D64
+SLPM-61066  ---  Dengeki PS2 / DengekiPlayStation D65
+SLPM-61067  ---  Crouching Tiger Hidden Dragon [Trial]
+SLPM-61070  ---  Dengeki PS2 / DengekiPlayStation D66
+SLPM-61072  ---  Puyo Puyo Fever [Trial]
+SLPM-61073  ---  Galaxy Angel - Moonlit Lovers [Trial]
+SLPM-61074  ---  Gold Gashbell!! - Friendship Tag Battle [Special Trial]
+SLPM-61076  ---  Panzer Frony - Ausf. B [Trial]
+SLPM-61077  ---  Sega Ages 2500 Series [Trial]
+SLPM-61079  ---  Dengeki PS2 / DengekiPlayStation D68
+SLPM-61080  ---  Ultraman [Trial]
+SLPM-61081  ---  Dengeki PS2 / DengekiPlayStation D69
+SLPM-61082  ---  TV Magazine Ultraman Special Disc [Trial]
+SLPM-61083  ---  Dengeki PS2 / DengekiPlayStation D70
+SLPM-61084  ---  Meiwaku Seijin Panic Maker [Trial]
+SLPM-61086  ---  Kengō 3 [Trial]
+SLPM-61087  ---  Hagane no Renkinjutsushi - Akaki Elixir no Akuma [Trial]
+SLPM-61089  ---  Dengeki PS2 / DengekiPlayStation D72
+SLPM-61090  ---  Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu [Trial]
+SLPM-61091  ---  Berserk - Millennium Falcon-hen - Seima Senki no Shou [Trial]
+SLPM-61092  ---  Driv3r [Trial]
+SLPM-61093  ---  Ultraman Fighting Evolution 3 [Trial]
+SLPM-61094  ---  Viewtiful Joe 2 - Black Film no Nazo [Trial]
+SLPM-61095  ---  Dengeki PS2 / DengekiPlayStation D74
+SLPM-61096  ---  Fuuun Bakumatsu-den [Trial]
+SLPM-61097  ---  Dengeki PS2 / DengekiPlayStation D75
+SLPM-61098  ---  Exciting Pro Wrestling 6 - WWE SMACKDOWN! vs. RAW [Trial]
+SLPM-61100  ---  Project Altered Beast [Trial]
+SLPM-61101  ---  Shinsengumi Gunrou-den [Trial]
+SLPM-61102  ---  Tsukiyo ni Saraba [Trial]
+SLPM-61103  ---  Kessen III [Trial]
+SLPM-61104  ---  Samurai Western - Katsugeki Samurai-dou [Trial]
+SLPM-61105  ---  Hajime no Ippo - All-Stars [Trial]
+SLPM-61106  ---  Rumble Roses [Trial]
+SLPM-61107  ---  Dengeki PS2 / DengekiPlayStation D76
+SLPM-61109  ---  Shadow of Rome [Trial]
+SLPM-61110  ---  Enthusia Professional Racing [Trial]
+SLPM-61111  ---  Dragon Ball Z 3 [Trial]
+SLPM-61112  ---  Swords of Destiny [Trial]
+SLPM-61113  ---  Dengeki PS2 / DengekiPlayStation D77
+SLPM-61114  ---  Shadow of Rome [Trial]
+SLPM-61115  ---  Racing Battle - C1 Grand Prix [Trial]
+SLPM-61116  ---  Bouken-ou Beet - Darkness Century [Trial]
 SLPM-61117  ---  Musashiden II - Blademaster [Trial]
-SLPM-61120  ---  Drag-on Dragoon 2 - Fuuin no Aka, Haitoku no Kuro [Trial Version]
-SLPM-61127  ---  FlatOut [Trial]
-SLPM-61130  ---  Ikusa Gami [Trial Version]
-SLPM-61132  ---  Ikusa Gami [Trial Version]
-SLPM-61133  ---  Soul Calibur III [Trial Version]
-SLPM-61135  ---  Naruto - Narutimett Hero 3 [Trial Version]
-SLPM-61147  ---  Xenosaga Episode III - Also Sprach Zarathustra [Demo]
-SLPM-61157  ---  Naruto Shippuuden - Narutimate Accel [Trial]
-SLPM-62025  ---  PrintFan
-SLPM-62037  ---  Chou Kousoku Igo
-SLPM-62039  ---  Chou Kousoku Shougi
-SLPM-62054  ---  Eternity Master V
-SLPM-62121  ---  ESPN NBA 2Night 2002
-SLPM-62132  ---  Internet Othello - Othello World 24
+SLPM-61118  ---  Armored Core - Last Raven [Famitsu Limited Trial]
+SLPM-61119  ---  Armored Core - Last Raven [Trial]
+SLPM-61120  ---  Drag-on Dragoon 2 - Fuuin no Aka, Haitoku no Kuro [Trial]
+SLPM-61121  ---  Kaido Touge no Densetsu [Trial]
+SLPM-61122  ---  Dengeki PS2 / DengekiPlayStation D81
+SLPM-61123  ---  Naruto Uzumaki Ninden [Trial]
+SLPM-61124  ---  Okami - Fude-hajime no Maki [Trial]
+SLPM-61125  ---  Tokyo Game Show Bandai Namco Booth Distribution Disc 2005
+SLPM-61126  ---  Dengeki PS2 / DengekiPlayStation D84
+SLPM-61127  ---  Racing Game - Chuui!!!! [Trial]
+SLPM-61129  ---  Famitsu PS2 Special Disc - Capcom Game Collection
+SLPM-61130  ---  Ikusa Gami [Trial]
+SLPM-61131  ---  Dengeki PS2 / DengekiPlayStation D85
+SLPM-61132  ---  Ikusa Gami [Store Demo]
+SLPM-61133  ---  SoulCalibur III [Trial]
+SLPM-61134  ---  Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T. [Trial]
+SLPM-61135  ---  Naruto Narutimett Hero 3 [Trial]
+SLPM-61137  ---  Sega Rally 2006 [Trial]
+SLPM-61139  ---  Puyo Puyo Fever 2 [Trial]
+SLPM-61140  ---  Ryu Ga Gotoku [Trial]
+SLPM-61141  ---  Dengeki PS2 / DengekiPlayStation D87
+SLPM-61142  ---  Shin Onimusha - Dawn of Dreams / Ookami [Trial]
+SLPM-61144  ---  Ninkyouden Toseinin Ichidaiki [Trial]
+SLPM-61146  ---  Dengeki PS2 / DengekiPlayStation D90
+SLPM-61147  ---  Xenosaga Episode III - Also Sprach Zarathustra [Trial]
+SLPM-61148  ---  Growlanser V - Generations [Trial]
+SLPM-61149  ---  Dengeki PS2 / DengekiPlayStation D91
+SLPM-61150  ---  Kinnikuman Muscle Grand Prix Max [Trial]
+SLPM-61152  ---  Dragon Ball Z - Sparking Neo [Trial]
+SLPM-61153  ---  Dengeki PS2 / DengekiPlayStation D92
+SLPM-61154  ---  Ryu Ga Gotoku 2 [Trial]
+SLPM-61155  ---  Tomb Raider - Legend [Trial]
+SLPM-61156  ---  Dengeki PS2 / DengekiPlayStation D93
+SLPM-61157  ---  Naruto Shippuuden Narutimate Accel [Trial]
+SLPM-61158  ---  Saint Seiya - Meiou Hades Juunikyuu Hen [Trial]
+SLPM-61161  ---  God of War II - The End Begins [Trial]
+SLPM-61162  ---  Dragon Ball Z Sparking! Meteor [Trial]
+SLPM-61163  ---  Seaman 2 - Peking Genjin Ikusei Kit [Trial]
+SLPM-61164  ---  Dengeki PS2 / DengekiPlayStation D96
+SLPM-62043  ---  Metal Gear Solid 2 [Trial]
+SLPM-62050  ---  Densha de Go! Shinkansen Sanyou Shinkansen-hen [Trial]
+SLPM-62058  ---  Winning Post 4 Maximum 2001
+SLPM-62059  ---  G1 JOCKEY2 2001
+SLPM-62086  ---  PlayOnline Beta Edition - PlayOnline Viewer Beta Version & Tetra Master Beta Version
+SLPM-62111  ---  EGBrowser
 SLPM-62134  ---  Final Fantasy XI [Beta Edition]
+SLPM-62135  ---  Final Fantasy XI - Online
 SLPM-62136  ---  NetFront for Delta
 SLPM-62137  ---  Psyvariar Complete Edition [Special Sound Box]
 SLPM-62138  ---  Psyvariar Complete Edition [Special Capture Box]
-SLPM-62140  ---  Cyber Jansou - Toufuusou-hen
-SLPM-62141  ---  Eisei Meijin VI - Tsuushin Shougi Club
-SLPM-62146  ---  Chou Kousoku Mahjong Plus
-SLPM-62169  ---  Live World Soccer 2002
-SLPM-62170  ---  Internet Mahjong - Toufuusou de Asobou
+SLPM-62163  ---  WinBack
 SLPM-62177  ---  Kuusen [Kadokawa The Best]
-SLPM-62206  ---  Growlanser 2 [Atlus The Best]
-SLPM-62216  ---  Ever Blue [CapKore The Best]
-SLPM-62217  ---  J League Winning Eleven 6
-SLPM-62235  ---  GetBass Battle
+SLPM-62183  ---  Shin Sangoku Musou
+SLPM-62184  ---  Sangokushi VIII
+SLPM-62206  ---  Growlanser II - The Sense of Justice [Atlus The Best]
+SLPM-62208  ---  Nobunaga no Yabou Online
+SLPM-62216  ---  Ever Blue [CapColle The Best]
 SLPM-62237  ---  Gakuen Toshi Vara Noir [Limited Edition]
-SLPM-62239  ---  Supercar Street Challenge
-SLPM-62256  ---  Super Trucks
-SLPM-62261  ---  DogStation
+SLPM-62240  ---  The Sims
+SLPM-62242  ---  Doukyuu - Billiard Master 2 [LowPrice Version]
+SLPM-62259  ---  Dejicame Album - Kuraemon
 SLPM-62265  ---  Power Smash 2
-SLPM-62280  ---  Winning Post 5 Maximum 2002 [Premium Pack]
-SLPM-62287  ---  Fire Pro Wrestling Z [Limited Edition]
+SLPM-62280  ---  G1 Jockey 3 & Winning Post5 Maximum 2002 [Premium Pack]
+SLPM-62287  ---  Fire Pro Wrestling Z [with Toujien BOX]
 SLPM-62290  ---  TV Kuraemon
-SLPM-62299  ---  Winback [Koei The Best]
+SLPM-62299  ---  WinBack [Koei The Best]
 SLPM-62300  ---  Horse Breaker [Koei The Best]
-SLPM-62302  ---  Eisei Meijin 7 - Tsuushin Shougi Club
-SLPM-62305  ---  Othello [SuperLite 2000]
-SLPM-62316  ---  Table Mahjong [Superlite 2000 Series]
-SLPM-62323  ---  AI Shougi 2003
-SLPM-62329  ---  AI Igo 2003
-SLPM-62330  ---  AI Mahjong 2003
-SLPM-62338  ---  Ishikura Noboru no Igo Kouza
-SLPM-62369  ---  Karaoke Revolution - J-Pop Vol.1
-SLPM-62371  ---  Psyvariar Revision [Superlite 2000 Series]
-SLPM-62377  ---  Get Backers Dakkanoku - Ubawareta Mugenshiro [Konami The Best]
-SLPM-62379  ---  Karaoke Revolution - J-Pop Vol.2
-SLPM-62380  ---  Karaoke Revolution - J-Pop Vol.3
-SLPM-62381  ---  Karaoke Revolution - J-Pop Vol.4
-SLPM-62382  ---  Karaoke Revolution - Love & Ballad
-SLPM-62383  ---  Karaoke Revolution - Night Selection 2003
-SLPM-62386  ---  Ishikura Noboru Kudan no Igo Kouza - Chuukyuu-hen - Jitsuryoku 5-kyuu o Mezasu Hito e
-SLPM-62392  ---  G1 Jockey 3 2003
-SLPM-62393  ---  GI Jockey 3 2003 [Premium Pack]
+SLPM-62312  ---  Saikyou no Igo 2 [Special Price]
+SLPM-62331  ---  Shin Sangoku Musou 2 & Moushouden Saikyou Data
+SLPM-62332  ---  PlayOnline Viewer - Tetra Master & Janhourou
+SLPM-62333  ---  PlayOnline Viewer - Tetra Master & Janhourou
+SLPM-62357  ---  Tennis no Oji-Sama - Smash-Hit! Original Anime Game
+SLPM-62358  ---  Tennis no Oji-Sama - Smash-Hit! Original Anime Game
+SLPM-62359  ---  Tennis no Oji-Sama - Smash-Hit! Original Anime Game
+SLPM-62360  ---  Chou Aniki - Seinaru Protein Densetsu
+SLPM-62368  ---  Koei Sangokushi Special Save Data-shuu
+SLPM-62377  ---  Get Backers Dakkanoku - Ubawareta Mugenshiro [KONAMI The BEST]
+SLPM-62393  ---  G1 JOCKEY3 2003 & Winning Post6 [Premium Pack]
 SLPM-62394  ---  Power Smash 2 [Sega The Best - 2800 Series]
+SLPM-62405  ---  Taikou Risshiden IV [Koei The Best]
 SLPM-62406  ---  Kurogane no Houkou - Warship Commander [Koei The Best]
-SLPM-62408  ---  Harry Potter - Quidditch World Cup
-SLPM-62410  ---  Silent Scope 3 [Konami The Best]
-SLPM-62414  ---  Karaoke Revolution - Dreams & Memories
-SLPM-62428  ---  Kiwame Mahjong DXII - The 4th Mondo 21 Cup Competition
-SLPM-62438  ---  Growlanser Collection - The Dual Darkness
-SLPM-62439  ---  Growlanser Collection - The Sense of Justice
-SLPM-62448  ---  Crossword [SuperLite 2000 Series]
-SLPM-62450  ---  Karaoke Revolution - Anime Song Selection
-SLPM-62451  ---  Karaoke Revolution - J-Pop Vol.5
-SLPM-62454  ---  Karaoke Revolution - J-Pop Vol.6
-SLPM-62455  ---  Karaoke Revolution - J-Pop Vol.7
-SLPM-62456  ---  Karaoke Revolution - J-Pop Vol.8
-SLPM-62457  ---  Karaoke Revolution - Snow & Party
+SLPM-62410  ---  Silent Scope 3 [KONAMI The BEST]
+SLPM-62419  ---  Yuusei kara no Buttai X - Episode II [KONAMI The Best]
+SLPM-62420  ---  Shin Sangoku Musou 3 - Moushouden & Sangokusi VIII & Kessen II [Super Value Set] [Sangokushi8 Disc]
+SLPM-62435  ---  Tennis no Oji-Sama - Smash-Hit 2! Original Anime Game
+SLPM-62438  ---  Growlanser Collection - The Dual Darkness [Disc 1 of 2]
+SLPM-62439  ---  Growlanser Collection - The Sense of Justice [Disc 2 of 2]
 SLPM-62473  ---  Nobunaga no Yabou - Ranseiki [Koei The Best]
 SLPM-62480  ---  Hot Gimmick Cosplay Mahjong [Limited Edition]
 SLPM-62481  ---  Waku Waku Volleyball 2 [Superlite 2000 Series]
 SLPM-62486  ---  Chou Saisoku! Zokusha King B.U. [Simple Series DX]
 SLPM-62490  ---  Dragon Quest VIII [Premium Disc]
-SLPM-62492  ---  Karaoke Revolution - Kids Song Selection
+SLPM-62498  ---  Shin Sangoku Musou 3 & Moushouden Saikyou Data
 SLPM-62514  ---  Sim People [EA Best Hits]
 SLPM-62519  ---  Sangokushi VIII [Koei The Best]
+SLPM-62520  ---  Nobunaga no Yabou - Soutenroku
 SLPM-62521  ---  Kiwame Mahjong DXII - The 4th Mondo 21 Cup Competition [Athena Best Collection]
-SLPM-62529  ---  Karaoke Revolution - Kazoku Idol Sengen
 SLPM-62554  ---  EyeToy - Sega Superstars [with Camera]
+SLPM-62573  ---  Kessen III - Enjoy Disc
 SLPM-62576  ---  Jissen Pachi-Slot Hisshouhou! Hokuto no Ken Plus
+SLPM-62590  ---  G1 Jockey 3 - 2005 [Premium Pack]
 SLPM-62595  ---  Choro Q HG 3 [Takara The Best]
+SLPM-62598  ---  Sakura Taisen V - Saraba Itoshiki Hito yo [Trial]
+SLPM-62619  ---  Shoujo Yoshitsune-jong - Benkei no Naki Dokoro
 SLPM-62630  ---  Sukusuku Inufuku [Hamster The Best]
-SLPM-62632  ---  Simple 2000 Series 2-in-1 Vol. 3 - The Puzzle Collection 2000 Toi & The Touyou Sandai Senjitsu Fusui, Seimeidanhan, Ekisen [Disc2of2]
-SLPM-62634  ---  Simple 2000 Series 2-in-1 Vol. 2 - The Bass Fishing & The Bowling Hyper [Disc2of2]
-SLPM-62637  ---  Simple 2000 Series 2-in-1 Vol. 1 - The Tennis & The Snowboard [Disc2of2]
+SLPM-62632  ---  Simple 2000 Series 2-in-1 Vol. 3 - The Puzzle Collection 2000 Toi & The Touyou Sandai Senjitsu Fusui, Seimeidanhan, Ekisen [Disc 2 of 2]
+SLPM-62634  ---  Simple 2000 Series 2-in-1 Vol. 2 - The Bass Fishing & The Bowling Hyper [Disc 2 of 2]
+SLPM-62637  ---  Simple 2000 Series 2-in-1 Vol. 1 - The Tennis & The Snowboard [Disc 2 of 2]
 SLPM-62648  ---  K-1 World Max 2005
-SLPM-62663  ---  Simple 2000 Series 2-in-1 Vol. 5 - The Shooting & The Helicopter [Disc2of2]
-SLPM-62665  ---  Simple 2000 Series 2-in-1 Vol. 4 - The Bushidou & The Sniper 2 [Disc2of2]
+SLPM-62663  ---  Simple 2000 Series 2-in-1 Vol. 5 - The Shooting & The Helicopter [Disc 2 of 2]
+SLPM-62665  ---  Simple 2000 Series 2-in-1 Vol. 4 - The Bushidou & The Sniper 2 [Disc 2 of 2]
+SLPM-62669  ---  Sega Ages 2500 Series Vol.04 - Space Harrier
+SLPM-62715  ---  Shin Sangoku Musou Series Collection Joukan Saikyou Data
+SLPM-62716  ---  Sengoku Musou 2 & Sengoku Musou 2 - Moushouden -Saikyou Data
+SLPM-62728  ---  Shin Sangoku Musou 4 & Shin Sangoku Musou 4 - Moushouden Saikyou Data
+SLPM-62738  ---  Rally Shox & Freekstyle Motocross [EA Best Hits] [FREEK STYLE MOTOCROSSディスク]
+SLPM-62751  ---  Shin Sangoku Musou Series Collection Gekan Saikyou Data
+SLPM-62768  ---  Sengoku Musou 2 & Sengoku Musou 2 - Empires -Saikyou Data
+SLPM-62769  ---  Quiz & Variety SukuSuku Inufuku 2 - Motto SukuSuku
+SLPM-62781  ---  Mahjong Sangokushi [MYCOM BEST]
+SLPM-62785  ---  Saikyo Shogi Gekisashi Special
 SLPM-64509  ---  Crash Bandicoot - Return of the Demon King [English Dub Edition]
+SLPM-64510  ---  International Superstar Soccer 2
+SLPM-64512  ---  Super Puzzle Bobble
 SLPM-64514  ---  Legends of Wrestling
+SLPM-64519  ---  Woody Woodpecker
+SLPM-64524  ---  Shox
+SLPM-64527  ---  Way of the Samurai
+SLPM-64533  ---  F1 2002
 SLPM-64534  ---  Psyvariar - Complete Edition
-SLPM-64540  ---  Sims, The
-SLPM-65007  ---  Roadsters Trophy 2000
-SLPM-65009  ---  ESPN X-Games Snowboarding
-SLPM-65025  ---  BioHazard - 5th Anniversary Package - Nightmare Returns [Disc2of2]
-SLPM-65085  ---  Alone in the Dark - The New Nightmare
-SLPM-65117  ---  Kikou Heiden J-Phoenix [Takara The Best]
-SLPM-65122  ---  J-Phoenix Burst Tactics [Limited Edition]
-SLPM-65135  ---  NBA 2K2
+SLPM-64535  ---  High Heat Major League Baseball 2003
+SLPM-64537  ---  Dark Angel - Vampire Apocalypse
+SLPM-64539  ---  UFC - Ultimate Fighting Championship 2 - Tapout
+SLPM-64540  ---  The Sims
+SLPM-64550  ---  Super Puzzle Bobble 2
+SLPM-64552  ---  Silent Scope 3
+SLPM-65007  ---  Roadsters Trophy 2000 [Cancelled]
+SLPM-65025  ---  Devil May Cry [Trial] - 5th Anniversary Package - Nightmare Returns [Disc 2 of 2]
+SLPM-65030  ---  Kesse & Kessen2 Super Value Set [Kessen Disc]
+SLPM-65031  ---  Kesse & Kessen II Super Value Set [Kessen II Disc]
+SLPM-65085  ---  Alone in the Dark - The New Nightmare [Canceled]
+SLPM-65104  ---  SSX Tricky
+SLPM-65117  ---  Kikou Heidan J-Phoenix [Takara The Best]
+SLPM-65122  ---  Kikou Heidan J-Phoenix Burst Tactics [Limited Edition]
+SLPM-65146  ---  Shin Sangoku Musou 2
+SLPM-65149  ---  Choro Q HG [Takara THE BEST]
 SLPM-65161  ---  Aero Dancing 4
+SLPM-65162  ---  San Guo Zhi Zhan Ji
 SLPM-65163  ---  Zhen San Guo Wu Shuang 2
 SLPM-65164  ---  Project Minerva [Limited Edition]
-SLPM-65166  ---  Ultimate Fighting Championship 2 - Tap-Out
-SLPM-65167  ---  Pride
-SLPM-65184  ---  Document of Metal Gear Solid 2, The
-SLPM-65197  ---  Nobunaga's Ambition Online
+SLPM-65166  ---  UFC - Ultimate Fighting Championship - Throwdown
+SLPM-65168  ---  Medal of Honor - Frontline
+SLPM-65181  ---  Need for Speed - Hot Pursuit 2
 SLPM-65201  ---  Star Wars - Jedi Starfighter
-SLPM-65210  ---  Chou Battle Houshin [Premium Pack]
-SLPM-65211  ---  Houshin Engi 2 [Premium Pack]
+SLPM-65210  ---  Chou Battle Houshin [Premium Pack] [Chou Battl Houshin Disc]
+SLPM-65211  ---  Chou Battle Houshin [Premium Pack] [Houshin Engi 2 Disc]
 SLPM-65212  ---  Lord of the Rings, The - The Two Towers
 SLPM-65215  ---  Chou Battle Houshin - Bundle #2
-SLPM-65222  ---  Yu-Gi-Oh! 2 [Konami The Best]
-SLPM-65230  ---  Tokimeki Memorial 3 [Konami The Best]
-SLPM-65264  ---  Shin Sangoku Musou 2 & Shin Sangoku Musou 2 Mushoden [Koei Mega Pack] [Disc2of2]
-SLPM-65276  ---  Grand Prix Challenge
+SLPM-65222  ---  Yu-Gi-Oh!Shin Duel-Monsters 2 -Keishousaresshi Kioku [KONAMI Dendou Selection]
+SLPM-65230  ---  Tokimeki Memorial 3 [KONAMI The BEST]
+SLPM-65264  ---  Shin Sangoku Musou 2 & Shin Sangoku Musou 2 - Moushouden [Disc 2] [Koei Mega Pack]
 SLPM-65278  ---  Generation of Chaos 3 [Limited Edition]
 SLPM-65288  ---  Final Fantasy XI - Girade no Genei [All-in-One Pack]
 SLPM-65289  ---  Final Fantasy XI [Entry Disc]
-SLPM-65305  ---  Genso Suikoden 3
-SLPM-65309  ---  Splashdown [PlayStation 2 The Best]
+SLPM-65305  ---  Gensou Suikoden 3
+SLPM-65309  ---  Splashdown [PlayStation2 the Best]
 SLPM-65314  ---  Hanjuku Hero VS 3-D [Limited Edition]
-SLPM-65321  ---  Prince of Tennis - Smash Hit!
-SLPM-65322  ---  Prince of Tennis - Smash Hit! - B-Type
-SLPM-65346  ---  Winning Post 6
+SLPM-65321  ---  Prince of Tennis - Smash Hit![Limited Edition]
+SLPM-65322  ---  Prince of Tennis - Smash Hit! [B-Type]
+SLPM-65354  ---  Sangokushi Senki 2
 SLPM-65359  ---  Judie no Atelier - Gramnad no Renkinjutsushi [Gust Best Price]
-SLPM-65375  ---  Shin Sangoku Musou 3 - Mushoden [Premium Pack]
+SLPM-65371  ---  Tennis no Oujisama - Sweat & Tears 2 - Seishun Gakuen Teikyuusai '03 - Perfect Live
+SLPM-65375  ---  Shin Sangoku Musou 3 & Shin Sangoku Musou 3 - [Disc 1] [Premium Pack]
+SLPM-65376  ---  Shin Sangoku Musou 3 & Shin Sangoku Musou 3 - [Disc 2] [Premium Pack]
 SLPM-65383  ---  Growlanser IV - Wayfarer of the Time [Limited Edition]
+SLPM-65385  ---  G1 JOCKEY3 2003 & Winning Post6 [Premium Pack]
 SLPM-65390  ---  Shinki Gensou - Spectral Souls [Limited Edition]
-SLPM-65420  ---  Dabitsuku 3 - Let's Become a Derby Owner
-SLPM-65427  ---  Riding Spirits 2
-SLPM-65435  ---  Diamond Dust
-SLPM-65445  ---  Jikkyou Powerful Pro Yakyuu 10 Chou Ketteiban - 2003 Memorial
-SLPM-65451  ---  Prince of Tennis - Smash Hit! 2 [First Limited Edition]
-SLPM-65460  ---  Conflict Delta - Wangan War 1991
-SLPM-65474  ---  Kurogane no Houkou 2 - Warship Commander [Limited Edition]
-SLPM-65505  ---  Cool Girl [Limited Edition] [Disc2of2]
-SLPM-65533  ---  Pyu to Fuku! Jaguar Ashita no Japan
-SLPM-65543  ---  Pro Yakyuu Spirits 2004
+SLPM-65403  ---  Sangokushi Senki [Koei The Best]
+SLPM-65427  ---  Riding Spirits II
+SLPM-65435  ---  Kita he - Diamond Dust
+SLPM-65436  ---  Shin Sangoku Musou 3 - Moushouden & Sangokusi VIII & Kessen II [Super Value Set] [Shin Sangoku Musou Disc]
+SLPM-65437  ---  Shin Sangoku Musou 3 - Moushouden & Sangokusi VIII & Kessen II [Super Value Set] [Kessen2 Disc]
+SLPM-65451  ---  Prince of Tennis - Smash Hit! 2 [Shokai SP Genteiban A-Type]
+SLPM-65452  ---  Tennis no Oji-Sama - Smash-Hit 2! Original Anime Game [Shokai SP Genteiban B-Type]
+SLPM-65453  ---  Tennis no Oji-Sama - Smash-Hit 2! Original Anime Game [Shokai SP Genteiban C-Type]
+SLPM-65474  ---  Kurogane no Houkou 2 - Premium Pack [Warship Commander & Warship Gunner] [Limited Edition]
+SLPM-65505  ---  Cool Girl [Limited Edition] [Disc 2 of 2]
+SLPM-65533  ---  Pyu to Fuku! Jaguar Ashita no Japan [Limited Edition]
 SLPM-65561  ---  Shin Sangoku Musou 3 [Super Premium Pack]
 SLPM-65571  ---  Generation of Chaos 4 [Limited Edition]
-SLPM-65612  ---  Harry Potter to Azkaban no Shuujin
-SLPM-65647  ---  Yu-Gi-Oh! 2 [Konami Dendou Collection]
+SLPM-65646  ---  Komorebi no Namikimichi - Utsurikawaru Kisetsu no Naka de
+SLPM-65647  ---  Yu-Gi-Oh!Shin Duel-Monsters 2 -Keishousaresshi Kioku [KONAMI The BEST]
 SLPM-65666  ---  NBA Live 2004 [EA Best Hits]
-SLPM-65677  ---  Prince of Tennis - Smash Hit! [Konami The Best]
-SLPM-65678  ---  Prince of Tennis - Smash Hit! 2 [Konami The Best]
-SLPM-65679  ---  Prince of Tennis - Sweat 2 [Konami The Best]
+SLPM-65677  ---  Prince of Tennis - Smash Hit! [KONAMI The BEST]
+SLPM-65678  ---  Prince of Tennis - Smash Hit! 2 [KONAMI The BEST]
+SLPM-65679  ---  Prince of Tennis - Sweat 2 [KONAMI The BEST]
 SLPM-65702  ---  Sangokushi Senki [Koei Collection Series]
 SLPM-65716  ---  Gaika no Gouhou - Air Land Force [Koei The Best]
-SLPM-65720  ---  Shin Sangoku Musou 2 Mushoden [Koei the Best]
-SLPM-65804  ---  European Club Soccer - Winning Eleven Tactics
-SLPM-65850  ---  Harukanaru Toki no Naka de 3 [Triple Pack]
-SLPM-65859  ---  Junrui Sosa - Kan Pony - Eirian vs. Seirian
+SLPM-65720  ---  Shin Sangoku Musou 2 - Moushouden [Koei the Best]
+SLPM-65743  ---  Cool Girl [KONAMI The BEST] [Disc 2 of 2]
+SLPM-65850  ---  Harukanaru Toki no Naka de 3 [Premium Box]
+SLPM-65852  ---  Exciting Pro Wrestling 6 - WWE SmackDown! vs. Raw
+SLPM-65859  ---  Jinrui Sousa Kan Pnoy -Alien vs. Alien [Cancelled]
+SLPM-65893  ---  Winning Post 6 Maximum 2005 [Premium Pack]
 SLPM-65953  ---  Final Fantasy XI [Entry Disc 2005]
-SLPM-66010  ---  Tennis no Oji-Sama - Smash-Hit! [Konami Palace Selection]
-SLPM-66011  ---  Tennis no Oji-Sama - Smash-Hit! 2 [Konami Palace Selection]
-SLPM-66012  ---  Tennis no Oji-Sama - Sweat & Tears 2 [Konami Palace Selection]
-SLPM-66013  ---  Tennis no Oji-Sama - Form the Strongest Team [Konami Palace Selection]
-SLPM-66014  ---  Tennis no Oji-Sama - Rush & Dream [Konami Palace Selection]
-SLPM-66064  ---  Tough - Dark Fight
-SLPM-66098  ---  True Crime - Streets of L.A. [CapKore]
-SLPM-66099  ---  Harukanaru Toki no Naka de 3 - Izayoiki [Premium Box-Triple Pack]
-SLPM-66155  ---  Flame of Recca - Final Burning [Konami Palace Selection]
-SLPM-66178  ---  pop'n music 7 [Konami The Best]
-SLPM-66179  ---  pop'n music 8 [Konami The Best]
-SLPM-66209  ---  pop'n music 9 [Konami The Best]
-SLPM-66210  ---  pop'n music 10 [Konami The Best]
-SLPM-66224  ---  Metal Gear Solid 3 - Subsistence [Disc2of2]
-SLPM-66227  ---  GI Jockey 4 + Winning Post 7 [Twin Pack] [GI Jockey 4 Disc]
-SLPM-66228  ---  GI Jockey 4 + Winning Post 7 [Twin Pack] [Winning Post 7 Disc]
+SLPM-66003  ---  Harukanaru Toki no Naka de - Hachiyou-shou [History Box]
+SLPM-66004  ---  Harukanaru Toki no Naka de 2 [History Box]
+SLPM-66005  ---  Harukanaru Toki no Naka de 3 [History Box]
+SLPM-66010  ---  Tennis no Oji-Sama - Smash-Hit! [Konami Dendou Selection]
+SLPM-66011  ---  Tennis no Oji-Sama - Smash-Hit! 2 [Konami Dendou Selection]
+SLPM-66012  ---  Tennis no Oji-Sama - Sweat & Tears 2 [Konami Dendou Selection]
+SLPM-66013  ---  Tennis no Oji-Sama - Form the Strongest Team [Konami Dendou Selection]
+SLPM-66014  ---  Tennis no Oji-Sama - Rush & Dream [Konami Dendou Selection]
+SLPM-66064  ---  Tough Dark Fight
+SLPM-66066  ---  Yu-Gi-Oh! Capsule Monster Coliseum [KONAMI The BEST]
+SLPM-66075  ---  Bass Landing 3 [SEGA THE BEST 2800]
+SLPM-66095  ---  Chou Battle Houshin [Koei Teiban Series]
+SLPM-66098  ---  True Crime - Streets of LA [CapColle]
+SLPM-66099  ---  Harukanaru Toki no Naka de 3 - Izayoiki [Premium Box]
+SLPM-66118  ---  Metal Gear Solid 3 - Subsistence [with Headset] [Disc 2 of 3]
+SLPM-66119  ---  Metal Gear Solid 3 - Subsistence [with Headset] [Disc 3 of 3]
+SLPM-66127  ---  Harukanaru Toki no Naka de 3 - Izayoiki
+SLPM-66128  ---  Harukanaru Toki no Naka de 3
+SLPM-66155  ---  Flame of Recca - Final Burning [Konami Dendou Selection]
+SLPM-66172  ---  Sangokushi IX
+SLPM-66178  ---  Pop'n music 7 [KONAMI The BEST]
+SLPM-66179  ---  Pop'n music 8 [KONAMI The BEST]
+SLPM-66188  ---  Exciting Pro Wres 7 - WWE SMACKDOWN! vs. RAW 2006
+SLPM-66209  ---  Pop'n music 9 [KONAMI The BEST]
+SLPM-66210  ---  Pop'n music 10 [KONAMI The BEST]
+SLPM-66224  ---  Metal Gear Solid 3 - Subsistence [Disc 2 of 2]
+SLPM-66227  ---  G1 Jockey 4 + Winning Post 7 [Twin Pack] [G1 Jockey 4 Disc]
+SLPM-66228  ---  G1 Jockey 4 + Winning Post 7 [Twin Pack] [Winning Post 7 Disc]
 SLPM-66234  ---  Wizardry X - Zensen no Gakufu [Wonder Price]
-SLPM-66250  ---  Choro Q HG 4 [Takara Best]
+SLPM-66250  ---  Choro Q HG 4 [Atlus Best Collection]
 SLPM-66255  ---  World Soccer Winning Eleven 9 [Bonus Pack]
-SLPM-66258  ---  Magic Teacher Negima - Honor Version [Konami The Best]
-SLPM-66261  ---  Oz [Konami The Best]
-SLPM-66344  ---  Harukanaru Toki no Naka de 3 - Unmei no Labyrinth [Triple Pack]
+SLPM-66258  ---  Magic Teacher Negima - Honor Version [KONAMI The BEST]
+SLPM-66261  ---  Oz [KONAMI The BEST]
+SLPM-66303  ---  Shin Sangoku Musou 2 [Shin Sangoku Musou Series Collection Joukan]
+SLPM-66304  ---  Shin Sangoku Musou 2 - Moushouden [Shin Sangoku Musou Series Collection Joukan]
+SLPM-66305  ---  Shin Sangoku Musou 3 [Shin Sangoku Musou Series Collection Joukan]
+SLPM-66306  ---  Shin Sangoku Musou 3 - Moushouden [Shin Sangoku Musou Series Collection Joukan]
+SLPM-66344  ---  Harukanaru Toki no Naka de 3 - Unmei no Meikyuu [Triple Pack]
+SLPM-66345  ---  Harukanaru Toki no Naka de 3 [Triple Pack]
+SLPM-66346  ---  Harukanaru Toki no Naka de 3 - Izayoiki [Triple Pack]
+SLPM-66368  ---  Shin Sangoku Musou 4 - Empires
+SLPM-66369  ---  Shin Sangoku Musou 4 - Moushouden
+SLPM-66403  ---  Suzuki TT Super Bikes - Real Road Racing
 SLPM-66404  ---  Ultimate Spider-Man
+SLPM-66425  ---  Nobunaga no Yabou - Soutenroku with Power-Up Kit [KOEI The BEST]
 SLPM-66442  ---  World Football Climax
-SLPM-66479  ---  Star Ocean 3 - Till the End of Time [Ultimate Hits] [Disc2of2]
-SLPM-66483  ---  Mushihimesama [Taito Best]
-SLPM-66506  ---  Gundam - Federation vs. Zeon DX [Mega Hits]
-SLPM-66616  ---  007 - Everything or Nothing [EA Best Hits Dual Pack]
-SLPM-66780  ---  Galaxy Angel II - Mugen Kairou no Kagi [Disc2of2]
-SLPM-66784  ---  Idol Janshi Suchie-Pai III Remix 
+SLPM-66479  ---  Star Ocean 3 - Till the End of Time [Ultimate Hits] [Disc 2 of 2]
+SLPM-66483  ---  Mushihime-sama [TAITO BEST]
+SLPM-66506  ---  Gundam - Federation vs. Zeon DX [MEGA HITS!]
+SLPM-66517  ---  The Urbz - Sims in the City
+SLPM-66578  ---  Shin Sangoku Musou 3 - Empires [Shin Sangoku Musou Series Collection Gekan]
+SLPM-66579  ---  Shin Sangoku Musou 4 [Shin Sangoku Musou Series Collection Gekan]
+SLPM-66580  ---  Shin Sangoku Musou 4 - Moushouden [Shin Sangoku Musou Series Collection Gekan]
+SLPM-66581  ---  Shin Sangoku Musou 4 - Empires [Shin Sangoku Musou Series Collection Gekan]
+SLPM-66616  ---  007 - Nightfire & 007 Everything or Nothing [EA Best Hits Dual Pack]
+SLPM-66699  ---  Kin'iro no Corda 2 [Premium Box]
+SLPM-66780  ---  Galaxy Angel II - Mugen Kairou no Kagi [Disc 2 of 2]
+SLPM-66793  ---  Metal Gear Solid 2 - Sons of Liberty [20th Anniversary Edition] [Disc 2 of 2]
+SLPM-66795  ---  Metal Gear Solid 2 - Solid Snake [METAL GEAR 20th ANNIVERSARY] [Disc 2/2]
+SLPM-66797  ---  The Document of Metal Gear Solid 2 [METAL GEAR 20th ANNIVERSARY/MGS Collection]
+SLPM-66798  ---  Metal Gear Solid 3 - Subsistence [METAL GEAR 20th ANNIVERSARY/MGS Collection] [Disc 1]
+SLPM-66799  ---  Metal Gear Solid 2 - Solid Snake [METAL GEAR 20th ANNIVERSARY/MGS Collection] [Disc 2]
+SLPM-66834  ---  Kin'iro no Corda 2 Anchor [Premium Box]
 SLPM-66855  ---  Togainu no Chi - True Blood [Limited Edition]
+SLPM-66865  ---  Sengoku Basara 2 [Best Price]
+SLPM-66904  ---  G1 Jockey 4 - 2007 [with Winning Post 7 Maximum 2007 - Premium Pack]
+SLPM-66951  ---  Harukanaru Toki no Naka de 4 [Premium Box]
+SLPM-66984  ---  Gakuen Heaven - Boy's Love Scramble! [Best Version]
 SLPM-66994  ---  Mana-Khemia - Gakuen no Renkinjutsu Shitachi [Best Version]
-SLPM-67001  ---  Wonder Zone
 SLPM-67503  ---  FIFA 2002
 SLPM-67504  ---  SSX Tricky
-SLPM-67507  ---  Onimusha Warlords
+SLPM-67506  ---  Thunder Strike - Operation Phoenix
+SLPM-67507  ---  Onimusha - Warlords
 SLPM-67512  ---  2002 FIFA World Cup
 SLPM-67515  ---  Metal Gear Solid 2 - Sons of Liberty
-SLPM-67519  ---  Rayman 2 Revolution
-SLPM-67522  ---  Sangokushi Senki
+SLPM-67517  ---  Capcom vs. SNK 2 - Mark of the Millennium 2001
+SLPM-67519  ---  Rayman Revolution
+SLPM-67520  ---  Disney's Tarzan - Untamed
+SLPM-67522  ---  Samgukji Jeongi
 SLPM-67526  ---  Ghost Vibration
 SLPM-67527  ---  Need for Speed - Hot Pursuit 2
-SLPM-67528  ---  Hajime no Ippo - Victorious Boxers [Championship Edition]
-SLPM-67531  ---  Kessen 2
+SLPM-67528  ---  Hajime-ui Ilbo - The Fighting! Victorious Boxers [Championship Version]
+SLPM-67530  ---  NHL Ice Hockey 2003
+SLPM-67531  ---  Gyeoljeon II
+SLPM-67533  ---  Men in Black II - Alien Escape
 SLPM-67537  ---  FIFA 2003
+SLPM-67538  ---  Sidewinder F
+SLPM-67541  ---  NBA Live 2003
+SLPM-67543  ---  Star Wars - Jedi Starfighter
 SLPM-67545  ---  Project Minerva
 SLPM-67546  ---  Lord of the Rings - The Two Towers
-SLPM-67550  ---  Shin Sangoku Musou 2 - Mushouden
-SLPM-68003  ---  Formula Suzuki Hayabusa Time Attack
+SLPM-67550  ---  Jin Samguk Mussang 2 - Maengjangjeon
+SLPM-68003  ---  Formula SUZUKI Hayabusa Time Attack
+SLPM-68007  ---  Karaoke Revolution-you Mic Doukon Otameshi Disc
+SLPM-68012  ---  Shin Sangoku Musou 3 & Moushouden Saikyou Data
+SLPM-68014  ---  Newtype Gundam Game Special Disc
+SLPM-68016  ---  Dirge of Cerberus - Final Fantasy VII Beta Version
+SLPM-68017  ---  Shin Onimusha - Dawn of Dreams [Saikyou Save Data]
+SLPM-68020  ---  Suzumiya Haruhi no Tomadoi - Yoyaku Tokuten Disc Uchuu Hatsu! Full-CG Odoru SOS-dan (Chou Eizou-Ban)
+SLPM-68501  ---  Kidou Senshi Gundam [Koudansha 8-shi Rengou Kikaku Special Edition]
+SLPM-68502  ---  Zeonic Front - Kidou Senshi Gundam 0079 [Koudansha 8-shi Rengou Kikaku Special Edition]
 SLPM-68504  ---  Tokimeki Memorial 3 - Special Sound Track
-SLPM-68521  ---  Dot Hack Fraegment [Senkou Release-ban]
-SLPM-69001  ---  PictureParadise Club
+SLPM-68505  ---  Gensou Suikoden III
+SLPM-68514  ---  Front Mission Online
+SLPM-68519  ---  Enthusia Professional Racing - Subaru Impreza WRX STI [Trial]
+SLPM-68520  ---  Armored Core - Last Raven [Champion Special Edition]
+SLPM-68521  ---  .hack//fragment [Early Release]
+SLPM-68523  ---  Phantasy Star Universe [Premiere Disc]
+SLPM-68524  ---  Metal Gear Online
+SLPM-69001  ---  PictureParadise Club Vol. 1 [Trial]
 SLPM-69002  ---  NetFront
-SLPM-69004  ---  EGBrowser Light for I-O Data Device, Inc.
-SLPM-69006  ---  PictureParadise Club Vol. 2
-SLPM-74001  ---  Gungriffon Blaze [PlayStation 2 The Best]
-SLPM-74005  ---  Romance of the Three Kingdoms VII [PlayStation 2 The Best]
-SLPM-74006  ---  Rez [PlayStation 2 The Best]
-SLPM-74044  ---  Space Channel 5 - Part 2 [PlayStation 2 The Best]
-SLPM-74227  ---  Ikusa Gami [PlayStation 2 The Best]
-SLPM-74233  ---  Shin Onimusha - Dawn of Dreams [PlayStation 2 The Best][Disc 2]
-SLPM-74265  ---  Nobunaga no Yabou - Kakushin [PlayStation 2 The Best]
-SLPM-74276  ---  Sangoku Musou 2 [PlayStation 2 The Best]
-SLPM-74278  ---  Persona 4 [PlayStation 2 The Best]
-SLPM-74286  ---  Shin Sangoku Musou 5 Special [PlayStation 2 The Best]
-SLPM-74402  ---  Capcom vs. SNK 2 [PlayStation 2 The Best]
-SLPM-74406  ---  World Rally Championship [PlayStation 2 The Best]
-SLPM-74411  ---  Culdcept II - Expansion [PlayStation 2 The Best]
-SLPM-74416  ---  Clock Tower 3
-SLPS-20019  ---  Stepping Selection [Disc2of2]
-SLPS-20039  ---  Ide Yousuke no Mahjong Kazoku 2
+SLPM-69006  ---  PictureParadise Club Vol. 2 [Trial]
+SLPM-74001  ---  Gungriffon Blaze [PlayStation2 the Best]
+SLPM-74005  ---  Sangokushi VII [PlayStation2 the Best]
+SLPM-74006  ---  Rez [PlayStation2 the Best]
+SLPM-74044  ---  Space Channel 5 - Part 2 [PlayStation2 the Best]
+SLPM-74105  ---  Momotarou Dentetsu 16 - Hokkaido Daiidou no Maki! [PlayStation2 the Best]
+SLPM-74213  ---  Gensou Suikoden IV [PlayStation2 the Best]
+SLPM-74216  ---  Shin Sangoku Musou 3 - Moushouden [PlayStation2 the Best]
+SLPM-74217  ---  Shin Sangoku Musou 3 [PlayStation2 the Best] [Mega Pack]
+SLPM-74223  ---  Kessen III
+SLPM-74227  ---  Ikusa Gami [PlayStation2 the Best]
+SLPM-74256  ---  Metal Gear Solid 2 - Sons of Liberty [PlayStation2 the Best] [Disc 2 of 2]
+SLPM-74258  ---  Metal Gear Solid 2 - Solid Snake [PlayStation2 the Best] [Disc 2]
+SLPM-74263  ---  Nobunaga no Yabou - Tenka Sousei [PlayStation2 the Best]
+SLPM-74264  ---  Sengoku Basara 2 Heroes [PlayStation2 the Best]
+SLPM-74265  ---  Nobunaga no Yabou - Kakushin [PlayStation2 the Best]
+SLPM-74266  ---  Sengoku Musou 2 - Empires [PlayStation2 the Best]
+SLPM-74267  ---  Gundam Musou Special [PlayStation2 the Best]
+SLPM-74268  ---  Devil May Cry 3 Special Edition [PlayStation2 the Best]
+SLPM-74273  ---  New Jinsei Game [PlayStation2 the Best]
+SLPM-74275  ---  Sengoku Basara 2 Heroes [PlayStation2 the Best]
+SLPM-74276  ---  Sangoku Musou 2 [PlayStation2 the Best]
+SLPM-74278  ---  Persona 4 [PlayStation2 the Best]
+SLPM-74279  ---  Shin Sangoku Musou 4 - Moushouden [PlayStation2 the Best]
+SLPM-74281  ---  Nobunaga no Yabou - Kakushin [PlayStation2 the Best]
+SLPM-74282  ---  Musou Orochi - Maou Sairin [PlayStation2 the Best]
+SLPM-74283  ---  Shin Sangoku Musou 4 - Empires [PlayStation2 the Best]
+SLPM-74284  ---  Sengoku Musou 2 - Empires [PlayStation2 the Best]
+SLPM-74286  ---  Shin Sangoku Musou 5 Special [PlayStation2 the Best] [Disc 1]
+SLPM-74287  ---  Shin Sangoku Musou 5 Special [PlayStation2 the Best] [Disc 2]
+SLPM-74302  ---  Ryu ga Gotoku 2 [PlayStation 2 the Best - Reprint]
+SLPM-74402  ---  Capcom vs. SNK 2 [PlayStation2 the Best]
+SLPM-74406  ---  World Rally Championship [PlayStation2 the Best]
+SLPM-74411  ---  Culdcept II - Expansion [PlayStation2 the Best]
+SLPM-74416  ---  Clock Tower 3 [PlayStation2 the Best]
+SLPM-74901  ---  Metal Gear Solid 2 - Substance [PlayStation2 the Best]
+SLPM-83770  ---  Persona 3 FES [Append Edition]
+SLPM-84075  ---  Anubis - Zone of the Enders Special Edition [Konami Dendou Collection]
+SLPS-03440  ---  Pachi-Slot Aruze Oukoku 7 [LCD Disc]
+SLPS-20000  ---  AH-64D Apache
 SLPS-20045  ---  Jissen Pachi-Slot Hisshouhou! Juuou [DX Pack]
-SLPS-20078  ---  Generation of Chaos
-SLPS-20089  ---  Gun-Heats
-SLPS-20096  ---  Gambler Densetsu Tetsuya
-SLPS-20110  ---  Mezase! Meimon Yakyuubu 2
-SLPS-20127  ---  Chou! Rakushii Internet Tomodachi Nowa [Type-OS]
-SLPS-20130  ---  New Best Play Professional Baseball
-SLPS-20131  ---  Jissen Pachi-Slot Hisshouhou! Juuou
-SLPS-20135  ---  Pai Chenjan
-SLPS-20140  ---  Dream Audition SuperHit Disc 1
-SLPS-20141  ---  Dream Audition SuperHit Disc 2
-SLPS-20143  ---  RPG Tsukuru 5
-SLPS-20149  ---  Chou! Rakushii Internet Tomodachi Nowa [Broadband]
-SLPS-20158  ---  Yamasa Digi World 2 LCD Edition - Time Cross, Qlogos, Trigger Zone
-SLPS-20168  ---  NHL 2002
-SLPS-20169  ---  Chou! Rakushii Internet Tomodachi Nowa [Type-PG]
-SLPS-20184  ---  Eikan wa Kimi ni 2002 - Koushien no Kodou
-SLPS-20191  ---  Knockout Kings 2002
-SLPS-20202  ---  Coloball 2002
+SLPS-20089  ---  Gun-Heats [Cancelled]
+SLPS-20133  ---  Pro Mahjong Kiwame Next [Value Price]
+SLPS-20149  ---  Chou! Tanoshii Internet Tomodachi no Wa [Broadband]
+SLPS-20169  ---  Chou! Tanoshii Internet Tomodachi no Wa [Type-PG]
+SLPS-20204  ---  Magical Sports - 2001 Koushien [NewPrice]
 SLPS-20209  ---  Jissen Pachi-Slot Hisshouhou! Aladdin A [Limited Edition]
-SLPS-20211  ---  Yamasa Digi World 3 - Time Park, King Pulsar, Cyber Dragon
-SLPS-20213  ---  Hissatsu Pachinko Station V4 - Drumtic Mahjong
-SLPS-20215  ---  Jissen Pachi-Slot Hisshouhou! Aladdin A
-SLPS-20217  ---  Hokka Hoka Sentou
-SLPS-20219  ---  Tsukande! Mawashite! Dossun Pazuru Egg Mania
-SLPS-20220  ---  Pachi-Slot Aruze Oukoku 7 [Disc 1][Ekishou Disc]
+SLPS-20223  ---  Exciting Pro Wrestling 4
+SLPS-20225  ---  Toudai Shogi - ShikenBisha Doujou [MYCOM BEST]
 SLPS-20226  ---  Yamasa Digi World SP DX - Neo Planett XX
-SLPS-20227  ---  Yamasa Digi World SP - Neo Planett XX
+SLPS-20237  ---  Saikyou Toudai Shougi 3
+SLPS-20238  ---  Train Kit for A Ressha de Ikou 2001
 SLPS-20239  ---  Jissen Pachi-Slot Hisshouhou! Moujuuou S [Limited Edition]
-SLPS-20240  ---  Jissen Pachi-Slot Hisshouhou! Moujuuou S
+SLPS-20244  ---  Magical Sports - 2000 Koushien [NewPrice]
 SLPS-20257  ---  Yamasa Digi World 4 DX - Penguin Paradise, Crazy Shaman R, Zakzak Senryoubako R, Destroyer XX, King Pulsar
-SLPS-20258  ---  Yamasa Digi World 4 - Penguin Paradise, Crazy Shaman R, Zakzak Senryoubako R, Destroyer XX, King Pulsar
-SLPS-20266  ---  Baskelian
-SLPS-20279  ---  Hissatsu Pachinko Station v7 - Tensai Bakabon 2
-SLPS-20280  ---  Mahou no Pumpkin
-SLPS-20281  ---  Monopoly - Mezase!! Daifugou Jinsei!!
-SLPS-20285  ---  Slotter Up Core
-SLPS-20288  ---  Saikyoe Toedai Shoegi 2003
-SLPS-20291  ---  Fish Eyes 3
-SLPS-20296  ---  Dugout '03 - The Turning Point
-SLPS-20298  ---  Fever 8 - Sankyo Koushiki Pachinko Simulation
-SLPS-20302  ---  Gokuraku-jong Premium
-SLPS-20303  ---  Inaka Kurasi [Best Collection]
-SLPS-20305  ---  Real Sports Professional Baseball
-SLPS-20311  ---  Primopuel - My Special Partner [Limited Edition]
-SLPS-20312  ---  Primopuel - My Special Partner
-SLPS-20314  ---  Gold X
-SLPS-20315  ---  Yamasa Digi World SP - Neo Magic Pulsar XX
-SLPS-20316  ---  Hissatsu Pachinko Station v8
-SLPS-20318  ---  3D Kakutou Tkool 2 [ebKore]
-SLPS-20331  ---  Fever 9 - Sankyo
-SLPS-20333  ---  Taisen 1 - Shogi
-SLPS-20334  ---  Taisen 2 - Go
-SLPS-20335  ---  Taisen 3 - Mahjong
+SLPS-20274  ---  Eikan ha Kimi ni 2002 - Koushien no Kodou [DigiCube Best Selection]
+SLPS-20303  ---  Inaka Gurashi - Minami no Shima no Monogatari [Best Collection]
+SLPS-20304  ---  Boku ha Chiisai [Best Collection]
+SLPS-20311  ---  Primopuel - Oshaberi Heartner [Limited Edition]
+SLPS-20318  ---  3D Fighter Maker 2 [ebKore]
+SLPS-20324  ---  Daisenryaku 1941 - Gyakuten no Taiheiyou [Sammy best]
+SLPS-20326  ---  Shougi World Champion - Gekisashi 2
+SLPS-20327  ---  Mahjong Haou - Jansou Battle [MYCOM BEST]
+SLPS-20332  ---  Saikyou Toudai Shogi 4
 SLPS-20343  ---  Net de Bomberman
 SLPS-20344  ---  Phantom Brave [Limited Edition]
-SLPS-20347  ---  Saikyou Toudai Shogi 2004
 SLPS-20350  ---  Soccer Life! We are Challengers to Europe
+SLPS-20353  ---  Suki na Mono ha Sukidakara Shouganai FIRST LIMIT & TARGET†NIGHTS Sukisho! Episode ＃01+＃02 [Disc 2 of 2]
 SLPS-20354  ---  Yamasa Digi World 3 [Best of Best]
 SLPS-20355  ---  Yamasa Digi World SP - Neo Planett XX [Best of Best]
 SLPS-20356  ---  Yamasa Digi World 4 [Best of Best]
 SLPS-20362  ---  Kaiketsu Zorro Mezase! Itazura King [Limited Edition]
-SLPS-20366  ---  CR Kamen Rider Pachi-Slot Expert 5
-SLPS-20379  ---  Eikan wa Kimi ni 2004 - Koushien no Kodou [Artdink Best Choice]
 SLPS-20382  ---  Taiko no Tatsujin - Atsumare! Matsuri da!! Yondaime [with Tatacon]
 SLPS-20386  ---  Value 2000 Series - Igo 4
 SLPS-20387  ---  Value 2000 Series - Shogi 4
 SLPS-20389  ---  Saikyou Toudai Shogi 5 [Mycom Best]
-SLPS-20397  ---  Pachitte Chonmage Tatsujin 7 - CR Pachinko Dokaben
-SLPS-20457  ---  Hissatsu Pachislo Evolution 2 - Osomatsu-Kun
-SLPS-20506  ---  Daito Giken Koushiki Pachi-Slot Simulator - 24 - Twenty Four
-SLPS-25071  ---  Visual Mix - Ayumi Hamasaki Dome Tour 2001 [Disc1of2]
-SLPS-25072  ---  Visual Mix - Ayumi Hamasaki Dome Tour 2001 [Disc2of2]
-SLPS-25073  ---  Cinema Surfing - Youga Taizen
-SLPS-25081  ---  Saishuu Densha
-SLPS-25083  ---  Exciting Pro Wres 3 [Genteiban]
-SLPS-25084  ---  Thunder Strike - Operation Phoenix
+SLPS-20427  ---  Pachi-Slot Club Collection - Pachi-Slot da yo Koumon-chama
+SLPS-20502  ---  Zero no Tsukaima - Fantasy Force
+SLPS-20505  ---  FIVB Volleyball World Cup - Venus Evolution [Spike The Best]
+SLPS-20507  ---  Zero no Tsukaima - Fantasy Force 2nd Impact
+SLPS-25061  ---  Mobile Suit Gundam Ver.1.5 [Limited Edition]
+SLPS-25065  ---  Seaman - Kindan no Pet - GassÃ© Hakase no Jikken-tou [with Original MIC]
+SLPS-25071  ---  Visual Mix - Ayumi Hamasaki Dome Tour 2001 [Disc 1 of 2]
+SLPS-25072  ---  Visual Mix - Ayumi Hamasaki Dome Tour 2001 [Disc 2 of 2]
+SLPS-25083  ---  Exciting Pro Wrestling 3 [Limited Editon]
 SLPS-25097  ---  Velvet File Plus
-SLPS-25117  ---  Sankyo Fever 6
 SLPS-25122  ---  Mobile Suit Gundam - Lost War Chronicles [Limited Edition]
-SLPS-25128  ---  Victorious Boxer - Championship Version
-SLPS-25157  ---  Madden NFL Super Bowl 2003
+SLPS-25128  ---  Victorious Boxers - Championship Edition
 SLPS-25160  ---  Final Fantasy XI 2002 [Special Art Box]
-SLPS-25177  ---  Gallop Racer 6 - Revolution
-SLPS-25179  ---  FIFA 2003
-SLPS-25182  ---  Idol Janshi R - Jan-Guru Project [Limited Edition]
-SLPS-25183  ---  Idol Janshi R - Jan-Guru Project
+SLPS-25175  ---  A Ressha de Ikou 2001
 SLPS-25185  ---  Unlimited SaGa [Limited Edition]
 SLPS-25195  ---  Venus & Braves [Premium Pack]
 SLPS-25205  ---  Ys I-II - Eternal Story [Limited Edition]
-SLPS-25221  ---  Pia - Welcome to Carrot 3
+SLPS-25221  ---  Welcome to Pia Carrot!! 3 - eound summer - [First Limited Edition]
 SLPS-25227  ---  Super Robot Wars - Alpha 2nd [Limited Edition]
-SLPS-25255  ---  Sidewinder V [Premium Flight Box]
 SLPS-25272  ---  Hulk, The
-SLPS-25288  ---  D-A - Black [Limited Edition]
-SLPS-25289  ---  Time Crisis 3 [with G-Con 2]
-SLPS-25321  ---  Derby Stallion 2004
-SLPS-25323  ---  Usagi - Yasei no Topai - Yamashiro Mahjong-Hen
+SLPS-25288  ---  D-A - Black [First Limited Edition]
+SLPS-25289  ---  Time Crisis 3 [with Guncon 2]
 SLPS-25326  ---  WWE Smackdown! Here Comes the Pain - Exciting Pro Wrestling 5 [Limited Edition]
-SLPS-25333  ---  Gallop Racer Lucky 7
-SLPS-25335  ---  Shadow Hearts 2 [Disc1of2]
+SLPS-25327  ---  WWE Smackdown! Here Comes the Pain - Exciting Pro Wrestling 5
+SLPS-25335  ---  Shadow Hearts II [Standard Edition] [Disc 2 of 2]
 SLPS-25342  ---  Snow
 SLPS-25344  ---  Saiyuki Reload
-SLPS-25350  ---  Netsu Chu! Pro Baseball 2004
 SLPS-25355  ---  UFC 2004 - Ultimate Fighting Championship
-SLPS-25417  ---  Panzer Front Ausf.B [Enterbrain Collection]
-SLPS-25420  ---  Sinbad Adventure wa Enomoto Kanako de Dou desu ka
+SLPS-25417  ---  Panzer Front Ausf.B [ebKore]
+SLPS-25420  ---  Sindbad Adventure wa Enomoto Kanako de Doudesuka
 SLPS-25434  ---  Rhapsody of Zephyr, The [Best Collection]
-SLPS-25482  ---  Yuki Katari [Renewal Version]
+SLPS-25482  ---  Yuki Gatari [Renewal Version]
 SLPS-25538  ---  Super Robot Wars - Alpha [Premium Pack]
-SLPS-25602  ---  Hisshou Pachinko-Pachislot Kouryaku Series Vol.2 - Bomber Powerful & Yume Yume World DX
+SLPS-25563  ---  Hitman - Contracts [Eidos Best]
+SLPS-25594  ---  Gold Gashbell!! - Go!Go! Mamono Fight [with Multi-Tap for Old ver.PS2]
+SLPS-25595  ---  Gold Gashbell!! - Go!Go! Mamono Fight [with Multi-Tap for Slim ver.PS2]
+SLPS-25602  ---  Hisshou Pachinko Pachi-Slot Kouryaku Series Vol. 2 - Bomber Powerfull & Yume Yume World DX
 SLPS-25618  ---  D-A - Black [Best Price]
 SLPS-25619  ---  D-A - White [Best Price]
-SLPS-25648  ---  Hisshou Pachinko-Pachislot Kouryaku Series Vol.5 - CR Shinseiki Evangelion Second Impact & Pachisuro Shinseiki Evangelion
-SLPS-25666  ---  Sakura Zakashobotai [Irem Best]
+SLPS-25625  ---  Futakoijima - Koi to Mizugi no Survival [Futakoi Collection] [Dengeki SP]
+SLPS-25648  ---  Hisshou Pachinko Pachi-Slot Kouryaku Series Vol. 5 - CR Shinseiki Evangelion Second Impact & Pachisuro Shinseiki Evangelion
+SLPS-25666  ---  Sakurazaka Shouboutai [Irem COLLECTION]
+SLPS-25706  ---  Eureka Seven - New Vision [Welcome Price 2800]
+SLPS-25731  ---  Armored Core 2 [MACHINE SIDE BOX]
+SLPS-25732  ---  Armored Core 3 [MACHINE SIDE BOX]
+SLPS-25755  ---  .hack//G.U. Vol.1 - Saitan
 SLPS-25863  ---  Fatal Fury - Battle Archives 1 [SNK the Best]
 SLPS-25864  ---  Fatal Fury - Battle Archives 2 [SNK the Best]
 SLPS-25865  ---  King of Fighters, The - Nests [SNK the Best]
 SLPS-25866  ---  Fuuun Super Combo [SNK the Best]
-SLPS-25869  ---  CR Shinseiki Evangelion - Shito, Futatabi
-SLPS-25872  ---  Daisenryaku - Daitoua Kouboushi - Tora Tora Tora Ware Kishuu ni Seikou Seri
-SLPS-25885  ---   Guitar Hero - Aerosmith on Tour [with Guitar]
-SLPS-25890  ---  Guitar Hero III - Legends of Rock [with Guitar]
-SLPS-25893  ---  Zero no Tsukaima - Muma ga Tsumugu Yokaze no Fantasy [PlayStation 2 The Best]
-SLPS-25897  ---  Zero no Tsukaima - Maigo no Period to Ikusen no Symphony [Limited Edition]
-SLPS-25898  ---  Zero no Tsukaima - Maigo no Period to Ikusen no Symphony
-SLPS-25909  ---  Hisshou Pachinko Pachi-Slot Kouryaku Series Vol. 13 - Shin Seiki Evangelion - Yakusoku no Toki
-SLPS-25919  ---  Sengoku Tenka Touitsu
-SLPS-25930  ---  Major League Baseball 2K9
+SLPS-25876  ---  Shin Bokujou Monogatari - Pure Innocent Life [Best Collection]
+SLPS-25877  ---  Busou Renkin - Youkoso Papillon Park e [Best Collection]
+SLPS-25885  ---  Lego Indiana Jones: The Original Adventures [Cancelled]
+SLPS-25890  ---  Guitar Hero III - Legends of Rock [Only Soft]
+SLPS-25893  ---  Zero no Tsukaima - Muma ga Tsumugu Yokaze no Gensoukyoku [PlayStation2 The Best]
+SLPS-25898  ---  Zero no Tsukaima - Maigo no Period to Ikusen no Symphony [St andard Edition]
+SLPS-25903  ---  The Magician's Academy [ebKore]
+SLPS-25911  ---  Hisshou Pachinko Pachi-Slot Kouryaku Series Vol.11 - Shinseiki Evangelion - Magokoro wo, Kimi ni [Special Price Edition]
+SLPS-25924  ---  NBA 2K9
 SLPS-25934  ---  Samurai Spirits - Rokuban Shoubu [NeoGeo Online Collection the Best]
-SLPS-25935  ---  King of Fighters '98 Ultimate Match, The [NeoGeo Online Collection the Best]
-SLPS-25943  ---  Hisshou Pachinko Pachi-Slot Kouryaku Series Vol. 14 - CR Shin Seiki Evangelion - Saigo no Shisha [Gentei Special Box]
+SLPS-25935  ---  King of Fighters '98, The - Ultimate Match [NeoGeo Online Collection the Best]
+SLPS-25936  ---  NeoGeo Online Collection Vol. 11 - Sunsoft Collection
+SLPS-25938  ---  King of Fighters, The - Maximum Impact Regulation A [SNK Best Collection]
+SLPS-25943  ---  Hisshou Pachinko Pachi-Slot Kouryaku Series Vol.14 - CR Shinseiki Evangelion - Saigo no Shisha [Limited Edition]
 SLPS-25948  ---  Zero no Tsukaima - Maigo no Period to Ikusen no Symphony [Best Collection]
-SLPS-25959  ---  Kidou Senshi Gundam - Giren no Yabou - Axis no Kyoui V
-SLPS-25961  ---  Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T.
+SLPS-25953  ---  Dai Senryaku VII - Exceed
+SLPS-25954  ---  Taiheiyou no Arashi - Senkan Yamato, Akatsuki ni Shutsugeki su [SYSTEMSOFT Selection]
+SLPS-25959  ---  Kidou Senshi Gundam - Giren no Yabou - Axis no Kyoui V [GUNDAM 30th ANNIVERSARY COLLECTION]
+SLPS-25961  ---  Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T. [GUNDAM 30th ANNIVERSARY COLLECTION]
+SLPS-25962  ---  Kidou Senshi Gundam 00 - Gundam Meisters [GUNDAM 30th ANNIVERSARY COLLECTION]
+SLPS-25971  ---  NegGeo Online Collection Complete Box 02 Bakumatsu Roman - Last Blade 2-in-1
+SLPS-25972  ---  NegGeo Online Collection Complete Box 02 The King of Fighters - Orochi Collection
+SLPS-25973  ---  NegGeo Online Collection Complete Box 02 King of Fighters, The - Nests
+SLPS-25974  ---  NegGeo Online Collection Complete Box 02 Fuuun Super Combo
+SLPS-25975  ---  NegGeo Online Collection Complete Box 02 World Heroes - Gorgeous
+SLPS-25976  ---  NegGeo Online Collection Complete Box 02 King of Fighters '98 Ultimate Match, The
+SLPS-25977  ---  Moe Moe 2ji Taisen(Ryaku) Deluxe [SYSTEMSOFT Selection]
+SLPS-25981  ---  Daisenryaku - Daitoua Kouboushi - Tora Tora Tora Ware Kishuu ni Seikou Seri
+SLPS-25982  ---  Tir-Na-Nog - Yuukyuu no Jin [SYSTEMSOFT Selection]
 SLPS-29001  ---  Xenosaga Episode 1 - Der Wille zur Macht [Premium Box]
-SLPS-73206  ---  Super Robot Taisen Alpha 2nd [PlayStation 2 The Best]
-SLPS-73215  ---  Shadow Hearts 2 [Director's Cut] [PlayStation 2 The Best] [Disc2of2]
-SLPS-73228  ---  Fuuun Bakumatsuden [PlayStation 2 The Best]
-SLPS-73231  ---  dot hack - Vol.1 & Vol.2 [PlayStation 2 The Best] [Vol.2 Disc]
+SLPS-71502  ---  Ridge Racer V [MEGA HITS!]
+SLPS-73001  ---  Pilot ni Narou! 2
+SLPS-73004  ---  Gambler Densetsu Tetsuya [PlayStation2 the Best]
+SLPS-73007  ---  Kamaitachi no Yoru 2 - Kangokujima no Warabe Uta [Special Movie]
+SLPS-73206  ---  Super Robot Taisen Alpha 2nd [PlayStation2 the Best]
+SLPS-73215  ---  Shadow Hearts II [Director's Cut] [PlayStation2 the Best] [Disc 2 of 2]
+SLPS-73228  ---  Fuuun Bakumatsu-den [PlayStation2 the Best]
+SLPS-73231  ---  .hack Vol.1 & Vol.2 [PlayStation2 the Best] [Vol.2 Disc]
+SLPS-73259  ---  .hack//G.U. Vol.1 - Rebirth [PlayStation2 the Best]
+SLPS-73265  ---  Kagero 2 - Dark Illusion [PlayStation2 the Best]
+SLPS-73266  ---  .hack//G.U. Vol.2 - Kimi Omou Koe [PlayStation2 the Best]
+SLPS-73267  ---  .hack//G.U. Vol.3 - Aruku Youna Hayasa de [PlayStation2 the Best]
 SLPS-73269  ---  Kidou Senshi Gundam SEED - Rengou vs. Z.A.F.T.
-SLPS-73401  ---  Victorious Boxers - Championship Edition [PlayStation 2 The Best]
-SLPS-73402  ---  Shutokou Battle 0 [PlayStation 2 The Best]
-SLPS-73407  ---  Sidewinder MAX [PlayStation 2 The Best]
-SLPS-73408  ---  7 (Seven) - Molmorth no Kiheitai [PlayStation 2 the Best]
-SLPS-73412  ---  Vampire Night [PlayStation 2 The Best]
-SLPS-73416  ---  Super Robot Wars - Impact [PlayStation 2 The Best]
-SLPS-73422  ---  Ultraman Fighting Evolution 2 [PlayStation 2 The Best]
-SLPS-73901  ---  Xenosaga Episode 1 - Der Wille zur Macht [PlayStation 2 The Best]
-SLUS-20444  ---  Tankers
+SLPS-73270  ---  Super Robot Taisen Z [PlayStation2 the Best]
+SLPS-73401  ---  Victorious Boxers - Championship Edition [PlayStation2 the Best]
+SLPS-73402  ---  Shutokou Battle 0 [PlayStation2 the Best]
+SLPS-73407  ---  Sidewinder MAX [PlayStation2 the Best]
+SLPS-73408  ---  7 (Seven) - Molmorth no Kiheitai [PlayStation2 the Best]
+SLPS-73409  ---  Exciting Pro Wrestling 3
+SLPS-73412  ---  Vampire Night [PlayStation2 the Best]
+SLPS-73416  ---  Super Robot Wars - Impact [PlayStation2 the Best]
+SLPS-73422  ---  Ultraman Fighting Evolution 2 [PlayStation2 the Best]
+SLPS-73901  ---  Xenosaga Episode 1 - Der Wille zur Macht [PlayStation2 the Best]
+SLUF-20921  ---  ESPN NHL 2K5
 SLUS-20466  ---  Gravenville - Ghost Master
 SLUS-20526  ---  RockSteady ~~UNRELEASED~~
 SLUS-20544  ---  Malice
-SLUS-20699  ---  Cowboy Bebop - Tsuioku no Serenade
-SLUS-20798  ---  Starcraft - Ghost
-SLUS-20813  ---  Plague of Darkness
-SLUS-20897  ---  Swords of Yi
+SLUS-20600  ---  SX Superstar
 SLUS-20972  ---  Samurai Shodown V
 SLUS-21053  ---  Disney's Stitch - Experiment 626
-SLUS-21056  ---  Cabal, The ~~CANCELLED~~
 SLUS-21146  ---  Far East of Eden
 SLUS-21160  ---  Tekken 5 [Demo]
 SLUS-21169  ---  Rollercoaster Tycoon - The Peeps
 SLUS-21226  ---  Velocity
 SLUS-21247  ---  Jackie Chan Adventures
 SLUS-21249  ---  Yourself! Fitness - Lifestyle
+SLUS-21257  ---  Need for Speed - Most Wanted
 SLUS-21371  ---  Rapala Pro Tournament Fishing
 SLUS-21411  ---  M2 Rock
-SLUS-21468  ---  Charlie Brown's All-Stars [Cancelled]
 SLUS-21472  ---  World Pool Challenge '06
 SLUS-21565  ---  Pirates of the Caribbean - At World's End
-SLUS-21617  ---  Spiderman 3
+SLUS-21617  ---  Spider-Man 3
 SLUS-21651  ---  Noddy and the Magic Book
 SLUS-21654  ---  Kane & Lynch - Dead Men [Sneak Preview]
 SLUS-21713  ---  Winter Sports 2008 - The Ultimate Challenge
+SLUS-27014  ---  WWE SmackDown! vs Raw - Superstar Series [Bundle]
 SLUS-27029  ---  Disney Sing It [Bundle]
 SLUS-27030  ---  High School Musical 3 - Senior Year DANCE! [w-Mat]
 SLUS-27034  ---  Disney Sing It! High School Musical 3 - Senior Year
@@ -1484,24 +2419,24 @@ SLUS-28010  ---  Star Wars - Jedi Starfighter [Trade Demo]
 SLUS-28012  ---  Tekken 4 [Trade Demo]
 SLUS-28013  ---  Dual Hearts [Trade Demo]
 SLUS-28014  ---  Matt Hoffman's Pro BMX 2 [Trade Demo]
-SLUS-28015  ---  Gun Grave [Trade Demo]
+SLUS-28015  ---  Gungrave [Trade Demo]
 SLUS-28016  ---  Shinobi [Trade Demo]
 SLUS-28019  ---  Haven - Call of the King [Trade Demo]
-SLUS-28020  ---  Everquest Online Adventures [Beta Vol.1.0]
-SLUS-28021  ---  Everquest Online Adventures [Beta Vol.2.0]
-SLUS-28023  ---  dot hack - Infection Part 1 [Trade Demo]
+SLUS-28020  ---  EverQuest Online Adventures [Beta Vol.1.0]
+SLUS-28021  ---  EverQuest Online Adventures [Beta Vol.2.0]
+SLUS-28023  ---  .hack Infection Part 1 [Trade Demo]
 SLUS-28025  ---  Disaster Report [Trade Demo]
-SLUS-28026  ---  Everquest Online Adventures [Beta Vol.3.0]
+SLUS-28026  ---  EverQuest Online Adventures [Beta Vol.3.0]
 SLUS-28027  ---  Black & Bruised [Trade Demo]
-SLUS-28029  ---  High Heat - Major League Baseball 2004 [Trade Demo]
+SLUS-28029  ---  High Heat Major League Baseball 2004 [Trade Demo]
 SLUS-28031  ---  Auto Modellista - Public Beta Volume 2.0
-SLUS-28032  ---  dot hack - Mutation Part 2 [Trade Demo]
+SLUS-28032  ---  .hack Mutation Part 2 [Trade Demo]
 SLUS-28034  ---  Disgaea - Hour of Darkness [Trade Demo]
 SLUS-28037  ---  Kya - Dark Lineage [Trade Demo]
 SLUS-28039  ---  Rogue Ops [Trade Demo]
-SLUS-28040  ---  Transformers [Trade Demo]
+SLUS-28040  ---  Transformers [2004] [Trade Demo]
 SLUS-28043  ---  Test Drive - Eve of Destruction [Trade Demo]
-SLUS-28044  ---  Choro Q [Trade Demo]
+SLUS-28044  ---  ChoroQ [Trade Demo]
 SLUS-28046  ---  Guilty Gear Isuka [Trade Demo]
 SLUS-28050  ---  Stella Deus - The Gate of Eternity [Trade Demo]
 SLUS-28051  ---  Samurai Western [Trade Demo]
@@ -1521,7 +2456,7 @@ SLUS-29001  ---  ESPN Winter Games Snowboarding [Demo]
 SLUS-29003  ---  Metal Gear Solid 2 - Sons of Liberty [Demo]
 SLUS-29004  ---  Unison & Dead or Alive 2 Hardcore [Demo]
 SLUS-29005  ---  Red Faction [Regular Demo]
-SLUS-29006  ---  MX 2002 - featuring Ricky Carmichael [Demo]
+SLUS-29006  ---  MX 2002 featuring Ricky Carmichael [Demo]
 SLUS-29007  ---  Arctic Thunder [Demo]
 SLUS-29008  ---  ESPN X Games Skateboarding [Demo]
 SLUS-29009  ---  Devil May Cry [Demo]
@@ -1531,56 +2466,56 @@ SLUS-29012  ---  Top Gun - Combat Zones [Demo]
 SLUS-29013  ---  Victorious Boxers - Ippo's Road to Glory [Demo]
 SLUS-29014  ---  Half-Life [Demo]
 SLUS-29015  ---  Dark Summit [Demo]
-SLUS-29016  ---  X-Games Winter SnoCross + ESPN International Winter Sports 2002 + Winter X Games Snowboarding 2002 [Demo]
+SLUS-29016  ---  X Games Winter SnoCross + ESPN International Winter Sports 2002 + Winter X Games Snowboarding 2002 [Demo]
 SLUS-29017  ---  AirBlade [Demo]
-SLUS-29019  ---  High Heat - Major League Baseball 2003 [Demo]
+SLUS-29019  ---  High Heat Major League Baseball 2003 [Demo]
 SLUS-29020  ---  Sky Gunner [Regular Demo]
 SLUS-29021  ---  Aggressive Inline [Demo]
 SLUS-29022  ---  UFC - Throwdown [Regular Demo]
-SLUS-29025  ---  R.A.D. - Robot Alchemic Drive [Demo]
+SLUS-29025  ---  Robot Alchemic Drive - R.A.D. [Demo]
 SLUS-29026  ---  MX SuperFly [Demo]
 SLUS-29027  ---  Red Faction II [Demo]
 SLUS-29029  ---  Summoner 2 [Demo]
-SLUS-29030  ---  FireBlade [Demo]
+SLUS-29030  ---  Fire Blade [Demo]
 SLUS-29032  ---  Egg Mania - Eggstreme Madness [Demo]
 SLUS-29033  ---  Dual Hearts [Regular Demo]
 SLUS-29034  ---  Tekken 4 [Regular Demo]
 SLUS-29035  ---  Eidos Demo Disc
-SLUS-29036  ---  Scorpion King, The - Rise of the Akkadian [Demo]
+SLUS-29036  ---  The Scorpion King - Rise of the Akkadian [Demo]
 SLUS-29037  ---  DDRMAX Dance Dance Revolution [Demo]
 SLUS-29038  ---  Haven - Call of the King [Regular Demo]
 SLUS-29040  ---  Dr. Muto [Demo]
-SLUS-29042  ---  dot hack - Infection Part 1 [Regular Demo]
+SLUS-29042  ---  .hack Infection Part 1 [Regular Demo]
 SLUS-29044  ---  Pride FC - Fighting Championships [Demo]
 SLUS-29045  ---  Black & Bruised [Regular Demo]
 SLUS-29047  ---  Def Jam - Vendetta [Demo]
-SLUS-29048  ---  Splinter Cell [Demo]
+SLUS-29048  ---  Tom Clancy's Splinter Cell [Demo]
 SLUS-29049  ---  Warhammer 40,000 - Fire Warrior [Demo]
-SLUS-29050  ---  Everquest Online Adventures [Regular Demo]
+SLUS-29050  ---  EverQuest Online Adventures [Regular Demo]
 SLUS-29053  ---  NBA Street Vol.2 [Demo]
 SLUS-29054  ---  Splashdown - Rides Gone Wild [Demo]
-SLUS-29055  ---  dot hack - Mutation Part 2 [Regular Demo]
+SLUS-29055  ---  .hack Mutation Part 2 [Regular Demo]
 SLUS-29056  ---  Alter Echo [Demo]
-SLUS-29058  ---  Soul Calibur II [Demo]
-SLUS-29059  ---  Hunter the Reckoning - Wayward [Demo]
+SLUS-29058  ---  SoulCalibur II [Demo]
+SLUS-29059  ---  Hunter - The Reckoning - Wayward [Demo]
 SLUS-29060  ---  Gladius [Demo]
 SLUS-29061  ---  Freaky Flyers [Demo]
-SLUS-29063  ---  Everquest Online Adventures - Frontiers [Public Beta Ver.1.0]
-SLUS-29065  ---  dot hack - Outbreak Part 3 [Demo]
-SLUS-29067  ---  Tak and the Power of Juju [Demo]
+SLUS-29063  ---  EverQuest Online Adventures - Frontiers [Public Beta Ver.1.0]
+SLUS-29065  ---  .hack Outbreak Part 3 [Demo]
 SLUS-29068  ---  Crash Nitro Kart [Demo]
 SLUS-29069  ---  Prince of Persia - The Sands of Time [Demo]
 SLUS-29070  ---  XIII [Demo]
-SLUS-29071  ---  Namco Transmission Demo Disc v1.03 [Regular Release]
+SLUS-29071  ---  Namco Transmission Demo Disc V1.03 [Regular Release]
 SLUS-29073  ---  Need for Speed - Underground [Demo]
 SLUS-29074  ---  DDRMAX2 Dance Dance Revolution [Demo]
 SLUS-29077  ---  I-Ninja [Demo]
 SLUS-29079  ---  NCAA March Madness 2004 [Demo]
 SLUS-29080  ---  Whiplash [Demo]
 SLUS-29081  ---  Metal Arms - Glitch in the System [Demo]
-SLUS-29082  ---  Beyond Good and Evil [Demo]
+SLUS-29082  ---  Beyond Good & Evil [Demo]
 SLUS-29083  ---  Maximo vs. The Army of Zin [Demo]
-SLUS-29084  ---  dot hack - Quarantine Part 4 [Demo]
+SLUS-29084  ---  .hack Quarantine Part 4 [Demo]
+SLUS-29085  ---  Champions of Norrath - Realms of EverQuest [Public Beta Volume 1.0]
 SLUS-29086  ---  FIFA Soccer 2004 [Demo]
 SLUS-29087  ---  Square Enix Sampler Disc Vol.1 - Drakengard Playable Demo
 SLUS-29088  ---  Champions of Norrath - Realms of EverQuest [Demo]
@@ -1592,8 +2527,8 @@ SLUS-29098  ---  Square Enix Sampler Disc Vol.2 - Front Mission 4 Playable Demo
 SLUS-29100  ---  Ribbit King [Demo]
 SLUS-29101  ---  Crash Twinsanity & Spyro - A Hero's Tail [Demo]
 SLUS-29104  ---  Galactic Wrestling - Featuring Ultimate Muscle [Demo]
-SLUS-29107  ---  Transformers [Regular Demo]
-SLUS-29108  ---  Def Jam - Fight For NY [Demo]
+SLUS-29107  ---  Transformers [2004] [Regular Demo]
+SLUS-29108  ---  Def Jam - Fight for NY [Demo]
 SLUS-29110  ---  Monster Hunter [Public Beta Vol.1 - Ver.1.01]
 SLUS-29111  ---  Asterix & Obelix - Kick Buttix [Demo]
 SLUS-29116  ---  WWE SmackDown! vs. RAW [Public Beta Vol.1.0]
@@ -1605,83 +2540,84 @@ SLUS-29125  ---  Konami Preview Disc
 SLUS-29126  ---  Champions - Return to Arms [Demo]
 SLUS-29129  ---  25 to Life [Public Beta Vol.1.0]
 SLUS-29130  ---  Crash 'N' Burn [Public Beta Vol.1.0]
-SLUS-29131  ---  Project Snowblind [Public Beta Vol.1.0]
+SLUS-29131  ---  Project - Snowblind [Public Beta Vol.1.0]
 SLUS-29132  ---  S.L.A.I. - Steel Lancer Arena International - Phantom Crash [Public Beta Vol.1.0]
+SLUS-29133  ---  Namco Transmission Demo Disc Vol.2
 SLUS-29135  ---  NCAA March Madness 2005 [Demo]
-SLUS-29137  ---  Mercenaries [Demo]
-SLUS-29138  ---  Punisher, The [Demo]
+SLUS-29137  ---  Mercenaries - Playground of Destruction [Demo]
+SLUS-29138  ---  The Punisher [Demo]
 SLUS-29139  ---  Shadow of Rome [Demo]
 SLUS-29140  ---  MX vs. ATV Unleashed [Demo]
 SLUS-29141  ---  NBA Street V3 [Demo]
 SLUS-29145  ---  Final Night - Round 2 [Demo]
-SLUS-29148  ---  Incredible Hulk, The - Ultimate Destruction [Demo]
+SLUS-29147  ---  Juiced
+SLUS-29148  ---  The Incredible Hulk - Ultimate Destruction [Demo]
 SLUS-29149  ---  Flipnic - Ultimate Pinball [Demo]
 SLUS-29150  ---  Destroy All Humans! [Demo]
+SLUS-29151  ---  Enthusia Professional Racing
 SLUS-29152  ---  Battlefield 2 - Modern Combat [Regular Demo]
-SLUS-29154  ---  NHL '06 [Demo]
+SLUS-29154  ---  NHL 06 [Demo]
 SLUS-29155  ---  Need for Speed - Most Wanted [Demo]
 SLUS-29156  ---  Marvel Nemesis - Rise of the Imperfects [Demo]
 SLUS-29157  ---  Dragon Quest VIII - Journey of the Cursed King [Demo]
 SLUS-29159  ---  One Piece - Grand Battle [Demo]
 SLUS-29161  ---  SSX On Tour [Demo]
-SLUS-29162  ---  NBA Live '06 [Demo]
-SLUS-29163  ---  NCAA March Madness '06 [Demo]
-SLUS-29164  ---  Star Wars Battlefront II [Online Public Beta]
+SLUS-29162  ---  NBA Live 06 [Demo]
+SLUS-29163  ---  NCAA March Madness 06 [Demo]
+SLUS-29164  ---  Star Wars - Battlefront II [Online Public Beta]
 SLUS-29167  ---  007 - From Russia with Love, Need for Speed - Most Wanted, SSX World Tour [Demo]
 SLUS-29168  ---  007 - From Russia with Love [Demo]
 SLUS-29170  ---  Total Overdose - A Gunslinger's Tale in Mexico [Demo]
 SLUS-29171  ---  Final Fantasy XII [Demo]
 SLUS-29172  ---  Battlefield 2 - Modern Combat [Demo]
-SLUS-29173  ---  Sims 2, The [Demo]
-SLUS-29178  ---  TOCA Race Driver 3 [Demo]
+SLUS-29173  ---  The Sims 2 [Demo]
+SLUS-29177  ---  Guitar Hero [Demo]
+SLUS-29178  ---  TOCA Race Driver 3 - The Ultimate Racing Simulator [Demo]
 SLUS-29179  ---  Sonic Riders [Demo]
-SLUS-29183  ---  Fight Night - Round 3 [Demo]
+SLUS-29183  ---  Fight Night Round 3 [Demo]
 SLUS-29185  ---  Driver - Parallel Lines [Demo]
 SLUS-29188  ---  Steambot Chronicles [Regular Demo]
 SLUS-29189  ---  FIFA World Cup - Germany 2006 [Demo]
 SLUS-29191  ---  Hitman - Blood Money & Urban Chaos [Demo]
 SLUS-29192  ---  Test Drive Unlimited [Public Beta Vol.1.0]
 SLUS-29193  ---  Need for Speed - Carbon [Demo]
-SLUS-29194  ---  FIFA '07 [Demo]
-SLUS-29197  ---  Flushed Away [Demo]
+SLUS-29194  ---  FIFA 07 [Demo]
+SLUS-29197  ---  DreamWorks & Aardman Flushed Away [Demo]
 SLUS-29198  ---  Guitar Hero II [Demo]
-SLUS-29199  ---  dot hack - G.U. Vol.1 - Rebirth [Demo]
+SLUS-29199  ---  .hack//G.U. Vol.1 - Rebirth [Demo]
 SLUS-29200  ---  FIFA Soccer 08 [Demo]
-SLUS-80421  ---  Resident Evil 2 [Demo]
-SLUS-90009  ---  Resident Evil 2 [Trade Demo]
-SLUS-97133  ---  Getaway, The
-SLUS-97405  ---  ATV Offroad Fury 3 [Greatest Hits]
-SLUS-97657  ---  MLB 11 - The Show
-TCES-51613  ---  This Is Football 2004 Beta Trial Code
-TCES-51904  ---  SOCOM II - U.S. Navy SEALs Beta Trial Code
-TCES-52004  ---  Killzone Beta Trial Code
-TCES-52033  ---  Syphon Filter - The Omega Strain Beta Trial Code
-TCES-52042  ---  Formula One 04 Beta Trial Code
+SLUS-29201  ---  FIFA Soccer 08
+SLUS-97405  ---  ATV Offroad Fury 3
 TCES-52389  ---  World Rally Championship 4 Beta Trial Code
-TCES-52456  ---  Ratchet and Clank 3 Beta Trial Code
-TCES-52582  ---  Everybody's Golf 4 Beta Trial Code
-TCES-53033  ---  Formula One 05 Beta Trial Code
-TCES-53247  ---  WRC - Rally Evolved Beta Trial Code
+TCES-52456  ---  Ratchet & Clank 3 Beta Trial Code
+TCPS-10060  ---  US Open 2002 - A USTA Event
 TCPS-10068  ---  Densha de Go! Ryojou-hen [with Controller]
+TCPS-10073  ---  Energy Airforce - Aim Strike! [TAITO 2002]
 TCPS-10074  ---  Space Invaders 25th Anniversary Bundle
 TCPS-10075  ---  Takahashi Naoko no Marathon Shiyou yo!
+TCPS-10086  ---  Rakugaki Oukoku 2 - Maoh jou no Tatakai
+TCPS-10092  ---  Spider-Man 2
 TCPS-10094  ---  Ys III - Wanderers from Ys
 TCPS-10107  ---  Giga Wing Generations
-TCPS-10111  ---  Erementar Gerad
 TCPS-10113  ---  Mushihime-sama
+TCPS-10115  ---  Taito Memories - Joukan
+TCPS-10124  ---  Taito Memories - Joukan
+TCPS-10127  ---  Spider-Man 2 [TAITO BEST]
 TCPS-10132  ---  Psychic Force Complete
-TCPS-10147  ---  Zero Shikikan Josentoki Ni
-TCPS-10152  ---  Rozen Maiden - Duellwalzer
-TCPS-10154  ---  Ys V - Lost Kefin - Kingdom of Sand
+TCPS-10147  ---  Rei-Shiki Kanjou Sentouki Ni
+TCPS-10150  ---  Rakugaki Oukoku 2 - Maoh jou no Tatakai [TAITO BEST]
+TCPS-10152  ---  Rozen Maiden - Duellwalzer [Standard Edition]
+TCPS-10154  ---  Ys V - Lost Kefin, Kingdom of Sand
+TCPS-10158  ---  Ultimate Spider-Man
 TCPS-10159  ---  Suzuki TT Super Bikes - Real Road Racing
+TCPS-10160  ---  Taito Memories - Joukan [TAITO BEST]
+TCPS-10164  ---  Taito Memories - Gekan [TAITO BEST]
 TCPS-10166  ---  Wizardry Gaiden - Sentou no Kangoku - Prisoners of the Battles
-TCPS-10168  ---  Mushihime-sama [Taito The Best]
-TCPS-10172  ---  Homura [Taito the Best]
+TCPS-10168  ---  Mushihime-sama [TAITO BEST]
+TCPS-10172  ---  Homura [TAITO BEST]
+TCPS-10178  ---  Taito Memories II - Joukan
+TCPS-10181  ---  Rozen Maiden - Gebetgarten [Standard Edition]
 TCPS-10182  ---  Rozen Maiden - Gebetgarten [Limited Edition]
 TCPS-10183  ---  Taito Memories II - Gekan
-TLES-52149  ---  Splinter Cell - Pandora Tomorrow Beta Trial Code
-TLES-52707  ---  Monster Hunter Beta Trial Code
-TLES-52781  ---  WWE - Smackdown Vs Raw Beta Trial Code
 TLES-53544  ---  Pro Evolution Soccer 5 Beta Trial Code
-TLES-54240  ---  FIFA 07 Beta Trial Code
 TLES-82043  ---  Metal Gear Solid Subsistence Beta Trial Code
