@@ -756,7 +756,6 @@ SCKA-14001  ---  Gangcheol Gigap Sadan - Online Battlefield
 SCKA-20001  ---  XI5 - Aqui Ohyeongje
 SCKA-20002  ---  Time Crisis II
 SCKA-20003  ---  War of the Monsters
-SCKA-20011  ---  Ratchet & Clank - Tool Warrior Jackpot
 SCKA-20013  ---  SOCOM - U.S. Navy SEALs
 SCKA-20017  ---  EyeToy - Play
 SCKA-20018  ---  The Getaway
