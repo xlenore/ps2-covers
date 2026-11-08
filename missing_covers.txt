@@ -708,7 +708,6 @@ SCES-54701  ---  Buzz! Junior - RoboJam
 SCES-54704  ---  Monsterspass
 SCES-54750  ---  Buzz! Junior - Dino Den
 SCES-54764  ---  SingStar - Pop Hits 2
-SCES-54773  ---  SingStar - Pop Hits
 SCES-54851  ---  Buzz! The Hollywood Quiz
 SCES-54854  ---  Buzz! Hollywood Quiz
 SCES-54856  ---  Buzz! The Hollywood Quiz
